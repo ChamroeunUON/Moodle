@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roles>
+  <role_overrides>
+    <override id="1235">
+      <roleid>5</roleid>
+      <capability>enrol/self:unenrolself</capability>
+      <permission>-1</permission>
+      <timemodified>1471138599</timemodified>
+      <modifierid>3</modifierid>
+    </override>
+    <override id="1236">
+      <roleid>4</roleid>
+      <capability>mod/assign:addinstance</capability>
+      <permission>1</permission>
+      <timemodified>1471138599</timemodified>
+      <modifierid>3</modifierid>
+    </override>
+    <override id="1237">
+      <roleid>4</roleid>
+      <capability>enrol/authorize:manage</capability>
+      <permission>1</permission>
+      <timemodified>1471138599</timemodified>
+      <modifierid>3</modifierid>
+    </override>
+    <override id="1238">
+      <roleid>4</roleid>
+      <capability>enrol/manual:enrol</capability>
+      <permission>1</permission>
+      <timemodified>1471138599</timemodified>
+      <modifierid>3</modifierid>
+    </override>
+    <override id="1239">
+      <roleid>4</roleid>
+      <capability>enrol/manual:manage</capability>
+      <permission>1</permission>
+      <timemodified>1471138599</timemodified>
+      <modifierid>3</modifierid>
+    </override>
+    <override id="1240">
+      <roleid>4</roleid>
+      <capability>enrol/manual:unenrol</capability>
+      <permission>1</permission>
+      <timemodified>1471138599</timemodified>
+      <modifierid>3</modifierid>
+    </override>
+    <override id="1241">
+      <roleid>4</roleid>
+      <capability>gradeimport/csv:view</capability>
+      <permission>1</permission>
+      <timemodified>1471138599</timemodified>
+      <modifierid>3</modifierid>
+    </override>
+    <override id="1242">
+      <roleid>1</roleid>
+      <capability>moodle/course:ignorefilesizelimits</capability>
+      <permission>1</permission>
+      <timemodified>1471138599</timemodified>
+      <modifierid>3</modifierid>
+    </override>
+    <override id="1243">
+      <roleid>5</roleid>
+      <capability>block/online_users:viewlist</capability>
+      <permission>-1</permission>
+      <timemodified>1471138599</timemodified>
+      <modifierid>3</modifierid>
+    </override>
+  </role_overrides>
+  <role_assignments>
+  </role_assignments>
+</roles>

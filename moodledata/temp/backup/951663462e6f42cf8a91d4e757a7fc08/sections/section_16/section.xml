@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="16">
+  <number>2</number>
+  <name>Course Roles</name>
+  <summary>In Moodle, each user is assigned at least one role (multiple roles can be assigned). Different roles create different experiences within Moodle. In this section, you will learn about the various roles, how those roles experience Moodle and what each role can do. &amp;nbsp;As you work through this section, please pay particular attention to the ability that each role has. To get started, click on the term Course Roles above. &amp;nbsp; &amp;nbsp; (&lt;i&gt;&lt;u&gt;This is a common practice in Moodle. Clicking on a topic title will take you to that topic&lt;/u&gt;&lt;/i&gt;).&amp;nbsp;&lt;br&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>10,11,12</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+</section>

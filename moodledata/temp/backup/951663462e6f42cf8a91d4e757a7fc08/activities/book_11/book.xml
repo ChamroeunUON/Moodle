@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="11" modulename="book" contextid="59">
+  <book id="1">
+    <name>Course Roles</name>
+    <intro>This provides information about course roles.&amp;nbsp;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1404412896</timecreated>
+    <timemodified>1404412896</timemodified>
+    <chapters>
+      <chapter id="1">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Roles</title>
+        <content>Just as in a classroom in a school, there are several roles available within Moodle. Here is an overview of the roles:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;li style="line-height: 24px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;Site administrator&amp;nbsp;- can "do everything" on the site&lt;/li&gt;&lt;li style="line-height: 24px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;Manager&amp;nbsp;- a lesser administrator role&lt;/li&gt;&lt;li style="line-height: 24px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;Course creator&amp;nbsp;- can create courses&lt;/li&gt;&lt;li style="line-height: 24px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;Lead Teacher -&amp;nbsp;can manage and add content to courses&lt;/li&gt;&lt;li style="line-height: 24px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;Feasibility Teacher&amp;nbsp;- can manage the presentation of material and grade students&lt;/li&gt;&lt;li style="line-height: 24px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;Non-editing teacher&amp;nbsp;can grade in courses but not edit them&lt;/li&gt;&lt;li style="line-height: 24px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;Student&amp;nbsp;- can access and participate in courses&lt;/li&gt;&lt;li style="line-height: 24px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;Guest&amp;nbsp;- can view courses but not participate&lt;/li&gt;&lt;br&gt;&lt;span style="font-size: 14px; line-height: 24px;"&gt;As a teacher, the roles that you will be concerned about include the following:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;li style="font-size: 14px; line-height: 24px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;"&gt;Lead Teacher&amp;nbsp;- can manage and add content to courses&lt;/li&gt;&lt;li style="font-size: 14px; line-height: 24px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;"&gt;Feasibility Teacher - can manage the view of the course and grade students (&lt;i&gt;this is your default role&lt;/i&gt;)&lt;/li&gt;&lt;li style="font-size: 14px; line-height: 24px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;"&gt;Non-editing teacher&amp;nbsp;can grade in courses but not edit them&lt;/li&gt;&lt;li style="font-size: 14px; line-height: 24px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;"&gt;Student&amp;nbsp;- can access and participate in courses&lt;/li&gt;&lt;li style="font-size: 14px; line-height: 24px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;"&gt;Guest&amp;nbsp;- can view courses but not participate&lt;/li&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;img src="@@PLUGINFILE@@/Navigation.png" alt="" width="295" height="72" role="presentation" style="vertical-align:text-bottom; margin: 0 .5em;" class="img-responsive"&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Click on the next button (the shaded triangle) to continue.&lt;/i&gt;&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1405538172</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="2">
+        <pagenum>2</pagenum>
+        <subchapter>1</subchapter>
+        <title>Site Administrator</title>
+        <content>&lt;p&gt;&lt;span style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;Site administrators have permissions to do anything. This role will be assigned only to a few individuals.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1404413180</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="3">
+        <pagenum>3</pagenum>
+        <subchapter>1</subchapter>
+        <title>Manager Role</title>
+        <content>&lt;p lingdex="0" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;This is a role that is assigned at the management level.&amp;nbsp;&lt;/p&gt;&lt;p lingdex="0" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;The default Manager role enables users assigned the role to access courses and modify them, as well as perform certain administrative level tasks related to courses, users, grade settings, etc.&lt;/p&gt;&lt;p lingdex="1" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;Unlike the administrator role, the Manager role is a 'real role', whose capabilities you can edit, but is&amp;nbsp;&lt;i&gt;similar&lt;/i&gt;&amp;nbsp;to Administrator (but much safer to use) due to its broad default powers. As a normal role, like Course Creator or Teacher, while the Manager role has almost very many capabilities by default, you can edit that role if you choose.&lt;/p&gt;&lt;p lingdex="2" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;(The way permission checks work in the Moodle code is that there is a function called has_capability. For admins, has_capability will&amp;nbsp;&lt;b&gt;always&lt;/b&gt;&amp;nbsp;return true, no matter how the roles are set up. Thus there is no way to edit what permissions an Administrator has.)&lt;/p&gt;&lt;p lingdex="3" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;Adopting a best-practice based on the&amp;nbsp;&lt;a rel="nofollow" class="external text" href="https://buildsecurityin.us-cert.gov/bsi/articles/knowledge/principles/351-BSI.html?layoutType=plain" style="color: rgb(0, 102, 153); padding-right: 17px; background: url(http://docs.moodle.org/27/en/skins/moodledocs/images/lock_icon.gif) 100% 50% no-repeat;"&gt;Principle of Least Privilege&lt;/a&gt;&amp;nbsp;suggests that Admins should normally use a Manager role, and not use an Administrator account, similar to the way you are recommended not to log into Linux as root.&lt;/p&gt;&lt;p lingdex="4" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;The Manager role therefore allows a site Administrator to give very powerful roles to others who are assigned a Manager role, but without having to give them a full Administrator role.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1404413304</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="4">
+        <pagenum>4</pagenum>
+        <subchapter>1</subchapter>
+        <title>Course Creator</title>
+        <content>&lt;p&gt;This is also a top level role.&amp;nbsp;&lt;/p&gt;&lt;p lingdex="0" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;A user assigned the role of course creator can (as the name suggests!) create a course. If the setting "Creators' role in new courses" is left as default (teacher), then the course creator is enrolled as a teacher in the course they have just created and can then edit the course settings and enrol other users.&lt;/p&gt;&lt;p lingdex="1" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;A course creator can also view hidden courses.&lt;/p&gt;&lt;p lingdex="2" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;The role of course creator could typically be assigned to a master teacher, department head or program coordinator.&lt;/p&gt;&lt;div id="toc" class="toc" style="font-size: 11.9px; margin-left: 20px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 24px;"&gt;&lt;div id="toctitle" style="direction: ltr;"&gt;&lt;h2 style="margin-top: 30px; font-family: inherit; font-weight: bold; line-height: 20px; color: rgb(108, 51, 109); font-size: 11.9px; display: inline; letter-spacing: 2px; text-transform: uppercase; padding: 3px 15px;"&gt;CONTENTS&lt;/h2&gt;&lt;/div&gt;&lt;ul style="padding: 4px 14px; margin-top: 0.3em; margin-bottom: 0.3em; margin-left: 0px; list-style: none; line-height: 20px;"&gt;&lt;li class="toclevel-1 tocsection-1" style="line-height: 24px; padding-top: 2px; padding-bottom: 2px;"&gt;&lt;a href="http://docs.moodle.org/27/en/Course_creator_role#Creating_a_course" style="color: rgb(51, 51, 51); display: block;"&gt;&lt;span class="tocnumber"&gt;1&lt;/span&gt;&amp;nbsp;&lt;span class="toctext"&gt;Creating a course&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="toclevel-1 tocsection-2" style="line-height: 24px; padding-top: 2px; padding-bottom: 2px;"&gt;&lt;a href="http://docs.moodle.org/27/en/Course_creator_role#Deleting_a_course" style="color: rgb(51, 51, 51); display: block;"&gt;&lt;span class="tocnumber"&gt;2&lt;/span&gt;&amp;nbsp;&lt;span class="toctext"&gt;Deleting a course&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="toclevel-1 tocsection-3" style="line-height: 24px; padding-top: 2px; padding-bottom: 2px;"&gt;&lt;a href="http://docs.moodle.org/27/en/Course_creator_role#Role_assignment" style="color: rgb(51, 51, 51); display: block;"&gt;&lt;span class="tocnumber"&gt;3&lt;/span&gt;&amp;nbsp;&lt;span class="toctext"&gt;Role assignment&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="toclevel-1 tocsection-4" style="line-height: 24px; padding-top: 2px; padding-bottom: 2px;"&gt;&lt;a href="http://docs.moodle.org/27/en/Course_creator_role#Role_permissions" style="color: rgb(51, 51, 51); display: block;"&gt;&lt;span class="tocnumber"&gt;4&lt;/span&gt;&amp;nbsp;&lt;span class="toctext"&gt;Role permissions&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h2 style="margin-top: 30px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 30px; color: rgb(108, 51, 109); font-size: 25px;"&gt;&lt;span class="mw-headline" id="Creating_a_course"&gt;Creating a course&lt;/span&gt;&lt;/h2&gt;&lt;p lingdex="3" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;The "Add a new course" button can be found at the bottom of the page listing all courses.&lt;/p&gt;&lt;p lingdex="4" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;When a course creator creates a course, they are automatically enrolled in the course as a teacher, or whatever role is set in&amp;nbsp;&lt;i&gt;Administration &amp;gt; Site administration &amp;gt; Users &amp;gt; Permissions &amp;gt; User policies&lt;/i&gt;.&lt;/p&gt;&lt;p lingdex="5" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;&lt;b&gt;Note (1):&lt;/b&gt;&amp;nbsp;If a user is assigned the role of course creator in the course category context, the "Add a new course" button only appears when the course category contains at least one course.&lt;/p&gt;&lt;p lingdex="6" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;&lt;b&gt;Note (2):&lt;/b&gt;&amp;nbsp;Course creators are not automatically assigned the role of teacher in a course they have not created, even if it is in a category where they have course creator rights.&lt;/p&gt;&lt;h2 style="margin-top: 30px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 30px; color: rgb(108, 51, 109); font-size: 25px;"&gt;&lt;span class="mw-headline" id="Deleting_a_course"&gt;Deleting a course&lt;/span&gt;&lt;/h2&gt;&lt;p lingdex="7" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;There is no user interface for course creators to delete courses they have created, however they can do so by editing the URL of the course from http://yourmoodlesite.net/course/view.php?id=N to http://yourmoodlesite.net/course/delete.php?id=N (replacing 'view' with 'delete').&lt;/p&gt;&lt;h2 style="margin-top: 30px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 30px; color: rgb(108, 51, 109); font-size: 25px;"&gt;&lt;span class="mw-headline" id="Role_assignment"&gt;Role assignment&lt;/span&gt;&lt;/h2&gt;&lt;p lingdex="8" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;A user may be assigned the role of course creator as a system role (in&amp;nbsp;&lt;i&gt;Administration &amp;gt; Site administration &amp;gt; Users &amp;gt; Permissions &amp;gt; Assign system roles&lt;/i&gt;) or in the course category context.&lt;/p&gt;&lt;h2 style="margin-top: 30px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 30px; color: rgb(108, 51, 109); font-size: 25px;"&gt;&lt;span class="mw-headline" id="Role_permissions"&gt;Role permissions&lt;/span&gt;&lt;/h2&gt;&lt;p lingdex="9" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;If you require a course creator to have additional permissions, it is recommended that the&amp;nbsp;&lt;a href="http://docs.moodle.org/27/en/Manager_role" title="Manager role" style="color: rgb(0, 102, 153);"&gt;Manager role&lt;/a&gt;&amp;nbsp;is used, rather than changing the course creator role permissions. Otherwise, allowing additional capabilities for the course creator role may result in course creators having access to courses which they have not created.&lt;/p&gt;&lt;p lingdex="10" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;The role of course creator is ONLY intended for enabling users to create courses; it is not intended for enabling users to edit existing courses!&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1404413402</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="5">
+        <pagenum>5</pagenum>
+        <subchapter>1</subchapter>
+        <title>Feasibility Teacher</title>
+        <content>&lt;h5&gt;&lt;b&gt;The Feasibility Teacher role is exactly what it says. It is designed to give "teacher powers" to that particular course. &lt;/b&gt;&lt;/h5&gt;
+&lt;h2 style="margin-top: 30px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 30px; color: #6c336d; font-size: 25px;"&gt;&lt;span class="mw-headline" id="Enrolling_a_user_as_a_teacher_in_a_course"&gt;Feasibility Teacher&lt;/span&gt;&lt;/h2&gt;
+&lt;p lingdex="0" style="margin-top: 10px;"&gt;&lt;span&gt;Feasibility Teacher is the role for all teachers presenting the courses from the ATEP project. The feasibility teacher has limited powers. Feasibility teachers can control&lt;/span&gt; when activities are available for students. That is, feasibility teachers can show/hide information for students as needed. Feasibility teachers can also grade students and provide feedback.  &lt;/p&gt;
+&lt;p lingdex="1" style="margin-top: 10px;"&gt;&lt;span&gt;Feasibility teachers can only teach in the courses they have been enrolled in. &lt;/span&gt;&lt;/p&gt;
+&lt;h2 style="margin-top: 30px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 30px; color: #6c336d; font-size: 25px;"&gt;&lt;span class="mw-headline" id="Enrolling_a_user_as_a_teacher_in_a_course"&gt;Feasibility Teacher abilities:&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;can show/hide material for students&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;can grade&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Will be the teacher in the classroom&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Provides additional "real world" support &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As the Feasibility teacher in the course, it may be useful to "see what the students see". This is possible by switching your role. Once you are signed into your course, you will see a "Switch role to.." link in the Administration block. Click that to reveal your options. (&lt;i&gt;&lt;span style="text-decoration: underline;"&gt;You may need to scroll down to see the Administration block&lt;/span&gt;&lt;/i&gt;). &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Switch_Role.png" alt="" width="292" height="201" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" /&gt;&lt;/p&gt;
+&lt;p&gt;As a Feasibility teacher, you will have two options: Non-editing teacher or Student. Clicking on the Student link will change your view so that what is presented is what a student would see. This can be very useful. Once you have clicked to view as another role, the menu option will change in the Administration block to "Return to my normal role". &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Switch_Role_Normal.png" alt="" width="296" height="204" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" /&gt;&lt;/p&gt;
+&lt;p&gt;Click the "Return to my normal role" link to restore your powers as a Feasibility teacher. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p lingdex="8" style="margin-top: 10px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;"&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1405898997</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="6">
+        <pagenum>6</pagenum>
+        <subchapter>1</subchapter>
+        <title>Non-Editing Teacher</title>
+        <content>&lt;p&gt;&lt;strong&gt;&lt;span style="color: #800080; font-family: Oswald, sans-serif; font-size: 28px; line-height: 40px;"&gt;Non-editing teacher&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The non-editing teacher role can be very useful. Non-editing teachers are able to view and grade student assignments but can't make changes to the content of the course. This can be extremely useful for co-taught classes. The co-teacher can then help with grading but can't alter or delete any resources. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2 style="margin-top: 30px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 30px; color: #6c336d; font-size: 25px;"&gt;&lt;span class="mw-headline" id="Enrolling_a_user_as_a_teacher_in_a_course"&gt;Non-editing teacher abilities:&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;can see all of the same resources as a teacher&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Can grade students&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style="margin-top: 30px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 30px; color: #6c336d; font-size: 25px;"&gt;&lt;span class="mw-headline" id="Enrolling_a_user_as_a_teacher_in_a_course"&gt;Non-editing Teacher limitations:&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;can not make changes to the material within a course&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Can not show/hide items from students&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1405899044</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="7">
+        <pagenum>7</pagenum>
+        <subchapter>1</subchapter>
+        <title>Student</title>
+        <content>&lt;h3&gt;Student Role&lt;/h3&gt;&lt;p&gt;The student role is pretty straight forward. This is the role for students.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Students can participate in a course, complete assignments, view resources and see their own grades. They can't see the gradebook for the entire class.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Teachers can control what and when students see resources.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Students are limited in their choices and what they see. For example, a feasibility teacher will have many more options in the Administration block than a student.&amp;nbsp;&lt;/p&gt;&lt;h5&gt;Feasibility teacher Administration block:&lt;/h5&gt;&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Admin_Block_Feasibility_Teacher.png" alt="" width="292" height="498" role="presentation" style="vertical-align:text-bottom; margin: 0 .5em;" class="img-responsive"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5&gt;Student Administration block&lt;/h5&gt;&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Admin_Block_Student.png" alt="" width="288" height="302" role="presentation" style="vertical-align:text-bottom; margin: 0 .5em;" class="img-responsive"&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Notice that the Student is limited to two options in Course administration:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Unenroll me from (&lt;i&gt;the name of the course&lt;/i&gt;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Grades&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;The Feasibility teacher has many more options:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Turn editing on&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Users&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Filters&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Reports&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Grades&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Badges&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Question bank&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;b&gt;*Remember that teachers can switch to the Student role to "see what a student sees". (See the Feasibility teacher role for instructions on switching the view).&amp;nbsp;&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1405541226</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="62">
+        <pagenum>8</pagenum>
+        <subchapter>1</subchapter>
+        <title>Guest</title>
+        <content>&lt;p&gt;The Guest role allows a user to see the material in the site. However, a Guest can NOT take quizzes or complete assignments. The Guest role is being used in the ATEP site to provide access to those who would like to download and install the course in their own instance of Moodle.&amp;nbsp;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1471143686</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

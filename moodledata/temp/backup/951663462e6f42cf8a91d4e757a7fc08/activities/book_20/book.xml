@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="6" moduleid="20" modulename="book" contextid="68">
+  <book id="6">
+    <name>Glossary - How To Guide</name>
+    <intro>&lt;p&gt;A guide on using the Glossary. &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1406313666</timecreated>
+    <timemodified>1406313666</timemodified>
+    <chapters>
+      <chapter id="35">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Glossary</title>
+        <content>&lt;h1&gt;Glossary&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Glossary module is a powerful way to share information. Traditionally, it is used to share vocabulary and definitions. The icon for the Glossary module looks like this: &lt;img src="@@PLUGINFILE@@/Icon-Glossary.png" width="28" height="31" /&gt;. One of the powerful features of the Glossary is that words (or concepts) that appear in the Glossary can be linked throughout the course.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406482645</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="36">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Auto-Linking</title>
+        <content>&lt;h1&gt;Auto-Linking&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Glossary allows words (or concepts) to be linked throughout the course. With this feature turned on, words that occur in the Glossary and also occur elsewhere in the course can be clicked on to reveal the definition in the Glossary. The example below is from a section description. Notice that some words are blue (indicating a HyperText link). These are all words that occur within a Glossary within this course. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Glossary-Auto-Linked_Example.png" width="551" height="115" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;When a pointer (mouse indicator) is put on top of the words, you'll notice a ? appear and the name of the Glossary where the word occurs. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Glossary-Mouse.png" width="595" height="109" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;In the example above, with the Mouse pointing over the first instance of biotechnology, you'll notice that the mouse pointer changes and the text "Section 1 Glossary: Biotechnology" appears. This indicates that this word appears in Section 1 glossary and the entry is Biotechnology. &lt;/p&gt;
+&lt;p&gt;Clicking on the word will display the word and the definition in a pop-up window. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Glossary-Pop-Up.png" width="478" height="281" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Click the OK button to dismiss the modal (pop-up) window. &lt;/p&gt;
+&lt;p&gt;This provides an easy way for students to note, learn, or look up definitions that are needed without taking them out of the reading that they are currently doing. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406485493</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="37">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Using the Glossary</title>
+        <content>&lt;h1&gt;Using the Glossary&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;To use the Glossary, simply click on the Title of the Glossary ( eg.&lt;img src="@@PLUGINFILE@@/Glossary-Link.png" width="151" height="36" alt=" " /&gt;). This will open the Glossary in a window. &lt;/p&gt;
+&lt;p&gt;Here is an example of the Glossary:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Glossary-Example.png" width="922" height="552" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;In the example above, note that there are several ways to navigate:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Search&lt;/li&gt;
+&lt;li&gt;Tabs for organization&lt;/li&gt;
+&lt;li&gt;Letters for alphabetical order&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;Search&lt;/h3&gt;
+&lt;p&gt;Search is very useful. Leaving the "Search full text" checkbox selected, any words entered into the search box will result in a search throughout the entries and definitions. Thus, entering a word into the search box and then clicking the "Search" button, will perform a search of the Glossary. The results will be listed below the horizontal line (with any words searched for highlighted). &lt;/p&gt;
+&lt;h3&gt;Tabs&lt;/h3&gt;
+&lt;p&gt;The tabs allow the user to browse by various criteria. The default is Browse by alphabet. This is by far the most useful for the ATEP project. However, there are other options (by category, by date, by author). &lt;em&gt;Note that the alphabet just below the tabs is dependent upon which tab is selected.&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Glossary-Tabs.png" width="729" height="164" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Clicking on any of the other tabs will allow the user to browse by that criteria. In a large Glossary, the alphabet just below the tabs can be extremely useful. In a smaller Glossary, scrolling will work. (*The Special indicates special characters: *&amp;amp;+, etc). &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;Entries&lt;/h3&gt;
+&lt;p&gt;Entries will be listed last. Scrolling will reveal the entries. The entries will be organized based upon whichever tab has been selected. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406483690</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="38">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Types</title>
+        <content>&lt;h1&gt;Types&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;There are several different types of Glossary entries available. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple, dictionary style&lt;/li&gt;
+&lt;li&gt;Encyclopedia&lt;/li&gt;
+&lt;li&gt;FAQ&lt;/li&gt;
+&lt;li&gt;Entry list&lt;/li&gt;
+&lt;li&gt;Full with author&lt;/li&gt;
+&lt;li&gt;Full without author&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;Simple, dictionary style&lt;/h3&gt;
+&lt;p&gt;The most popular is the Simple, dictionary style. This provides words and definitions in a simple, straight forward way. Words are listed with definitions below them. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406484309</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

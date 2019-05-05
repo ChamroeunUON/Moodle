@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="3" moduleid="28" modulename="page" contextid="76">
+  <page id="3">
+    <name>Course Announcements</name>
+    <intro>&lt;p&gt;Course announcements. &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;Course announcements are available at the top of every course. &lt;/p&gt;
+&lt;p&gt;Course announcements are a special type of Forum. Only Feasibility Teachers (not students) can post to this special area. The latest 5 posts will automatically show up in the "Latest News" block. This makes it very easy for Feasibility Teachers to provide information to students. This information can be a reminder, a tip or trick or just something to help students. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;Adding an Announcement&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The quickest and easiest way to add an announcement, is to use the Add a new topic link within the Latest News block. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Announcement-Add_Link.png" width="327" height="213" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;*Special Note: This is one of the few times that you do NOT have to turn editing on first. &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;After clicking on the Add a new topic, you will receive a new screen to add an announcement. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Announcement-New.png" width="671" height="418" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Enter a Subject and a Message. *&lt;strong&gt;&lt;em&gt;Tip: Make the Subject the basic information and add detail to the Message. A Subject like "Due tomorrow" will communicate clearly and provide information to students.&lt;/em&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Scroll down and click the Post to forum button. &lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1407288469</timemodified>
+  </page>
+</activity>

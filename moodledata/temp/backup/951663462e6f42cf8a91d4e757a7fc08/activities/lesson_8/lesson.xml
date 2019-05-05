@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="8" modulename="lesson" contextid="56">
+  <lesson id="2">
+    <course>2</course>
+    <name>Moving around Activities/Resources</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>650</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>1</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>625</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1473528976</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <pages>
+      <page id="4">
+        <prevpageid>0</prevpageid>
+        <nextpageid>5</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1473529551</timecreated>
+        <timemodified>1475927992</timemodified>
+        <title>Activities and Resources</title>
+        <contents>&lt;h3&gt;&lt;span&gt;&lt;span style="color: #98ca3e;"&gt;&lt;span&gt;&lt;span style="color: #ffcf35;"&gt;&lt;b&gt;&lt;span style="color: #333333;"&gt;Moving around within Activities and Resources. &lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;Moodle uses the term "&lt;strong&gt;Activities&lt;/strong&gt;" to describe the various "tools" that a student interacts with, or completes externally and uploads into Moodle.  The term "&lt;strong&gt;Resources&lt;/strong&gt;" is used to describe the "tools" that are used to provide information or  or other resources for student usage.&lt;/p&gt;
+&lt;p&gt;Many Activities and Resources have additional "pages," "screens," or "views." Generally, navigation through or between the different sources of information is pretty straightforward. In most instances, the user will click a "Button" type link to move on.&lt;/p&gt;
+&lt;p&gt;This section will provide you with information on "&lt;strong&gt;How To Navigate&lt;/strong&gt;" around and within each of the activities or resources in use (see list below).  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PLEASE NOTE:&lt;/strong&gt; Much more detailed "&lt;strong&gt;How To Use&lt;/strong&gt;" information is provided on each of the Activities and Resources, showing you how a teacher and a student will actually use each of the following later in this &lt;em&gt;Using Moodle&lt;/em&gt; course.&lt;/p&gt;
+&lt;p&gt;Activities and Resources used in ATEP Courses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Pages &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Lesson&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Book&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Quiz&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Glossary&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Forum&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Assignment&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now we'll take a look at how one moves around within each of these Activities or Resources. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="6">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473529551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5">
+        <prevpageid>4</prevpageid>
+        <nextpageid>7</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1473530779</timecreated>
+        <timemodified>1475927373</timemodified>
+        <title>Lesson</title>
+        <contents>&lt;h3&gt;&lt;span&gt;&lt;span&gt;&lt;span style="color: #333333;"&gt;&lt;b&gt;Moving around a Lesson Activity&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Lesson activity is used throughout the ATEP materials. The Lesson icon looks like this: &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Icon-Lesson.png" alt="" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" height="35" width="78" /&gt;&lt;/p&gt;
+&lt;p&gt;The Lesson activity allows students to view one screen at a time. Additionally, some screens within a Lesson contain assessments which can be used to check student understanding.  The very best way to understand the Lesson activity may be to think of the "you choose an ending" stories.  &lt;/p&gt;
+&lt;p&gt;As the student works through the Lesson, they will see Navigation Link Buttons (see below) that lead the student to the next section in a topic, or back to review the information covered. Often, the link Buttons are simply "Next" and "Back" but sometimes the buttons can be more complex.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Back-Next_Buttons.png" role="presentation" style="vertical-align: text-bottom; margin: 0px 0.5em; border: 6px solid black;" class="img-responsive" height="47" width="151" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="9">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473530779</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="10">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473530779</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="7">
+        <prevpageid>5</prevpageid>
+        <nextpageid>6</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1473530188</timecreated>
+        <timemodified>1475927414</timemodified>
+        <title>Pages</title>
+        <contents>&lt;h3&gt;&lt;b&gt;&lt;span style="color: #333333;"&gt;Moving Around a Page Resource. &lt;/span&gt;&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Pages are used throughout ATEP to provide information. The page icon looks like this: &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Icon-Page_Name.png" alt="" width="61" height="38" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" /&gt; &lt;/p&gt;
+&lt;p&gt;There will be a title following the icon. &lt;/p&gt;
+&lt;p&gt;Pages are usually one screen long. However, like any other web page, they may have links embedded within them. These links can lead to external web sites or to other parts within Moodle. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="7">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473530188</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="8">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473530188</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="9">
+        <prevpageid>6</prevpageid>
+        <nextpageid>8</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1473533086</timecreated>
+        <timemodified>1475927675</timemodified>
+        <title>Book</title>
+        <contents>&lt;h3&gt;&lt;b&gt;&lt;span style="color: #333333;"&gt;Moving around the Book Resource&lt;/span&gt;&lt;/b&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;p&gt;The Book resource is a great way to organize and present a large amount of material. The Book icon looks like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Icon-Book.png" alt="" width="66" height="31" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" /&gt;&lt;/p&gt;
+&lt;p&gt;There are two ways to move around the Book resource:&lt;/p&gt;
+&lt;p&gt;1. The arrow icons at the bottom of the frame allow the user to move to the next or previous page. These arrows are on the right hand side at the bottom of the frame.  They look like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Icon-Page_Nav.png" alt="" width="196" height="61" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" /&gt;&lt;/p&gt;
+&lt;p&gt;2. The Table of Contents will be available in a block. This block will either be on the right hand side of the screen or below the text (on a mobile device). &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Icon-Table_Contents.png" alt="" width="373" height="177" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" /&gt;&lt;/p&gt;
+&lt;p&gt;Each of the entries within the Table of Contents can be clicked to move directly to that page. Each entry will be blue except the page that is currently displayed. Thus, in the example above, clicking on 1.3 Student would take the user directly to that page. &lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="11">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473533086</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="12">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473533086</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="6">
+        <prevpageid>7</prevpageid>
+        <nextpageid>9</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1473534158</timecreated>
+        <timemodified>1475927584</timemodified>
+        <title>Quiz</title>
+        <contents>&lt;h3&gt;&lt;b&gt;&lt;span style="color: #333333;"&gt;Moving around a Quiz Activity&lt;/span&gt;&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Quiz activity provides assessment information about students' understanding of the material presented. Students should find the quizzes easy to move around.&lt;/p&gt;
+&lt;p&gt;Quizzes can be presented in a number of ways. For example, the course may provide the entire quiz at once. In this case, all of the questions will be seen at once by the student. The student can scroll up and down to answer the questions. Or the quiz may present only a certain number of questions at a time. This chunking of questions can help students focus on a smaller amount of material.  &lt;/p&gt;
+&lt;p&gt;1. Students can use the Quiz navigation block to jump around to different questions. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Block-Quiz_Nav.png" alt="" width="291" height="166" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" /&gt;&lt;/p&gt;
+&lt;p&gt;Clicking on any of the numbers will take the student to that question. Note that the first 10 numbers above are boxed. This means that those 10 questions are on the current page. If the student were to click on question 12 above, the quiz would display questions 11-20 (this is a preference set when creating the quiz). &lt;/p&gt;
+&lt;p&gt;2. The students can use the button at the bottom of the page to move to the next page (or Submit the quiz).&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="13">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473534158</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="14">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473534158</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="8">
+        <prevpageid>9</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1473535351</timecreated>
+        <timemodified>1475928426</timemodified>
+        <title>Glossary</title>
+        <contents>&lt;h3&gt;&lt;b&gt;&lt;span style="color: #333333;"&gt;Moving around the Glossary Activity&lt;/span&gt;&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Glossary is an Activity. This powerful tool works to provide students with words and definitions. There are multiple ways to move around the Glossary. For example:&lt;/p&gt;
+&lt;p&gt;1. The first way to find information in the Glossary is to use the &lt;strong&gt;Search box&lt;/strong&gt;. Simply type the term (or part of the term) in the box and then click the Search button at left. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Glossary-Nav_Search.png" alt="" width="745" height="479" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" /&gt;&lt;/p&gt;
+&lt;p&gt;2. The second way to navigate around is to use the &lt;strong&gt;Browse by alphabet &lt;/strong&gt;listing, located slightly below the Search box. Clicking on any letter of the alphabet will take the user directly to concepts that start with that letter. In the example above, the letter B has been clicked. The user can then scroll down through the concepts that are presented in alphabetical order. &lt;/p&gt;
+&lt;p&gt;3. &lt;strong&gt;Browse by category&lt;/strong&gt; allows the user to browse through grouped entries. &lt;/p&gt;
+&lt;p&gt;4. &lt;strong&gt;Browse by date&lt;/strong&gt; allows the user to browse entries by the order in which they were input. Clicking the words after "Sort chronologically" will rotate between the earliest and latest concepts updated ("By last update") or entered ("By creation date"). &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Glossary-Nav_Date.png" alt="" width="764" height="300" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" /&gt;&lt;/p&gt;
+&lt;p&gt;Once you have chosen your method, you can click "Next" to move to the next page or ALL to see all of the entries. &lt;/p&gt;
+&lt;p&gt;4. &lt;strong&gt;Browse by Author&lt;/strong&gt; can be used to view entries entered by individual authors. This can be useful when having students enter the Glossary concepts. Since the Glossaries are provided within ATEP, this method is not used.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473535351</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="16">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473535351</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

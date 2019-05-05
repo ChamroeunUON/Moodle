@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="24" modulename="page" contextid="72">
+  <page id="2">
+    <name>Groups</name>
+    <intro>&lt;p&gt;Learn how and why to use groups.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h1&gt;Groups&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Groups allow a Feasibility Teacher to use the same material with different groups of students. Most commonly, this is used when a teacher has multiple sections (or hours) of same class. By using Groups, they teacher can maintain one Moodle course, but keep the students separate for assignments and the grade book. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The easiest way to set up groups is to do so before students enroll (or are enrolled) in a course. For example, to set up a first hour and a third hour, the two groups are set up with different enrollment keys. When the student enters that appropriate enrollment key, they are assigned to the appropriate group. Thus, the course could be set up with two enrollment keys: firsthour1, thirdhour3. If a student enrolls using the key firsthour1, that student would be grouped with other students in first hour. If the student enrolls using the thirdhour3 key, they would be grouped with other students in third hour. &lt;/p&gt;
+&lt;p&gt;Students can also be manually moved from one group to another. &lt;/p&gt;
+&lt;h2&gt;To Create a Group:&lt;/h2&gt;
+&lt;p&gt;Make sure that Editing is turned on (Click &lt;img src="@@PLUGINFILE@@/Icon-Editing1.png" width="62" height="45" /&gt; or Chose "Turn Editing On" in the Administration block). &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Click on Course Administration in the Administration block&lt;/li&gt;
+&lt;li&gt;Click on Users to show the options&lt;/li&gt;
+&lt;li&gt;Click on Groups&lt;br /&gt;&lt;img src="@@PLUGINFILE@@/Blocks-Groups.png" width="271" height="298" alt="Groups displayed in a block" style="border: 4px solid black;" /&gt;&lt;/li&gt;
+&lt;li&gt;Create a new group (if it doesn't exist) by Clicking on the Create group button. &lt;br /&gt;&lt;img src="@@PLUGINFILE@@/Button-Create%20group.png" width="685" height="641" alt="Create group" style="border: 4px solid black;" /&gt;&lt;/li&gt;
+&lt;li&gt;On the resulting screen, you must give the group a name. &lt;br /&gt;&lt;img src="@@PLUGINFILE@@/Screen%20Create%20Group.png" width="502" height="327" style="border: 4px solid black;" /&gt;&lt;/li&gt;
+&lt;li&gt;You can fill in the other information as well- such as a description, an enrollment key (used if students will self enroll in the course and are not already enrolled), &lt;/li&gt;
+&lt;li&gt;Scroll down and Click "Save changes"&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Once the Group is created, you can add students who are already enrolled in the course. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Make sure that the Group that you want to add students to is highlighted.&lt;/li&gt;
+&lt;li&gt;Click on "Add/Remove users" button&lt;br /&gt;&lt;img src="@@PLUGINFILE@@/Screen-Groups%20Add.png" width="800" height="580" style="border: 4px solid black;" /&gt;&lt;/li&gt;
+&lt;li&gt;Select the names from the Potential members column&lt;br /&gt;&lt;img src="@@PLUGINFILE@@/Screen-%20Names%20to%20add.png" width="729" height="444" alt="Screen" style="border: 4px solid black;" /&gt;&lt;/li&gt;
+&lt;li&gt;Click the "Add" button&lt;/li&gt;
+&lt;li&gt;Click the "Back to groups" button at the bottom of the screen.&lt;/li&gt;
+&lt;/ol&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1407289339</timemodified>
+  </page>
+</activity>

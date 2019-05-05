@@ -1,0 +1,34 @@
+[Wed 16 Nov 2016 04:58:45 PM EST] [info] instantiating backup controller 385561ab1bb40350c0e83d30b49b5eb9
+[Wed 16 Nov 2016 04:58:45 PM EST] [debug] setting controller status to 100
+[Wed 16 Nov 2016 04:58:45 PM EST] [debug] loading controller plan
+[Wed 16 Nov 2016 04:58:45 PM EST] [debug] setting controller status to 300
+[Wed 16 Nov 2016 04:58:45 PM EST] [debug] applying plan defaults
+[Wed 16 Nov 2016 04:58:45 PM EST] [debug] setting controller status to 400
+[Wed 16 Nov 2016 04:58:45 PM EST] [debug] setting file inclusion to 1
+[Wed 16 Nov 2016 04:58:45 PM EST] [info] checking plan security
+[Wed 16 Nov 2016 04:58:45 PM EST] [debug] setting controller status to 500
+[Wed 16 Nov 2016 04:58:45 PM EST] [info] checking plan security
+[Wed 16 Nov 2016 04:58:45 PM EST] [info] checking plan security
+[Wed 16 Nov 2016 04:58:45 PM EST] [info] checking plan security
+[Wed 16 Nov 2016 04:58:45 PM EST] [debug] saving controller to db
+[Wed 16 Nov 2016 04:58:45 PM EST] [debug] calculating controller checksum fc5229a87c578dd85a785aedf1d46d52
+[Wed 16 Nov 2016 04:58:48 PM EST] [debug] loading controller from db
+[Wed 16 Nov 2016 04:58:48 PM EST] [info] checking plan security
+[Wed 16 Nov 2016 04:58:48 PM EST] [info] checking plan security
+[Wed 16 Nov 2016 04:58:48 PM EST] [info] checking plan security
+[Wed 16 Nov 2016 04:58:48 PM EST] [debug] saving controller to db
+[Wed 16 Nov 2016 04:58:48 PM EST] [debug] calculating controller checksum fc5229a87c578dd85a785aedf1d46d52
+[Wed 16 Nov 2016 04:58:53 PM EST] [debug] loading controller from db
+[Wed 16 Nov 2016 04:58:53 PM EST] [info] checking plan security
+[Wed 16 Nov 2016 04:58:53 PM EST] [info] checking plan security
+[Wed 16 Nov 2016 04:58:53 PM EST] [info] checking plan security
+[Wed 16 Nov 2016 04:58:53 PM EST] [debug] saving controller to db
+[Wed 16 Nov 2016 04:58:53 PM EST] [debug] calculating controller checksum fc5229a87c578dd85a785aedf1d46d52
+[Wed 16 Nov 2016 04:58:58 PM EST] [debug] loading controller from db
+[Wed 16 Nov 2016 04:58:58 PM EST] [info] checking plan security
+[Wed 16 Nov 2016 04:58:58 PM EST] [info] checking plan security
+[Wed 16 Nov 2016 04:58:58 PM EST] [debug] setting controller status to 700
+[Wed 16 Nov 2016 04:58:58 PM EST] [debug] saving controller to db
+[Wed 16 Nov 2016 04:58:58 PM EST] [debug] calculating controller checksum 81f1c7797c6b28db088c9128c4153b93
+[Wed 16 Nov 2016 04:58:58 PM EST] [debug] loading controller from db
+[Wed 16 Nov 2016 04:58:58 PM EST] [debug] setting controller status to 800

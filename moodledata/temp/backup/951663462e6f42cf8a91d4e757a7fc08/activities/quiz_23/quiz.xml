@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="4" moduleid="23" modulename="quiz" contextid="71">
+  <quiz id="4">
+    <name>Activity Quiz</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>1</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>65552</reviewattempt>
+    <reviewcorrectness>16</reviewcorrectness>
+    <reviewmarks>16</reviewmarks>
+    <reviewspecificfeedback>16</reviewspecificfeedback>
+    <reviewgeneralfeedback>16</reviewgeneralfeedback>
+    <reviewrightanswer>16</reviewrightanswer>
+    <reviewoverallfeedback>16</reviewoverallfeedback>
+    <questionsperpage>3</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>17.00000</sumgrades>
+    <grade>100.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1475373857</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionpass>0</completionpass>
+    <question_instances>
+      <question_instance id="15">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>30</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="16">
+        <slot>2</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>27</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="17">
+        <slot>3</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>25</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="18">
+        <slot>4</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>19</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="19">
+        <slot>5</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>18</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="20">
+        <slot>6</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>24</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="21">
+        <slot>7</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <questionid>26</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="22">
+        <slot>8</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <questionid>21</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="23">
+        <slot>9</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <questionid>29</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="24">
+        <slot>10</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <questionid>20</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="25">
+        <slot>11</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <questionid>16</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="26">
+        <slot>12</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <questionid>28</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="27">
+        <slot>13</slot>
+        <page>5</page>
+        <requireprevious>0</requireprevious>
+        <questionid>23</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="28">
+        <slot>14</slot>
+        <page>5</page>
+        <requireprevious>0</requireprevious>
+        <questionid>22</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="29">
+        <slot>15</slot>
+        <page>5</page>
+        <requireprevious>0</requireprevious>
+        <questionid>32</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="30">
+        <slot>16</slot>
+        <page>6</page>
+        <requireprevious>0</requireprevious>
+        <questionid>31</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="31">
+        <slot>17</slot>
+        <page>6</page>
+        <requireprevious>0</requireprevious>
+        <questionid>17</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="4">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="6">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>101.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

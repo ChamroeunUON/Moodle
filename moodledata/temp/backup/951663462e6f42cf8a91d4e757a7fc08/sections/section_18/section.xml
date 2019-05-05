@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="18">
+  <number>4</number>
+  <name>Profiles</name>
+  <summary>&lt;p&gt;User profiles contains a lot of Moodle and contact information.  Students can use their profile to check on courses enrolled, email address, etc.  Teachers can use profiles to see information about students in one easy to find location, plus they can edit their profile to contain useful information for their students (room numbers, etc.).. &lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>15</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+</section>

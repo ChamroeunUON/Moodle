@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="9" moduleid="25" modulename="book" contextid="73">
+  <book id="9">
+    <name>Gradebook</name>
+    <intro>&lt;p&gt;Introduction to using the Gradebook. &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1405890111</timecreated>
+    <timemodified>1405890111</timemodified>
+    <chapters>
+      <chapter id="41">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Gradebook</title>
+        <content>&lt;h1&gt;Gradebook&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Gradebook will provide a recording of grades. The Gradebook within Moodle is extremely powerful. This is also an area of great debate amongst educational professionals. ATEP is focused on the delivery of powerful content for student learning and understands that the Feasibility Teachers will be working with existing grade book and Student Information System within the home school. Thus, the Moodle grade book will be simple and straight forward. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Moodle Gradebook will provide an organized system of grades. Any quizzes that all multiple choice or discrete answers will be automatically scored and entered into the Moodle grade book. Any essays will need to be entered by the Feasibility Teacher. &lt;/p&gt;
+&lt;p&gt;The Moodle Gradebook will also provide feedback to students in an organized manner. &lt;/p&gt;
+&lt;p&gt;Only teachers will see a full grade book. Students will only see their grades. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;To Open the Gradebook:&lt;/p&gt;
+&lt;p&gt;Use the Administration block and open Course administration. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Block-Admin-Grades.png" width="177" height="321" alt="Gradebook link" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Clicking on the Grades link will take you to the Gradebook. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406574902</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="42">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Gradebook components</title>
+        <content>&lt;h2&gt;Gradebook Components&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A Drop down Navigation Menu&lt;/li&gt;
+&lt;li&gt;Along the top will be several tabs. &lt;/li&gt;
+&lt;li&gt;Student names will be listed along the left side of the grade book. &lt;/li&gt;
+&lt;li&gt;Gradable assignments will be listed along the top of the student names.&lt;/li&gt;
+&lt;li&gt;Turn Editing On button&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Grades-View.png" width="1101" height="606" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;This is the default view. &lt;em&gt;However, the Gradebook will generally reopen to the last view that the Feasibility Teacher selected. Thus, if the last view was of User Report, the Gradebook will reopen to User Report. To return to the default view, simply click on the View Tab and then the LAE Grader tab. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Notice that the View tab is currently selected The sub-tab of LAE Grader Report is then selected. Here you will see all student names, all assignments that are listed as gradable, and the grades that students have received. &lt;/p&gt;
+&lt;p&gt;Any activities that automatically grade (such as quizzes with only multiple choice answers) will have grades in them as soon as the students complete the module. &lt;/p&gt;
+&lt;p&gt;The Feasibility Teacher can manually enter grades from here as well. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406246088</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="43">
+        <pagenum>3</pagenum>
+        <subchapter>1</subchapter>
+        <title>Gradebook Tabs</title>
+        <content>&lt;h1&gt;Gradebook Tabs&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Tabs are used to organize and navigate around the Gradebook. There are actually two levels of tabs. The main tabs include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;View&lt;/li&gt;
+&lt;li&gt;Categories and items&lt;/li&gt;
+&lt;li&gt;Letters&lt;/li&gt;
+&lt;li&gt;Export&lt;/li&gt;
+&lt;li&gt;Settings&lt;/li&gt;
+&lt;li&gt;My Preferences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each of these tabs contains at least one sub tab. Each tab presents different information. The View tab will be used most often. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Grades-View_Tabs2.png" width="1057" height="410" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Here the View tab of the Main Tabs has been selected. The LAE Grader Report is the secondary tab selected. This view will provide the Feasibility Teacher with an overview of the students enrolled, the assignments that can be graded and the grades entered (if they exist). &lt;/p&gt;
+&lt;p&gt;Notice that there are other main tabs and secondary tabs. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Categories and Items - could be used to establish different categories within the Gradebook. This could be used to set up things like Formative vs Summative assessments. &lt;/li&gt;
+&lt;li&gt;Letters will display the grading scale (93%-100%=A). This area also allows the Feasibility Teacher to change these boundaries.&lt;/li&gt;
+&lt;li&gt;Export - Allows the Gradebook to be exported to a variety of file types.&lt;/li&gt;
+&lt;li&gt;Settings - Allows the Feasibility Teacher to change the default settings of the Gradebook&lt;/li&gt;
+&lt;li&gt;My preferences - Allows for preferences to be set. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Drop Down Menu&lt;/h2&gt;
+&lt;p&gt;The Drop down menu at the top will allow the Feasibility teacher to go to the same places as the Tabs do. Both will go to exactly the same pages. This is a matter of preference only. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Grades-Drop_Down_Menu.png" width="358" height="560" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Thus, using the Drop down menu to select User report (under the View heading) will take the Feasibility Teacher to the same place as selecting the View Tab and then selecting the User report on the secondary tab. &lt;em&gt;(*Note that you must select a secondary tab from the Drop down menu.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406248989</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="44">
+        <pagenum>4</pagenum>
+        <subchapter>1</subchapter>
+        <title>View Tab</title>
+        <content>&lt;h1&gt;View Tab&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Main tab that will be most often is the first main tab: View.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Grade-View_Tab_Secondary.png" width="829" height="453" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;The View tab will consist of 2 secondary tabs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LAE Grader&lt;/li&gt;
+&lt;li&gt;User report&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Most work can be done within the LAE Grader Report tab. This will show all of the students in the first column and all of the assignments that can be graded along the top row. Note that the assignments contain the name of the assignment and an icon which indicates what type of assignment it is. The Feasibility Teacher can click on any of the assignment names to go to that settings for that assignment. &lt;/p&gt;
+&lt;p&gt;The up/down arrows next to an assignment name will sort the results by ascending grades (up arrow) or descending grades (down arrow) once grades are entered. &lt;/p&gt;
+&lt;p&gt;Similarly, the arrow next to Last name or First name will indicate that students are sorted by that field. In the example above, the students are sorted alphabetically by their last name (note that the arrow is next to the Last name). Clicking on "First name" in that first box would sort the students by their first name (see below).&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Grades-Sort_First_Name.png" width="249" height="316" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Manually Enter Grades&lt;/h2&gt;
+&lt;p&gt;The View tab can also be used to manually enter grades. Simply click the "Turn editing on" button in the top right hand side of the screen. The View tab will now look like below - with boxes to enter grades. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Grades-Manually_Enter.png" width="821" height="514" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;In this example, 100 has been entered manually for John Doe. &lt;em&gt;(*Pro tip- use the Tab key to advance to the next student name for that assignment)&lt;/em&gt;. When you are done entering grades, click the Update button at the bottom. This will save the changes. (*&lt;em&gt;Please note that if grades are manually entered, grades can NOT be updated through the assignment setting. Any grade changes would need to be done manually). &lt;/em&gt;&lt;i&gt;&lt;br /&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406248678</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="45">
+        <pagenum>5</pagenum>
+        <subchapter>1</subchapter>
+        <title>View Tab - User Report</title>
+        <content>&lt;h1&gt;View Tab - User Report&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The User Report tab will provide a comprehensive overview of the assignments, student grade and possible points. The focus here is a student report rather than a class report. Thus, each report is in the name of a student and then the assignments. &lt;/p&gt;
+&lt;p&gt;This report does have a lot of information. Let's take a look at an example. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Grades-View-User_Report.png" width="783" height="544" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Note that we have selected "View" in the main tab and "User report" in the secondary tab. On the right hand side is a drop down menu to select all or one user. Thus the Feasibility Teacher can either run this report for each student in the course, or just one student in the course. In our example, there are four students enrolled. Thus, we can select either the whole class (all) or one of the students (i.e. Fourth Student, Third Student, Second Student or Test Student). &lt;/p&gt;
+&lt;p&gt;Next, notice that the User report lists the first student name (in our case Fourth Student). Once we scroll down far enough, we would see the same information for the next student. &lt;/p&gt;
+&lt;p&gt;The actual report is filled with useful information. Each assignment that can be graded is listed. These listings are grouped by the Category that the assignment is in. Thus, notice that just under the name of the course ( &lt;img src="http://fieldtest.techlit.org/theme/image.php/essential/core/1406144165/i/folder" class="icon itemicon" title="Category" alt="Category" /&gt; ATEP - Materials and Manufacturing Technology: Module A) at the top of the window in the first box is "Quizzes". Quizzes is a category for this class. Scrolling down would provide the Category Total for the first Category. Scrolling down would reveal the assignments in the next category ( Assignments). Scrolling down even further is the next category (Lessons). &lt;/p&gt;
+&lt;p&gt;For each assignment, following the title of the assignment will be the grade earned (if any or a - ), the range of the grades (0-100 for this example), and then any feedback provided to the student. &lt;/p&gt;
+&lt;p&gt;Scrolling down, the same information would be provided for the next student. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;Notice:&lt;/h3&gt;
+&lt;p&gt;The User report is also what the student will see when they view their own grades. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406595780</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="46">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Categories and Items</title>
+        <content>&lt;h1&gt;Categories and Items&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Moodle has a very powerful grade book. Assignments can be broken into categories. However, since this can quickly become a complex issue, it is advised that Feasibility Teachers use extreme caution with these settings. &lt;/p&gt;
+&lt;p&gt;Categories has 2 tabs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple&lt;/li&gt;
+&lt;li&gt;Full&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Grades-Categories_SImple_View.png" width="1064" height="387" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;The Categories and Items view will list all assignments. The first row will be the overview of the class. This will include how grades are calculated (in this case: Simple weighted mean of grades). This would also allow the assignment to be assigned as extra credit, shows the maximum grade that can be earned and provides a way of taking action on the assignments. &lt;/p&gt;
+&lt;p&gt;Actions can be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Edit settings&lt;/li&gt;
+&lt;li&gt;Move the assignment&lt;/li&gt;
+&lt;li&gt;Hide the assignment&lt;/li&gt;
+&lt;li&gt;Lock the assignment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Full View&lt;/h2&gt;
+&lt;p&gt;Full view is very similar but adds some additional power. From Full view, Aggregation can be broken down by categories, the lowest grades can be dropped, grade multipliers and offsets can be entered. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406249910</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="47">
+        <pagenum>8</pagenum>
+        <subchapter>0</subchapter>
+        <title>Letters</title>
+        <content>&lt;h1&gt;Letters&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Letters will reveal the grading scale. The Feasibility Teacher can also update that scale. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Grade-Scale.png" width="794" height="421" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;The default is as above. Clicking on either "Edit grade letters" or the Edit secondary tab, will open the grading scale for editing. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Grade-Scale_Edit.png" width="716" height="550" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;From here the Feasibility Teacher would need to click the "Override site defaults" check box. Then the boundaries can be clicked on and changed. The Grade letters can also be changed. Once done, scroll to the bottom and "Save changes". &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406250272</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="48">
+        <pagenum>9</pagenum>
+        <subchapter>0</subchapter>
+        <title>Export</title>
+        <content>&lt;h1&gt;Export&lt;/h1&gt;
+&lt;p&gt;Grades can easily be exported out of Moodle. This can be handy for keeping back up records or for importing into a different grade book. (Importing into another grade book is an advanced function dependent upon that grade book). &lt;/p&gt;
+&lt;p&gt;Exporting can be done to a number of file formats. These are the secondary tabs. These file formats are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OpenDocument spreadsheet&lt;/li&gt;
+&lt;li&gt;Plain text file&lt;/li&gt;
+&lt;li&gt;Excel spreadsheet&lt;/li&gt;
+&lt;li&gt;XML file&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Additionally, there are options as what type of data for grades is exported (real, percentage, letter), number of decimal places and then a listing of all assignments. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Grade-Export.png" width="791" height="697" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Once the appropriate selections have been made, scroll to the bottom and click "Submit" This will create a preview of the file and include a button to "Download". The preview will display the first few rows of the data. The download button will download the file to your computer. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406250799</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="49">
+        <pagenum>7</pagenum>
+        <subchapter>0</subchapter>
+        <title>Groups</title>
+        <content>&lt;h1&gt;Groups&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Feasibility Teacher can grade different groups. This can be extremely handy when dealing with multiple hours of the same class. In this course, we have set up groups for different hours. This way, when it comes time to manually enter grades. In order for this to work, you must have groups already set up and students assigned to groups. &lt;/p&gt;
+&lt;p&gt;Select Grades from the Course Administration block&lt;/p&gt;
+&lt;p&gt;Select the Group to grade from the Separate Groups menu selector. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Grade-Group_Select.png" width="954" height="591" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Now just the names of the students that are in those groups will be available for grading. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1407333366</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

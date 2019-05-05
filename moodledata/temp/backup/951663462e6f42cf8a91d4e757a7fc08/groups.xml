@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups>
+  <group id="1">
+    <name>First Hour</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <hidepicture>0</hidepicture>
+    <timecreated>1405873323</timecreated>
+    <timemodified>1425438446</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="2">
+    <name>Third Hour</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <hidepicture>0</hidepicture>
+    <timecreated>1407289176</timecreated>
+    <timemodified>1425438472</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="3">
+    <name>Fifth Hour</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey>5peanut</enrolmentkey>
+    <picture>0</picture>
+    <hidepicture>0</hidepicture>
+    <timecreated>1407289217</timecreated>
+    <timemodified>1407861635</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="4">
+    <name>Group 1</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <hidepicture>0</hidepicture>
+    <timecreated>1384177190</timecreated>
+    <timemodified>1389378686</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <group id="5">
+    <name>Group 2</name>
+    <idnumber></idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey>HOFSTRA4</enrolmentkey>
+    <picture>0</picture>
+    <hidepicture>0</hidepicture>
+    <timecreated>1384177217</timecreated>
+    <timemodified>1384177448</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <groupings>
+  </groupings>
+</groups>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="5" moduleid="19" modulename="book" contextid="67">
+  <book id="5">
+    <name>Quiz- How to Guide</name>
+    <intro>&lt;h1&gt;Quiz&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The quiz module is used throughout ATEP. The Feasibility Teacher can grade, preview and show/hide quizzes. The Quiz icon looks like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Icon-Quiz.png" width="33" height="33" alt=" " /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1406297995</timecreated>
+    <timemodified>1406299208</timemodified>
+    <chapters>
+      <chapter id="30">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Quiz-Show/Hide</title>
+        <content>&lt;h1&gt;Quiz-Show/Hide&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Feasibility Teachers may not want students to see or take a quiz until a certain time. This is easily accomplished. &lt;/p&gt;
+&lt;p&gt;In order to Show/Hide a quiz, editing must be turned on. The "Turn editing on" button is located at the top of the main course page. It will be a green box (until clicked to on, then it becomes a red box - green indicates that editing is currently turned off). &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Edit.png" width="1130" height="201" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Once editing is turned on, you will see an eye after each activity/resource. If the eye is open ( &lt;img src="@@PLUGINFILE@@/Icon-Eye-Open.png" width="20" height="14" alt=" " /&gt; ) then the activity/resource (in this case the quiz) will be visible to the students. If the eye is closed ( &lt;img src="@@PLUGINFILE@@/Icon-Eye-Closed.png" width="20" height="18" alt=" " /&gt;), then the quiz will not be visible to the students. &lt;/p&gt;
+&lt;p&gt;Once editing is turned on, clicking on the eye symbol will alternate between visible and hidden. &lt;/p&gt;
+&lt;p&gt;In the example below, students would be able to see (and click on to take) the Section 2 - Summary and Test quiz. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Shown.png" width="482" height="33" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Clicking once on the eye would change this so that the student could not see (thus, not click on and take) the quiz. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Closed.png" width="490" height="36" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Note in the example above that the quiz is now hidden. The eye is closed. The text also changes to grey. These are two visual clues for the Feasibility Teacher that the students can NOT see the quiz. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406300719</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="31">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Quiz-Preview</title>
+        <content>&lt;h1&gt;Quiz-Preview&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Feasibility Teachers may want to preview a quiz. For this, editing does not need to be turned on. &lt;/p&gt;
+&lt;p&gt;Clicking on the quiz title from the main course page will display the same introductory page that students will see. There will also a button to Preview the quiz. Additionally, the Feasibility Teacher will see the number of Attempts allowed and how many total attempts of the quiz that there currently are. Notice in the example below that students are allowed one attempt at the quiz. So far, 9 students have attempted the quiz. If the Feasibility Teacher wants to preview the quiz, clicking on the "Preview quiz now" button will do just that. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Intro.png" width="815" height="497" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406301411</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="32">
+        <pagenum>3</pagenum>
+        <subchapter>1</subchapter>
+        <title>Preview-Moving around</title>
+        <content>&lt;h1&gt;Moving Around a Quiz&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Preview will show the first 10 questions (this is a setting within the quiz). The Feasibility Teacher can scroll through to see the questions and potential answers. If there are more than 10 questions, scrolling to the bottom will reveal a button to go to the next page. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Question_Next.png" width="608" height="313" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Above is an example of a quiz question and the Next button to move to the next 10 questions. &lt;/p&gt;
+&lt;p&gt;Alternatively, there is a Quiz Navigation block that the Feasibility Teacher can use as well.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Nav.png" width="304" height="257" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Using the Quiz Navigation block allows the Feasibility Teacher can skip to whichever questions needed easily. Note that this will also provide a quick overview of how many questions are in the quiz. In this case, there are 20 questions. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406306592</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="33">
+        <pagenum>4</pagenum>
+        <subchapter>1</subchapter>
+        <title>Preview- Quiz attempts</title>
+        <content>&lt;h1&gt;Preview- Quiz attempts&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;On the Quiz preview screen, there is also an Attempts link. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Attempts.png" width="847" height="425" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;In this example, each student is allowed one attempt and 9 students have attempted the quiz. &lt;/p&gt;
+&lt;p&gt;Clicking on the Attempts will take you to a report page. This can provide a valuable report. You'll notice that you can set the criteria that you want in terms of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Attempts from - use the picker to select from:
+&lt;ul&gt;
+&lt;li&gt;enrolled users who have attempted the quiz - &lt;i&gt;very useful&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;enrolled users who have not attempted the quiz &lt;/li&gt;
+&lt;li&gt;enrolled users who have or have not attempted the quiz&lt;/li&gt;
+&lt;li&gt;all users who have attempted the quiz - &lt;em&gt; this will include users no longer enrolled in the course&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Attempts that are:
+&lt;ul&gt;
+&lt;li&gt;In progress - &lt;em&gt; these have not been completed and submitted&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Overdue&lt;/li&gt;
+&lt;li&gt;Finished&lt;/li&gt;
+&lt;li&gt;Never submitted&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Show only attempts that have been regraded/ are marked as needing regrading&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Clicking on the Show report button will create the report. (&lt;em&gt;&lt;strong&gt;*Note that it will probably look like nothing is happening unless you have a very large screen. The report will be displayed further down. Simply scroll down to see the report).&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Result_Report.png" width="895" height="609" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Once you scroll down, you will see the results. (&lt;em&gt;Some information is purposely obscured for this example&lt;/em&gt;). &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Results_Table.png" width="1106" height="361" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Notice the wealth of information. Each student is included in the report. You can see when the student took the quiz and how long it took. You will also see the overall grade on the quiz. Finally, you will see each question and whether or not the student answered correctly (green check is correct, red X is incorrect), along with the points for each question. &lt;/p&gt;
+&lt;p&gt;This table can also be sorted by any of the columns. By clicking on First name, the student's would be reordered alphabetically by First name. Clicking on a question will sort the results by ascending order of grades for that question.&lt;/p&gt;
+&lt;p&gt;Next, note that individual attempts can be deleted. Simply click the check box to the left of the student name (or multiple students) and then click the "Delete selected attempts" button. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Delete_Responses.png" width="925" height="131" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;You will see a Confirmation screen asking "Are you absolutely sure that want to completely delete these attempts?" with the options of "Yes" or "Cancel". &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;There are still more goodies though. &lt;/p&gt;
+&lt;p&gt;Notice the Review attempt link under each name? Clicking on that will show the quiz and how that particular student answered each question. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Student_Reponse.png" width="750" height="863" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;You get demographic information along the top, Student name, when the quiz was started, whether it was finished or not, time taken on the quiz, marks (how many correct out of the total), grade and Feedback. &lt;/p&gt;
+&lt;p&gt;Next you'll see the actual question. The student answer will be highlighted along with whether the answer was marked as being correct or not (green check is correct, red X wrong). The next box will display the correct answer. The next block contains a link that allows the Feasibility Teacher to make a comment or override the mark. Finally, there is a box to show the response history. &lt;/p&gt;
+&lt;p&gt;These boxes will be repeated for each question. &lt;/p&gt;
+&lt;p&gt;Scrolling down even more will display the overall grade range for the class. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Grade_Range.png" width="861" height="644" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;In this example, most of the students scored between 50-75. &lt;/p&gt;
+&lt;p&gt;It is also possible for a Feasibility Teacher to Regrade selected attempts. This would only be used if there was a problem discovered within a quiz and a correct answer needed to be updated. Thus, for ATEP, this will not be used. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406819458</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="34">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Quiz - Grade</title>
+        <content>&lt;h1&gt;Quiz - Grade&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Any quiz that is multiple choice or that have a discrete answer will be graded automatically. A quiz that contains an essay question will not be graded until the teacher manually grades that question.&lt;/p&gt;
+&lt;p&gt;To grade an essay. &lt;/p&gt;
+&lt;p&gt;Click on the name of the quiz from the main page. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Section1.png" width="140" height="35" alt=" " style="border: 2px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;This will take you to the page where you can preview the quiz. In the Administration block click on Quiz administration |  Preview | Results | Manual Grading&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Manual_Grading.png" width="293" height="366" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;This will open the Questions that need grading screen.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Grade_Manual_Screen.png" width="1025" height="344" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Under the "To grade" column will be a link to grade the essays. Click that to, well, grade the essays. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Grade_Essay_Example.png" width="884" height="755" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Notice that you will see the number of items needing to be graded. The you will see the question and student response. Scrolling down a little bit more, you will see an area for Feasibility Teacher Comment and a grade. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Quiz-Grade_Example2.png" width="958" height="465" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Enter any comments for the student, then enter the mark (points). Notice that the number of points available is also displayed. In this case, the essay is worth 1.00 points. &lt;/p&gt;
+&lt;p&gt;Click "Save and go to next page" to continue grading. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406313255</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

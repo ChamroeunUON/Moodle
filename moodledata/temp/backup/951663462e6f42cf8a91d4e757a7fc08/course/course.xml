@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="2" contextid="44">
+  <shortname>Using Moodle</shortname>
+  <fullname>Using Moodle</fullname>
+  <idnumber></idnumber>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <format>topics</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1471147200</startdate>
+  <marker>0</marker>
+  <maxbytes>20971520</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme></theme>
+  <timecreated>1471136142</timecreated>
+  <timemodified>1476977426</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>9</numsections>
+  <hiddensections>1</hiddensections>
+  <coursedisplay>1</coursedisplay>
+  <category id="1">
+    <name>Learning How to Use the ATEP Moodle</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+</course>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="10" moduleid="26" modulename="book" contextid="74">
+  <book id="10">
+    <name>Reports</name>
+    <intro>&lt;h1&gt;Reports&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Feasibility Teacher has access to several reports which can provide valuable information. These reports include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Course Completion Report&lt;/li&gt;
+&lt;li&gt;Logs&lt;/li&gt;
+&lt;li&gt;Live Logs&lt;/li&gt;
+&lt;li&gt;Activity Report&lt;/li&gt;
+&lt;li&gt;Course participation&lt;/li&gt;
+&lt;li&gt;Activity completion&lt;/li&gt;
+&lt;li&gt;Statistics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These reports can be used for a variety of purposes. Each report can provide valuable information.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1406289559</timecreated>
+    <timemodified>1406289559</timemodified>
+    <chapters>
+      <chapter id="50">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Course Completion</title>
+        <content>&lt;h1&gt;Course Completion&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The course completion report shows an overview of students and which assignments they have completed.&lt;em&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;[*Note that this will only show activities which have Activity completion set to on.] &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/Reports-Course_Completion.png" width="562" height="635" style="border: 4px solid black;" /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This report show the student names in the first column and their email address (email addresses may not be real in ATEP). The assignments with Activity completion status set will occur toward the top of the table. There is a box for each assignment for each student. A check mark indicates that the activity is complete. &lt;/p&gt;
+&lt;p&gt;*Note that the boxes can be comprised of a dotted or solid line. The dotted line indicates that the student has to do something (like submit the assignment or the student must view the assignment) in order for the activity to be marked complete. I solid line box means that the student can check the box to indicate that it has been completed. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406290458</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="51">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Access Reports</title>
+        <content>&lt;h1&gt;Accessing Reports&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Reports can be found in the Administration block under Course administration. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Reports-Navigation.png" width="301" height="476" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Click on the Administration block, then click on Course administration, then Reports.&lt;/p&gt;
+&lt;p&gt;Next select the report that you want to view.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406290708</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="52">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Logs</title>
+        <content>&lt;h1&gt;Logs&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;There is a wealth of information available in the Logs. However, most of this is most useful for system administrators. However, one report that a Feasibility Teacher may find handy is the ability to look at what a student has "done" in the course. This report can be done by:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Report-Student_Activity.png" width="1030" height="486" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Notice the wealth of information here. By selecting only one student in the drop down (Test Student), the Feasibility Teacher can view when the student logged into Moodle, which activities that they opened, what type of activity that it is and their IP address. By looking at this report, the Feasibility Teacher can even tell how much time was spent on the assignment (for some things).&lt;/p&gt;
+&lt;p&gt;Note in the screen shot below that our student (Test Student) started the lesson at 14:02 ( 2:02 p.m.), and ended the lesson at 14:08. Thus, this student spent 6 minutes on the assignment. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Report-Student_Time.png" width="907" height="639" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Similarly, this report can also be used to provide a report on who accessed the course on a specific day. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Report-Log_Day.png" width="1005" height="286" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Here, Wednesday, 16 July 2014 has been chosen from the drop down menu. All activities were selected. This means that the Feasibility Teacher will see all activity on that day. If needed, the Feasibility Teacher could limit this down to a specific assignment. Note that you can filter by all of these settings. Once you have made your selections, just click the "Get these logs" button. &lt;/p&gt;
+&lt;p&gt;These logs can be useful for verifying when and where students are accessing Moodle. These reports can also help the Feasibility Teacher understand how much time the students have the assignments open (though not whether or not the student is paying attention). &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406291947</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="53">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Live Logs</title>
+        <content>&lt;h1&gt;Live Logs&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Live logs are similar to the Logs. This report will show what is currently happening (who is logged in and what that person is looking at). This places a load on the server and should be used judiciously. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406292924</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="54">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Activity Report</title>
+        <content>&lt;h1&gt;Activity Report&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Activity Report is an easy way to view how many times an assignment has been viewed and when the last time is was viewed. This has limited usefulness, but will inform you as to whether the class has started an assignment or not. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Report-Activity.png" width="1009" height="401" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Clicking on any of the assignment titles will simply take you to that assignment. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406293392</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="55">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Course Participation</title>
+        <content>&lt;h1&gt;Course Participation&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Course participation report can useful to look at a specific assignment and see whether students have viewed it or not. There are several drop downs from which to make selections. &lt;/p&gt;
+&lt;p&gt;In the example below, the assignment (Autobiography Assignment) has been selected along with looking back 1 day. Also, only the Student role is being reported and whether the student has viewed the assignment. The result is as follows:&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Report-Course_Participation.png" width="927" height="596" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;This report tells me that of the 4 students that I have enrolled in the course, none of them have viewed the Autobiography Assignment over the last day. &lt;/p&gt;
+&lt;p&gt;*&lt;em&gt;&lt;strong&gt;One of the features of this report is the ability to send a message to those students who haven't viewed or posted an activity. However, please remember that email addresses may not be accurate or used within ATEP. &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406294368</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="56">
+        <pagenum>7</pagenum>
+        <subchapter>0</subchapter>
+        <title>Activity completion</title>
+        <content>&lt;h1&gt;Activity completion&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Activity completion report provides the Feasibility Teacher an overview of students and which activities that they've completed. (*Remember, this will only report activities that have been marked for tracking completion status). &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;As you can see below, this report lists all of the students. A check box will occur in any activity that has been marked as complete. This provides a wonderful overview of what the class has completed. &lt;/p&gt;
+&lt;p&gt;Note also the solid versus dotted lines that make up the boxes. A dotted line indicates that the activity will be marked complete when preset criteria is met. A solid line indicates that the student can manually mark the assignment complete. &lt;/p&gt;
+&lt;p&gt;Also note that the Feasibility Teacher can narrow search for students whose first or last name starts with a specific letter by clicking on the appropriate letter. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Report-Actiivty_Completion.png" width="851" height="496" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This report can be downloaded in a CSV file format by using the link at the bottom of the screen. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Report-Activity_Completion_Download.png" width="743" height="162" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406296731</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="57">
+        <pagenum>8</pagenum>
+        <subchapter>0</subchapter>
+        <title>Statistics</title>
+        <content>&lt;h1&gt;Statistics&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Statistics provides a nice graph of activity. However, this has limited use for a Feasibility Teacher. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Report-Statistics.png" width="1096" height="700" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406297118</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

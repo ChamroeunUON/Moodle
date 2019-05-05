@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="3" moduleid="17" modulename="book" contextid="65">
+  <book id="3">
+    <name>Assignment - How to Guide</name>
+    <intro>&lt;p&gt;An opportunity to learn how to use the Assignment module. This is used throughout the ATEP course. &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1405953654</timecreated>
+    <timemodified>1405953654</timemodified>
+    <chapters>
+      <chapter id="18">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Getting Started</title>
+        <content>&lt;h1&gt;Assignment Module&lt;/h1&gt;
+&lt;p&gt;The Assignment module allows students to turn in work easily. You can tell very easily that you are working on by the icon ( &lt;img src="@@PLUGINFILE@@/Icon-Assignment.png" width="41" height="39" alt="Assignment Icon" /&gt;).&lt;/p&gt;
+&lt;p&gt;In this guide, you will learn about using the Assignment module. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1405954224</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="19">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Submitting an Assignment</title>
+        <content>&lt;h1&gt;Student's Perspective&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;From a student's perspective, adding an assignment is much like turning in a traditional assignment. The student will complete their work in as a separate document and then upload the document to the teacher. &lt;/p&gt;
+&lt;p&gt;The student will start by clicking on the name of the assignment:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Assignment-Name.png" width="536" height="102" style="border: 6px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;In this example, the assignment is titled 1.1.1 Important Technology. Once the student clicks the link, they are ready for the next step. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1405954665</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="20">
+        <pagenum>3</pagenum>
+        <subchapter>1</subchapter>
+        <title>Student Instructions</title>
+        <content>&lt;h1&gt;Student's Perspective Part 2&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The student has clicked the link to open the assignment. The student is now presented with information to complete the assignment. This should also be communicated prior to the student starting the assignment. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Assignmentn%20information.png" width="926" height="682" style="border: 6px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Notice that the student receives information about the assignment, submission status, grading status and a button to submit an assignment (Add submission). &lt;/p&gt;
+&lt;p&gt;Next, we'll review how students submit an assignment.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1405958577</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="21">
+        <pagenum>4</pagenum>
+        <subchapter>1</subchapter>
+        <title>Student Submission 1</title>
+        <content>&lt;h1&gt;Student Submission- Drag &amp;amp; Drop&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Once the student clicks the Add submission button,  the student will have two ways of adding a submission. Note that the student MUST have the assignment complete as a Word document, text file or some other digital file prior to uploading (turning in). &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Assignment-Drag_Drop.png" width="926" height="733" style="border: 6px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;It may be necessary to show students how to resize their browser window so that they can see the window where their document is and the browser window above. &lt;/p&gt;
+&lt;p&gt;This will work with most modern browsers. However, older versions of Internet Explorer may not work. If that is the case, students should either use Chrome or Firefox, or use the upload link. &lt;/p&gt;
+&lt;p&gt;Our next topic will cover how students can use the upload link. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1405959989</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="22">
+        <pagenum>5</pagenum>
+        <subchapter>1</subchapter>
+        <title>Student Submission 2</title>
+        <content>&lt;h1&gt;Student Submission - Upload link&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The previous page showed how students can upload a document to the Assignment module using Drag and Drop. While this is the easiest way to upload the file, this may not work for some students. &lt;/p&gt;
+&lt;p&gt;Another way to upload a document to the Assignment module is to use the upload link. The student will still click on the "Add submission" button. However, instead of dragging and dropping a document, the student will click the "Add..." icon. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Assignment-Upload_Link.png" width="917" height="467" style="border: 6px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Once the "Add..." button is clicked, the student will be presented with a File Picker. Directions for using the File Picker:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Click on &lt;strong&gt;Upload a file&lt;/strong&gt; on the left hand panel. &lt;/li&gt;
+&lt;li&gt;Click on the Choose file button&lt;/li&gt;
+&lt;li&gt;Navigate to the file to be uploaded&lt;/li&gt;
+&lt;li&gt;Enter a name in the Save as field&lt;/li&gt;
+&lt;li&gt;Click on Upload this file&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Assignment-Upload_File_Picker.png" width="1083" height="568" style="border: 6px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;As you can see, it may be easy to use the Drag and Drop feature. However, uploading files will always work. This is also an important skill for students to learn. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1405959867</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="23">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Feasibility Teacher view</title>
+        <content>&lt;h1&gt;Feasibility Teacher view&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Since the main role of the Feasibility Teacher is to grade the assignments, the view for the Feasibility Teacher looks very different. Clicking on an Assignment will open a window that is similar, yet very different, to what the student will see. &lt;/p&gt;
+&lt;p&gt;The Feasibility Teacher will still see the information for the assignment, but will also see a link to grade the assignment, information on the number of participants (Students), the number of submissions, and the number of assignments needing to be graded.&lt;/p&gt;
+&lt;p&gt;Notice in the example below that the blue box contains the same information as the student would see. However, the Feasibility Teacher also will see a Grading summary section. Finally, there is a link to View/grade all submissions. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Assignment-Feasibility_View.png" width="799" height="623" style="border: 6px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;When the Feasibility Teacher is ready to grade submissions, click on View/grade all submissions.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1405960615</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="24">
+        <pagenum>7</pagenum>
+        <subchapter>0</subchapter>
+        <title>Grading</title>
+        <content>&lt;h1&gt;Feasibility Teacher - Grading&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Once the Feasibility Teacher has clicked the "View/grade all submissions" link, the Feasibility Teacher will see a list of students enrolled in the course and whether or not they have submitted an assignment. &lt;/p&gt;
+&lt;p&gt;Notice in the screenshot below that there are two students enrolled. One of them has submitted a document to be graded. This is highlighted in green in the Submission status column. The document itself is in the last column.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Assignment-Grading_Submissions.png" width="809" height="792" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;strong&gt;Important Note: at this point, the student could still change the submission.&lt;/strong&gt; In order to prevent the student from changing the submission, the Feasibility Teacher needs to Lock the submission. Locking the submission is important to avoid confusion. If the student wants to make changes and their submission hasn't been graded or locked, they could upload a new document. The Feasibility Teacher would then be grading a different document than the student is expecting to be graded. There are two ways of locking the submission:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li style="list-style-type: none;"&gt;&lt;ol&gt;
+&lt;li&gt;Click on the tick box next to one or more submissions. Make sure the choice is "Lock submissions. Click "Go" (Note, the Feasibility Teacher can lock a large number of submissions at once using this method). &lt;/li&gt;
+&lt;li&gt;Click on "Edit" in the Edit column. Select "Prevent submission changes"&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;img src="@@PLUGINFILE@@/Assignment-Grading_Prevent_Changes.png" width="808" height="509" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;Once the Feasibility Teacher has locked the document, you'll notice that Status will change to include the Submission lock:&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;img src="@@PLUGINFILE@@/Assignment%20Locked.png" width="782" height="365" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Now the Feasibility Teacher is ready to grade this assignment. (Using the tick box under "Select" will automatically select all of the students. Using "Lock submissions" and the "Go" button will lock all of the submissions.)&lt;/p&gt;
+&lt;p&gt;Now let's grade. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1405967314</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="25">
+        <pagenum>8</pagenum>
+        <subchapter>1</subchapter>
+        <title>Grading- Continued</title>
+        <content>&lt;h1&gt;Grading - Continued&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Once the submission is locked it is ready to be graded. Click on either the Grade icon or choose Edit | Grade.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Assignment-Grade-Grade.png" width="817" height="449" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This will take you to the Grading screen.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Assignment%20Grade%20screen.png" width="612" height="615" style="border: 4px solid black;" /&gt; &lt;/p&gt;
+&lt;p&gt;Notice the information available and the File submission. Clicking on the attachment after File submissions will open a prompt to either download or open the document. (Note that your computer must have a program associated with that file type to open). &lt;/p&gt;
+&lt;p style="margin-left: 60px;"&gt;&lt;em&gt;*Note that there is a section for Submission comments. Students can enter comments when submitting or after. The Feasibility Teacher can also enter comments. Simply &lt;/em&gt;&lt;i&gt;click on the disclosure triangle to the left of the word Comments. The number after the word Comments indicates the number of Comments. &lt;/i&gt;&lt;/p&gt;
+&lt;p style="margin-left: 60px;"&gt;&lt;i&gt;&lt;img src="@@PLUGINFILE@@/Assignment-Grading%20Comments.png" width="774" height="191" style="border: 4px solid black;" /&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p style="margin-left: 60px;"&gt;&lt;/p&gt;
+&lt;p style="margin-left: 60px;"&gt;&lt;em&gt;*If you want to add a comment, type in the Add a comment box and click Save comment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Once you have opened and graded the document, scroll down to reveal box to enter the grade. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Assignment-Grade_Save_Changes.png" width="490" height="662" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Enter the value of the grade. Generally, the Feasibility Teacher can then click Save changes and go to the next item to be graded. &lt;/p&gt;
+&lt;p&gt;Note though that the Feasibility Teacher can also choose note to Notify students. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1405970191</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="26">
+        <pagenum>9</pagenum>
+        <subchapter>1</subchapter>
+        <title>Alternate Grading Method</title>
+        <content>&lt;h1&gt;Alternate Grading Method&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Some Feasibility Teachers may find it easier to download all of the documents, grade them and then enter a grade in the grade book. &lt;/p&gt;
+&lt;p&gt;In the Administration  block, Click on Course Administration, then Click on Grade. This will take you to the Grade book. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Assignment%20Grade%20link.png" width="314" height="717" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Once you are in the Gradebook, click on the title of the Assignment that you want to grade. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Assignment-Grades_View.png" width="937" height="615" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;*Here's a secret. This link will take you to the same Assignment Grade page as the previous instructions. Make sure that you click on the title and not just the triangle. &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;img src="@@PLUGINFILE@@/Assignment-Feasibility_View.png" width="799" height="623" style="border: 4px solid black;" /&gt; &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Click on View/grade submissions (just like before). &lt;/p&gt;
+&lt;p&gt;This time, we will choose a Grading Action. From the Drop down Menu selection under Grading actions, select "Download all submissions..."&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Assignment-Grade_Download_all.png" width="577" height="480" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This will open a Download prompt on your computer. You will have the choice to either open or download.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Assignment-Grade_Download_prompt.png" width="429" height="300" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;All of the documents that have been submitted for grading will be included in a zip file. Expanding that file will reveal individual documents with student names as the beginning of the Title. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1405974763</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="27">
+        <pagenum>10</pagenum>
+        <subchapter>1</subchapter>
+        <title>Alternative Grading-Manually entering grades</title>
+        <content>&lt;h1&gt;Alternative Grading&lt;/h1&gt;
+&lt;h2&gt;Manually entering grades&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Once you have downloaded and graded the documents from the Assignment, you are ready to enter those grades into the Gradebook. &lt;/p&gt;
+&lt;p&gt;Remember to get to the Gradebook, Click on the Administration block, then Course Administration, then Grades. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Block-Administration_Gradebook.png" width="200" height="339" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Once the Grade book is open, turn editing on by clicking the "Turn editing on" button on the top, right hand side of the screen.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Grades-Turn_editing_on.png" width="820" height="434" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Now you will see boxes under the each assignment. Simply type the scores into the appropriate box. Click the next box to enter the next score. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Grades-Manually_enter.png" width="821" height="514" style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt; Once you have entered all the scores, Click the Update button. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1405988985</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

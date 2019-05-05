@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="5" moduleid="33" modulename="page" contextid="81">
+  <page id="5">
+    <name>NOTES on implementation</name>
+    <intro>&lt;p&gt;Notes for copying the course into another Moodle instance. &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h1&gt;Welcome. &lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This project is the result of a National Science Foundation grant.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Instructor Notes&lt;/h2&gt;
+&lt;p&gt;There are several folders of instructor notes throughout the course. (These folders are labeled with (INSTRUCTOR ONLY). These folders are designed to assist teachers in the course. Some of the folders contain standards alignment. Some contain teaching tips or notes. Once installed, teachers can add to these folders with the knowledge that students will NOT be able to view anything within that folder. &lt;/p&gt;
+&lt;p&gt;Students are specifically removed from being able to see these (this is done via permissions). Some of the folders are placeholders where your instructors can add their specific documentation. These folders will show up for teachers, non-editing teachers, managers and guests (so that you can see them for review). In an actual implementation, it is suggested that either guest access NOT be enabled for this course, or the permission to view each folder is removed. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Guest Access&lt;/h2&gt;
+&lt;p&gt;Guest access is turned on specifically for this implementation of the course. Once this course is installed into your Moodle instance, you may want to make sure that Guest Access is turned off. Importantly, note that Guest Access can view INSTRUCTOR ONLY folders. This can be removed by controlling the permissions for each folder. &lt;/p&gt;
+&lt;h2&gt;Completion&lt;/h2&gt;
+&lt;p&gt;Activity completion was designed to be part of this course. If you want to use Activity completion, it needs be turned on at the site and course level. &lt;/p&gt;
+&lt;h2&gt;Copy right&lt;/h2&gt;
+&lt;p&gt;Appropriate copyright permissions were secured for images used throughout this site. Many of the images are public domain or creative commons. Many of the videos are linked to original source material found on YouTube. &lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1471138299</timemodified>
+  </page>
+</activity>

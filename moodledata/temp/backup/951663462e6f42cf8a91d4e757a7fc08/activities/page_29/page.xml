@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="4" moduleid="29" modulename="page" contextid="77">
+  <page id="4">
+    <name>Forums</name>
+    <intro>&lt;p&gt;Forums are a great way to communicate with students. Even more powerful, students can communicate with each other. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;Forums are a great way to communicate with students. Even more powerful, students can communicate with each other. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Within ATEP, Feasibility Teachers can not add new Forums into courses. However, in any courses that have Forums available, Feasibility Teachers can create posts, respond to student questions, share tips and provide communication to students. &lt;/p&gt;
+&lt;p&gt;*Note that students can also create new discussion topics. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Here is an example of a Forum in a course:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Forum-Title.png" width="725" height="90" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Notice the double chat bubbles that indicate it is a Forum activity. Clicking on the title "Extension Activity" will take the student or teacher to the forum. &lt;/p&gt;
+&lt;p&gt;Notice in the example below, there are three main sections:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Directions on what to do with the forum&lt;/li&gt;
+&lt;li&gt;A button to add a discussion topic&lt;/li&gt;
+&lt;li&gt;A listing of forum topics (none have been entered so far). &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Forum-Page.png" width="662" height="418" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Clicking on the "Add a new discussion topic" button will allow the user to create a new discussion topic. The user will need to enter a Subject and a Message at a minimum.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Forum-Entry.png" width="728" height="282" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Users can add attachments if useful. Finally, users can subscribe via email to the posts (*warning, may not be useful if pertinent email information for students hasn't been entered). &lt;/p&gt;
+&lt;p&gt;Once the Subject and Message are written, the user scrolls to the bottom and clicks "Post to forum". &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Forum-Post.png" width="852" height="478" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;*Note that the Message box contains full editing tools. Users can style the text, add images, videos, etc. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Once there has been a topic created, replies can be entered. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1407287508</timemodified>
+  </page>
+</activity>

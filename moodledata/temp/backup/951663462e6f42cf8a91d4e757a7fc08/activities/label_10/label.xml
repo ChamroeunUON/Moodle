@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="10" modulename="label" contextid="58">
+  <label id="2">
+    <name>In Moodle, each user is assigned at least one role...</name>
+    <intro>&lt;p&gt;In Moodle, each user is assigned at least one role (multiple roles can be assigned). Different roles create different experiences within Moodle. In this section, you will learn about the various roles, how those roles experience Moodle and what each role can do. &amp;nbsp;As you work through this section, please pay particular attention to the ability that each role has. To get started, click on the term Course Roles below. &amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;u&gt;This information is presented using the Book Module. The Book Module is a terrific way to present information. It allows for a "Table of Contents" so that the students can easily navigate through the reading.&amp;nbsp;&lt;/u&gt;&lt;/i&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1405537895</timemodified>
+  </label>
+</activity>

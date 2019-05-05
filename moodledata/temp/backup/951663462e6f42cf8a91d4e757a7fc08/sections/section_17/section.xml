@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="17">
+  <number>3</number>
+  <name>Display Control</name>
+  <summary>&lt;p&gt;ATEP allows the Feasibility Teachers to control what students see and when. This section will show you how to accomplish this. &lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>13,14</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+</section>

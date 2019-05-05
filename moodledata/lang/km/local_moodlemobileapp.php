@@ -1,0 +1,467 @@
+<?php
+
+// This file is part of Moodle - http://moodle.org/
+//
+// Moodle is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// Moodle is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+
+/**
+ * Strings for component 'local_moodlemobileapp', language 'km', branch 'MOODLE_26_STABLE'
+ *
+ * @package   local_moodlemobileapp
+ * @copyright 1999 onwards Martin Dougiamas  {@link http://moodle.com}
+ * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
+defined('MOODLE_INTERNAL') || die();
+
+$string['addon.calendar.calendarevents'] = 'ព្រឹត្តិការណ៍ក្នុងប្រតិទិន';
+$string['addon.calendar.defaultnotificationtime'] = 'ពេលវេលាជូនដំណឹងតាមលំនាំដើម';
+$string['addon.calendar.errorloadevent'] = 'មានកំហុសក្នុងការដំណើរព្រឹត្តិការណ៍';
+$string['addon.calendar.errorloadevents'] = 'មានកំហុសក្នុងការដំណើរព្រឹត្តិការណ៍';
+$string['addon.calendar.noevents'] = 'មិនមានព្រឹត្តិការណ៍ទេ';
+$string['addon.competency.errornocompetenciesfound'] = 'គ្មានសមត្ថភាពត្រូវបានរកឃើញទេ';
+$string['addon.competency.nocompetencies'] = 'គ្មានសមត្ថភាព';
+$string['addon.coursecompletion.complete'] = 'បញ្ចប់';
+$string['addon.coursecompletion.couldnotloadreport'] = 'មិនអាចដំណើរការរបាយការណ៍បញ្ចប់វគ្គសិក្សាទេ។ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ។';
+$string['addon.files.couldnotloadfiles'] = 'មិនអាចដំណើរការបញ្ជីឯកសារទេ។';
+$string['addon.files.emptyfilelist'] = 'មិនមានឯកសារសម្រាប់បង្ហាញទេ។';
+$string['addon.files.erroruploadnotworking'] = 'ជាអកុសល បច្ចុប្បន្នអ្នកមិនអាចផ្ទុកឡើងនូវឯកសារទៅតំបន់បណ្តាញរបស់អ្នកបានទេ។';
+$string['addon.messageoutput_airnotifier.processorsettingsdesc'] = 'កំណត់រចនាសម្ព័ន្ធឧបករណ៍';
+$string['addon.messages.contactlistempty'] = 'បញ្ជីទំនាក់ទំនងគឺទទេ';
+$string['addon.messages.contactname'] = 'ឈ្មោះទំនាក់ទំនង';
+$string['addon.messages.deletemessage'] = 'លុបសារ';
+$string['addon.messages.deletemessageconfirmation'] = 'តើអ្នកប្រាកដថាចង់លុបសារនេះដែរឬទេ? វានឹងត្រូវបានលុបចេញតែពីបញ្ជីសាររបស់អ្នកប៉ុណ្ណោះ ហើយអ្នកប្រើដទៃដែលបានផ្ញើ ឬទទួលសារនេះនឹងនៅតែអាចមើលឃើញវាដដែល។';
+$string['addon.messages.errordeletemessage'] = 'មានកំហុសពេលលុបសារនេះ។';
+$string['addon.messages.errorwhileretrievingcontacts'] = 'មានកំហុសនៅពេលកំពុងទាញយកព័ត៌មានទំនាក់ទំនងពីម៉ាស៊ីនបម្រើ';
+$string['addon.messages.errorwhileretrievingdiscussions'] = 'មានកំហុសនៅពេលកំពុងទាញយកការពិភាក្សាពីម៉ាស៊ីនបម្រើ';
+$string['addon.messages.errorwhileretrievingmessages'] = 'មានកំហុសនៅពេលកំពុងទាញយកសារពីម៉ាស៊ីនបម្រើ';
+$string['addon.messages.errorwhileretrievingusers'] = 'មានកំហុសនៅពេលកំពុងទាញយកអ្នកប្រើពីម៉ាស៊ីនបម្រើ';
+$string['addon.messages.messagenotsent'] = 'សារនេះមិនត្រូវបានផ្ញើចេញទេ។ សូមព្យាយាមម្ដងទៀតពេលក្រោយ។';
+$string['addon.messages.newmessages'] = 'សារថ្មី';
+$string['addon.messages.nousersfound'] = 'រកពុំឃើញអ្នកប្រើប្រាស់ទេ';
+$string['addon.messages.showdeletemessages'] = 'បង្ហាញសារដែលបានលុប';
+$string['addon.messages.type_blocked'] = 'ត្រូវបានរារាំង';
+$string['addon.messages.type_offline'] = 'ក្រៅបណ្ដាញ';
+$string['addon.messages.type_online'] = 'ក្នុងបណ្ដាញ';
+$string['addon.messages.type_search'] = 'លទ្ធផលនៃការស្វែងរក';
+$string['addon.messages.type_strangers'] = 'ផ្សេងៗ';
+$string['addon.messages.warningconversationmessagenotsent'] = 'មិនអាចផ្ញើសារចូលក្នុងការសន្ទនា {{conversation}} បានទេ។ {{error}}';
+$string['addon.messages.warningmessagenotsent'] = 'មិនអាចផ្ញើសារទៅអ្នកប្រើប្រាស់ {{user}}។ {{error}}';
+$string['addon.mod_assign.acceptsubmissionstatement'] = 'សូមទទួលយកតាមសេចក្តីថ្លែងអំពីការប្រគល់កិច្ចការ។';
+$string['addon.mod_assign.cannoteditduetostatementsubmission'] = 'អ្នកមិនអាចបន្ថែម ឬ កែកិច្ចការនៅក្នុងកម្មវិធីទូរស័ព្ទបានទេ ព្រោះមិនអាចទាញយកសេចក្តីថ្លែងអំពីការប្រគល់កិច្ចការពីបណ្ដាញបាន។';
+$string['addon.mod_assign.cannotgradefromapp'] = 'របៀបដាក់ពិន្ទុមួយចំនួនពុំទាន់អាចប្រើប្រាស់បាននៅលើកម្មវិធីទូរស័ព្ទបានទេ និង មិនអាចកែប្រែបានទៀតផង។';
+$string['addon.mod_assign.cannotsubmitduetostatementsubmission'] = 'អ្នកមិនអាចធ្វើការប្រគល់កិច្ចការតាមរយៈទូរស័ព្ទបានទេ ព្រោះមិនអាចទាញយកសេចក្តីថ្លែងអំពីការប្រគល់កិច្ចការពីបណ្តាញបាន។';
+$string['addon.mod_assign.erroreditpluginsnotsupported'] = 'អ្នកមិនអាចបន្ថែម ឬ កែកិច្ចការនៅក្នុងកម្មវិធីទូរស័ព្ទបានទេ ព្រោះកម្មវិធីបន្ថែមមួយចំនួនមិនទាន់អាចប្រើបានទេសម្រាប់ការកែតម្រូវ។';
+$string['addon.mod_assign.errorshowinginformation'] = 'ពុំអាចបង្ហាញព័ត៌មានពីកិច្ចការបានទេ។';
+$string['addon.mod_assign.feedbacknotsupported'] = 'មតិមូលវិចារនេះមិនអាចប្រើបានក្នុងកម្មវិធីទូរស័ព្ទទេ ហើយ អាចមិនមានព័ត៌មានទាំងអស់ទេ ។';
+$string['addon.mod_assign.gradenotsynced'] = 'ពិន្ទុមិនទាន់បានបញ្ជូន។';
+$string['addon.mod_assign.notallparticipantsareshown'] = 'អ្នកចូលរួមដែលមិនទាន់បានប្រគល់កិច្ចការ មិនត្រូវបានបង្ហាញទេ។';
+$string['addon.mod_assign.submissionnotsupported'] = 'កិច្ចការនេះមិនអាចប្រើបានក្នុងកម្មវិធីទូរស័ព្ទទេ ហើយ អាចមិនមានព័ត៌មានទាំងអស់ទេ ។';
+$string['addon.mod_assign.userwithid'] = 'អ្នកប្រើប្រាស់ដែលមានលេខសម្គាល់ {{id}}';
+$string['addon.mod_assign.warningsubmissiongrademodified'] = 'ពិន្ទុសម្រាប់កិច្ចការត្រូវបានកែប្រែនៅលើបណ្ដាញ។';
+$string['addon.mod_assign.warningsubmissionmodified'] = 'កិច្ចការរបស់អ្នកប្រើប្រាស់ត្រូវបានកែប្រែនៅលើបណ្ដាញ។';
+$string['addon.mod_chat.errorwhileconnecting'] = 'មានកំហុសអំឡុងពេលភ្ជាប់ទៅកាន់ការជជែក។';
+$string['addon.mod_chat.errorwhilegettingchatdata'] = 'មានកំហុសអំឡុងពេលទាញយកទិន្នន័យការជជែក។';
+$string['addon.mod_chat.errorwhilegettingchatusers'] = 'មានកំហុសអំឡុងពេលទាញយកអ្នកប្រើប្រាស់សារជជែក។';
+$string['addon.mod_chat.errorwhileretrievingmessages'] = 'មានកំហុសអំឡុងពេលទាញយកសារពីម៉ាស៊ីនបម្រើ។';
+$string['addon.mod_chat.errorwhilesendingmessage'] = 'មានកំហុសអំឡុងពេលផ្ញើសារ។';
+$string['addon.mod_chat.mustbeonlinetosendmessages'] = 'អ្នកត្រូវតែភ្ជាប់ទៅកាន់បណ្ដាញអ៊ីនធឺណិតដើម្បីផ្ញើសារ។';
+$string['addon.mod_choice.errorgetchoice'] = 'មានកំហុសក្នុងការទាញយកទិន្នន័យជម្រើស។';
+$string['addon.mod_choice.responsesresultgraphdescription'] = 'អ្នកប្រើប្រាស់ {{number}}% បានជ្រើសយកជម្រើស: {{text}}។';
+$string['addon.mod_choice.resultsnotsynced'] = 'ចម្លើយចុងក្រោយរបស់អ្នកត្រូវតែបានបញ្ជូនអោយរួចរាល់មុនពេលដែលវាត្រូវបានដាក់ចូលទៅក្នុងលទ្ធផល។';
+$string['addon.mod_data.errorapproving'] = 'មានកំហុសក្នុងការទទួលយក ឬ ឈប់ទទួលយកទិន្នន័យដែលវាយចូល។';
+$string['addon.mod_data.errordeleting'] = 'មានកំហុសក្នុងការលុបធាតុដែលបានបញ្ចូល។';
+$string['addon.mod_feedback.captchaofflinewarning'] = 'សកម្មភាពមូលវិចារដោយមាន CAPTCHA មិនអាចបញ្ចប់នៅក្រៅបណ្តាញ ឬនៅពេលមិនទាន់បានកំណត់រចនាសម្ព័ន្ធ ឬនៅពេលម៉ាស៊ីនបម្រើមានបញ្ហាបានទេ។';
+$string['addon.mod_feedback.feedback_submitted_offline'] = 'មូលវិចារនេះត្រូវបានរក្សាទុកដើម្បីប្រគល់ពេលក្រោយ។';
+$string['addon.mod_folder.emptyfilelist'] = 'មិនមានឯកសារសម្រាប់បង្ហាញទេ។';
+$string['addon.mod_forum.errorgetforum'] = 'មានកំហុសក្នុងការទាញយកទិន្នន័យក្នុងវេទិកា។';
+$string['addon.mod_forum.errorgetgroups'] = 'មានកំហុសក្នុងទាញយកការកំណត់ក្រុម។';
+$string['addon.mod_forum.forumnodiscussionsyet'] = 'មិនទាន់មានការពិភាក្សានៅឡើយទេនៅក្នុងវេទិកានេះ។';
+$string['addon.mod_forum.group'] = 'ក្រុម';
+$string['addon.mod_forum.numdiscussions'] = 'ការពិភាក្សា {{numdiscussions}}';
+$string['addon.mod_forum.numreplies'] = 'ការឆ្លើយតប {{numreplies}}';
+$string['addon.mod_forum.refreshdiscussions'] = 'ដំណើរការកិច្ចពិភាក្សាសាជាថ្មី';
+$string['addon.mod_forum.refreshposts'] = 'ដំណើរការប្រកាសសាជាថ្មី';
+$string['addon.mod_glossary.browsemode'] = 'ស្វែងរកធាតុ';
+$string['addon.mod_glossary.byalphabet'] = 'តាមលំដាប់អក្ខរក្រម';
+$string['addon.mod_glossary.byauthor'] = 'ចាត់ជាក្រុមតាមអ្នកនិពន្ធ';
+$string['addon.mod_glossary.bycategory'] = 'ចាត់ជាក្រុមតាមប្រភេទ';
+$string['addon.mod_glossary.bynewestfirst'] = 'ថ្មីបំផុតមុន';
+$string['addon.mod_glossary.byrecentlyupdated'] = 'បានកែប្រែថ្មីៗ';
+$string['addon.mod_glossary.bysearch'] = 'ស្វែងរក';
+$string['addon.mod_glossary.cannoteditentry'] = 'មិនអាចកែប្រែធាតុបានទេ';
+$string['addon.mod_glossary.entriestobesynced'] = 'ធាតុដែលត្រូវធ្វើសមកាលកម្ម';
+$string['addon.mod_glossary.entrypendingapproval'] = 'ធាតុនេះគឺកំពុងរង់ចាំការយល់ព្រម។';
+$string['addon.mod_glossary.errorloadingentries'] = 'មានកំហុសមួយបានកើតឡើងនៅពេលបង្ហាញធាតុ។';
+$string['addon.mod_glossary.errorloadingentry'] = 'មានកំហុសមួយបានកើតឡើងនៅពេលបង្ហាញធាតុ។';
+$string['addon.mod_glossary.errorloadingglossary'] = 'មានកំហុសមួយបានកើតឡើងនៅពេលផ្ទុកសន្ទានុក្រម។';
+$string['addon.mod_glossary.noentriesfound'] = 'រកមិនឃើញធាតុទេ។';
+$string['addon.mod_glossary.searchquery'] = 'ពាក្យស្វែងរក';
+$string['addon.mod_imscp.showmoduledescription'] = 'បង្ហាញពីការពិពណ៍នា';
+$string['addon.mod_lesson.errorprefetchrandombranch'] = 'មេរៀននេះមានតំណលោតទៅកាន់ទំព័រមាតិកាចៃដន្យមួយ។ អ្នកមិនអាចសាកល្បងធ្វើមេរៀននេះនៅក្នុងកម្មវិធីទូរស័ព្ទទេ លុះត្រាតែវាត្រូវបានចាប់ផ្តើមដោយប្រើកម្មវិធីរុករកសិន។';
+$string['addon.mod_lesson.errorreviewretakenotlast'] = 'ការសាកល្បងនេះលែងអាចត្រួតពិនិត្យបានទៀតហើយ';
+$string['addon.mod_lesson.finishretakeoffline'] = 'ការព្យាយាមនេះគឺត្រូវបានបញ្ឈប់នៅពេលក្រៅបណ្តាញ។';
+$string['addon.mod_lesson.retakefinishedinsync'] = 'ការព្យាយាមនៅក្រៅបណ្តាញគឺត្រូវបានធ្វើសមកាលកម្ម។ តើអ្នកចង់ពីនិត្យមើលវាឡើងវិញដែរឬទេ?';
+$string['addon.mod_lesson.retakelabelfull'] = '{{retake}}: {{grade}} {{timestart}} ({{duration}})';
+$string['addon.mod_lesson.retakelabelshort'] = '{{retake}}: {{grade}} {{timestart}}';
+$string['addon.mod_lesson.warningretakefinished'] = 'ការព្យាយាមគឺបានបញ្ចប់នៅក្នុងគេហទំព័រ';
+$string['addon.mod_lti.errorgetlti'] = 'មានកំហុសក្នុងការទាញយកទិន្នន័យម៉ូឌុល';
+$string['addon.mod_lti.errorinvalidlaunchurl'] = 'URL នេះមិនត្រឹមត្រូវ';
+$string['addon.mod_lti.launchactivity'] = 'បង្ហាញសកម្មភាព';
+$string['addon.mod_page.errorwhileloadingthepage'] = 'មានកំហុសក្នុងការទាញយកខ្លឹមសារមកលើទំព័រនេះ';
+$string['addon.mod_quiz.cannotsubmitquizdueto'] = 'ការឆ្លើយសំណួរនេះមិនអាចបញ្ជូនទៅដោយហេតុផលខាងក្រោម៖';
+$string['addon.mod_quiz.confirmcontinueoffline'] = 'ការឆ្លើយនេះមិនត្រូវបានធ្វើសមកាលកម្ម តាំងពី {{$a}} ។ ប្រសិនជាអ្នកបានបន្តឆ្លើយនៅក្នុងឧបករណ៏ផ្សេងទៀត នោះ អ្នកប្រហែលនឹងបាត់បង់ទិន្នន័យនោះ។';
+$string['addon.mod_quiz.confirmleavequizonerror'] = 'មានកំហុសមួយអំឡុងពេលអ្នកកំពុងរក្សាទុកចម្លើយ ។ តើអ្នកប្រាកដឬថាអ្នកចង់ចេញពីសំណួរនេះឬទេ?';
+$string['addon.mod_quiz.errorbehaviournotsupported'] = 'សំណួរនេះគឺមិនអាចឆ្លើយបាននៅក្នុងកម្មវិធីនេះទេ ព្រោះតែសំណួរបែបនេះគឺមិនត្រូវបានគាំទ្រដោយកម្មវិធី';
+$string['addon.mod_quiz.errordownloading'] = 'មានកំហុសក្នុងការ ទាញយកទិន្នន័យដែលត្រូវការ';
+$string['addon.mod_quiz.errorgetattempt'] = 'មានកំហុស ក្នុងការទាញយកទិន្នន័យដែលឆ្លើយ';
+$string['addon.mod_quiz.errorgetquestions'] = 'មានកំហុស ក្នុងការទាញយកសំណួរ';
+$string['addon.mod_quiz.errorgetquiz'] = 'មានកំហុស ក្នុងការទាញយកទិន្នន័យសំណួរ';
+$string['addon.mod_quiz.errorparsequestions'] = 'មានកំហុសមួយអំឡុងពេលអ្នកកំពុងអានសំណួរ។ សូម ឆ្លើយសំណួរនេះនៅក្នុងកម្មវិធីរុកវិញ';
+$string['addon.mod_quiz.errorquestionsnotsupported'] = 'សំណួរនេះគឺមិនអាចឆ្លើយបាននៅក្នុងកម្មវិធីនេះទេ ព្រោះតែមានសំណួរដែលមិនត្រូវបានគាំទ្រដោយកម្មវិធី';
+$string['addon.mod_quiz.errorrulesnotsupported'] = 'សំណួរនេះគឺមិនអាចឆ្លើយបាននៅក្នុង កម្មវិធីនេះទេ ព្រោះតែសិទ្ធិក្នុងការប្រើប្រាស់នេះ មិនត្រូវបានគាំទ្រដោយកម្មវិធី។';
+$string['addon.mod_quiz.errorsaveattempt'] = 'មានកំហុស អំឡុងពេលរក្សាទុកទិន្នន័យនៃចម្លើយ';
+$string['addon.mod_quiz.finishnotsynced'] = 'បានបញ្ចប់ប៉ុន្តែមិនបានធ្វើសមកាលកម្មទេ';
+$string['addon.mod_quiz.opentoc'] = 'បើកម៉ឺនុយរុករកដែលលេចចេញមក';
+$string['addon.mod_quiz.warningattemptfinished'] = 'កាឆ្លើយក្រៅបណ្ដាញត្រូវបានបោះបង់ចោលនៅពេលវា បានបញ្ចប់នៅលើគេហទំព័រ ឬមិនត្រូវបានរកឃើញ';
+$string['addon.mod_quiz.warningdatadiscarded'] = 'ចម្លើយក្រៅបណ្តាញមួយចំនួនត្រូវបានបោះបង់ដោយសារតែសំណួរត្រូវបានកែប្រែលើបណ្តាញ';
+$string['addon.mod_quiz.warningdatadiscardedfromfinished'] = 'ការឆ្លើយមិនទាន់បញ្ចប់ដោយសារតែចម្លើយក្រៅបណ្ដាញមួយចំនួនត្រូវបានបោះបង់។ សូមពិនិត្យឡើងវិញនូវចម្លើយរបស់អ្នកហើយស្នើសុំឡើងវិញ';
+$string['addon.mod_resource.errorwhileloadingthecontent'] = 'មានកំហុសនៅអំឡុងពេលទាញយកអត្ថបទ';
+$string['addon.mod_resource.openthefile'] = 'បើកឯកសារ';
+$string['addon.mod_scorm.cannotcalculategrade'] = 'ពិន្ទុមិនត្រូវបានគណនា';
+$string['addon.mod_scorm.dataattemptshown'] = 'ទិន្នន័យនេះគឺបានឆ្លើយរួចនៅ លេខ {{number}}';
+$string['addon.mod_scorm.errorcreateofflineattempt'] = 'មានកំហុសអំឡុងពេលបង្កើតការឆ្លើយក្រៅបណ្តាញ។ សូមព្យាយាមម្ដងទៀត';
+$string['addon.mod_scorm.errordownloadscorm'] = 'មានកំហុសពេលកំពុងទាញយក SCORM: "{{name}}"';
+$string['addon.mod_scorm.errorgetscorm'] = 'មានកំហុសពេលកំពុងទទួលយក SCORM';
+$string['addon.mod_scorm.errorinvalidversion'] = 'សូមអភ័យទោស កម្មវិធីប្រើបានតែ SCORM 1.2';
+$string['addon.mod_scorm.errornotdownloadable'] = 'ការទាញយកកញ្ចប់ SCORM គឺត្រូវបានបិទ សូមទាក់ទងទៅកាន់ អ្នកគ្រប់គ្រង គេហទំព័ររបស់អ្នក';
+$string['addon.mod_scorm.errornovalidsco'] = 'កញ្ចប់ SCORM នេះ មិនអាចមើលឃើញ SCOទេ';
+$string['addon.mod_scorm.errorpackagefile'] = 'សូមអភ័យទោស កម្មវិធី នេះប្រើបានតែ កញ្ចប់ ZIP តែប៉ុណ្ណោះ';
+$string['addon.mod_scorm.errorsyncscorm'] = 'មានកំហុសមួយអំឡុងពេលធ្វើសមកាលកម្ម។ ទិន្ន សូមព្យាយាមម្ដងទៀត';
+$string['addon.mod_scorm.offlineattemptnote'] = 'ការឆ្លើយនេះមិនទាន់ត្រូវបានធ្វើសមកាលកម្មទេ';
+$string['addon.mod_scorm.offlineattemptovermax'] = 'ការឆ្លើយនេះមិនអាចផ្ញើចេញទេ ព្រោះការឆ្លើយលើសចំនួន កំណត់';
+$string['addon.mod_scorm.scormstatusnotdownloaded'] = 'កញ្ចប់ SCORM នេះគឺមិនត្រុវបានទាញយក។ វានឹងទាញយកដោយស្វ័យប្រវត្តិនៅពេលដែលអ្នកបើកវា';
+$string['addon.mod_scorm.scormstatusoutdated'] = 'កញ្ចប់ SCORM គឺត្រូវបានបញ្ចាក់តាំងពីកាទាញយកលើកចុងក្រោយ។ វានឹងទាញយកដោយស្វ័យប្រវត្តនៅពេលដែលអោយបើវា';
+$string['addon.mod_scorm.warningofflinedatadeleted'] = 'ទិន្នន័យនៃចម្លើយក្រៅបណ្តាញចំនួន  {{number}} ត្រូវបានបោះបង់ព្រោះវាមិនអាចរាប់ជាចម្លើយ ថ្មីនោះទេ';
+$string['addon.mod_scorm.warningsynconlineincomplete'] = 'ចម្លើយមួយចំនួនមិនអាចធ្វើសមកាលកម្មនៅលើគេហទំព័រនេះទេពីព្រោះចម្លើយចុងក្រោយមិនទាន់បានបញ្ចប់។ សូមបញ្ចប់ការឆ្លើយនេះជាមុនសិន។';
+$string['addon.mod_survey.cannotsubmitsurvey'] = 'សូមទោស មានបញ្ហាក្នុងបញ្ចូនចម្លើយនៃស្ទង់មតិរបស់អ្នក។ សូមព្យាយាមម្តងទៀត។';
+$string['addon.mod_survey.errorgetsurvey'] = 'មានកំហុសក្នុងការទទួលទិន្នន័យស្ទង់មតិ។';
+$string['addon.mod_survey.results'] = 'លទ្ធផល';
+$string['addon.mod_url.accessurl'] = 'ចូលប្រើURL';
+$string['addon.mod_url.pointingtourl'] = 'URLដែលធនធានចង្អុលទៅ';
+$string['addon.mod_wiki.errorloadingpage'] = 'មានកំហុសមួយបានកើតឡើងនៅពេលបង្ហាញគេហទំព័រ';
+$string['addon.mod_wiki.errornowikiavailable'] = 'វីគីនេះមិនទាន់មានខ្លឹមសារនៅឡើយទេ។';
+$string['addon.mod_wiki.gowikihome'] = 'ទៅទំព័រដំបូងនៃវីគី';
+$string['addon.mod_wiki.subwiki'] = 'ទំព័ររងរបស់វីគី';
+$string['addon.mod_wiki.titleshouldnotbeempty'] = 'ចំណងជើងត្រូវមាន';
+$string['addon.mod_wiki.viewpage'] = 'មើលទំព័រ';
+$string['addon.mod_wiki.wikipage'] = 'ទំព័រវីគី';
+$string['addon.mod_workshop.assessmentstrategynotsupported'] = 'យុទ្ធសាស្រ្ដវាយតម្លៃ {{$a}} មិនគាំទ្រ';
+$string['addon.mod_workshop.submissionrequiredtitle'] = 'អ្នកត្រូវតែបំពេញចំណងជើង';
+$string['addon.mod_workshop.warningassessmentmodified'] = 'ការដាក់ស្នើត្រូវបានកែប្រែនៅលើគេហទំព័រ';
+$string['addon.mod_workshop.warningsubmissionmodified'] = 'ការវាយតម្លៃត្រូវបានកែប្រែនៅលើគេហទំព័រ';
+$string['addon.notes.userwithid'] = 'អ្នកប្រើដែលមានលេខសម្គាល់ {{id}}';
+$string['addon.notes.warningnotenotsent'] = 'មិនអាចបន្ថែមការកត់ចំណាំលើវគ្គសិក្សា {{course}}. {{error}}';
+$string['addon.notifications.errorgetnotifications'] = 'មានកំហុសក្នុងការទទួលការជូនដំណឹង';
+$string['addon.notifications.notifications'] = 'ការជូនដំណឹង';
+$string['addon.notifications.playsound'] = 'សំឡេង';
+$string['addon.notifications.therearentnotificationsyet'] = 'គ្មានការជូនដំណឹង';
+$string['appstoredescription'] = 'ចំណាំ៖ កម្មវិធីផ្លូវការ Moodle Mobile នេះនឹងធ្វើការដំណើរជាមួយគេហទំព័ររបស់Moodleណាមួយដែលបានអនុញ្ញាតប៉ុណ្ណោះ។ សូមនិយាយជាមួយអ្នកគ្រប់គ្រង Moodle របស់អ្នកប្រសិនបើអ្នកមានបញ្ហាក្នុងការតភ្ជាប់។
+
+ប្រសិនបើគេហទំព័រ Moodle របស់អ្នកត្រូវបានកំណត់ត្រឹមត្រូវអ្នកអាចប្រើកម្មវិធីនេះដើម្បី រកមើលមាតិកានៃវគ្គសិក្សារបស់អ្នកសូម្បី នៅក្រៅបណ្ដាញក៏ដោយ។ អ្នកនឹងទទួលបានការជូនដំណឹងភ្លាមៗអំពីសារនិងព្រឹត្តិការណ៍ផ្សេងៗ៖
+-សូមស្វែងរកមាតិកាមេរៀននៃវគ្គសិក្ររបស់អ្នកទោះបីជានៅក្រៅបណ្តាញក៏ដោយ។
+-ទទួលសារជូនដំណឹង និងកម្មវិធីផ្សេងៗទោះបីនៅក្រៅបណ្តាញ។
+-ទាក់ទងអ្នកផ្សេងដែរចូលរៀនជាមួយអ្នកភ្លាមៗ។
+-នៅក្នុងវគ្គសិក្សារបស់អ្នក អ្នកអាចបញ្ចូលរូបភាព សំឡេង វីដេអូនិងឯកសារផ្សេងទៀតពីឧបករណ៍ចល័តរបស់អ្នកបាន។
+-សូមមើលពិន្ទុក្នុងវគ្គសិក្សារបស់អ្នក និងព័ត៌មានច្រើនទៀត!
+
+សូមចូលមើល http://docs.moodle.org/en/Mobile_app ដើម្បីអានព័ត៌មានចុងក្រោយបំផុត។
+
+យើងពិតជាពេញចិត្តកចំពោះការផ្តល់មតិល្អ ៗ អំពីមុខងារថ្មីៗនិងយោបល់លើអ្វីដែលអ្នកចង់ឱ្យកម្មវិធីនេះអាចធ្វើបាន។
+
+កម្មវិធីតម្រូវឱ្យផ្តល់សិទ្ធិដូចជា៖ ការថតសំឡេង ដើម្បីបញ្ចូលទៅក្នុងកម្មវិធី Moodleនិងកែប្រែខ្លឹមសារលើឧបករណ៍ផ្ទុក របស់អ្នក។
+
+កម្មវិធីនេះនឹងអានហើយកែតម្រូវខ្លឹមសារ នៅឧបករណ៍ផ្ទុក ដើម្បីអាចឱ្យអ្នកអាចមើលវានៅក្រៅបណ្តាញបាន។
+
+ដើម្បីអាចភ្ជាប់ជាមួយគេហទំព័រ Moodle របស់អ្នកបានសូម ពិនិត្យថាតើអ្នកបានភ្ជាប់ ឬបានប្តូរទៅជាជម្រើស ក្រៅបណ្តាញដែរឬទេនៅពេលចាប់ផ្តើមប្រើកម្មវិធី។
+
+ដូច្នេះអ្នកនឹងទទួលបានការជូនដំណឹងក្នុងតំបន់របស់អ្នកទោះបីជាកម្មវិធីកំពុងដំណើរការពីខាងក្រោយផ្ទាំងអេក្រង់ក៏ដោយ។';
+$string['core.android'] = 'ប្រព័ន្ធប្រតិបត្តិការ Android';
+$string['core.cannotconnect'] = 'មិនអាចតភ្ជាប់៖ ផ្ទៀងផ្ទាត់ថាអ្នកបានវាយ URL ត្រឹមត្រូវហើយគេហទំព័ររបស់អ្នកប្រើលើMoodle 2.4 ឬជំនាន់ថ្មីជាងនេះ។';
+$string['core.cannotdownloadfiles'] = 'ការទាញយកឯកសារត្រូវបានបិទ។ សូមទាក់ទងអ្នកគ្រប់គ្រងគេហទំព័ររបស់អ្នក។';
+$string['core.captureaudio'] = 'ថតសំឡេង';
+$string['core.capturedimage'] = 'រូបភាពដែលបានថត';
+$string['core.captureimage'] = 'ថតរូបភាព';
+$string['core.capturevideo'] = 'ថតវីដេអូ';
+$string['core.clearsearch'] = 'លុបចោលការស្វែងរក';
+$string['core.clicktoseefull'] = 'ចុចដើម្បីមើលខ្លឹមសារពេញ';
+$string['core.commentsnotworking'] = 'មតិយោបល់មិនអាចទាញយកមកបាន';
+$string['core.confirmcanceledit'] = 'តើអ្នកប្រាកដថាចង់ចាកចេញពីទំព័រនេះឬទេ? ការផ្លាស់ប្ដូរទាំងអស់នឹងត្រូវបាត់បង់។';
+$string['core.confirmloss'] = 'តើអ្នកប្រាកដឬទេ? ការផ្លាស់ប្ដូរទាំងអស់នឹងត្រូវបាត់បង់។';
+$string['core.confirmopeninbrowser'] = 'តើអ្នកចង់បើកវានៅក្នុងកម្មវិធីរុករកដែរឬទេ?';
+$string['core.contenteditingsynced'] = 'ខ្លឹមសារដែលអ្នកកំពុងកែត្រូវបានធ្វើសមកាលកម្ម។';
+$string['core.contentlinks.chooseaccount'] = 'ជ្រើសរើសគណនី';
+$string['core.contentlinks.chooseaccounttoopenlink'] = 'ជ្រើសរើសគណនីដើម្បីបើកតំណនេះ';
+$string['core.contentlinks.confirmurlothersite'] = 'តំណភ្ជាប់នេះជាកម្មសិទ្ធិរបស់គេហទំព័រផ្សេងទៀត។ តើអ្នកចង់បើកវាទេ?';
+$string['core.contentlinks.errornoactions'] = 'មិនអាចរកឃើញសកម្មភាពដើម្បីអនុវត្តជាមួយតំណនេះទេ។';
+$string['core.contentlinks.errornosites'] = 'មិនអាចរកឃើញគេហទំព័រដើម្បីគ្រប់គ្រងជាមួយតំណនេះទេ។';
+$string['core.copiedtoclipboard'] = 'អត្ថបទត្រូវបានចម្លងទៅclipboard';
+$string['core.course.activitydisabled'] = 'ស្ថាប័នរបស់អ្នកបានបិទដំណើរការសកម្មភាពនេះនៅក្នុងកម្មវិធីទូរសព្ទ';
+$string['core.course.activitynotyetviewableremoteaddon'] = 'ស្ថាប័នរបស់អ្នកបានដំឡើងកម្មវិធីជំនួយដែលមិនទាន់ត្រូវបានគាំទ្រ។';
+$string['core.course.activitynotyetviewablesiteupgradeneeded'] = 'ការដំឡើង Moodle ដោយស្ថាប័ន របស់អ្នកត្រូវការធ្វើបច្ចុប្បន្នភាព។';
+$string['core.course.allsections'] = 'ផ្នែកទាំងអស់';
+$string['core.course.askadmintosupport'] = 'ទាក់ទងអ្នកគ្រប់គ្រងគេហទំព័រនេះហើយប្រាប់ ថាអ្នកចង់ប្រើសកម្មភាពនេះជាមួយកម្មវិធី Moodle Mobile';
+$string['core.course.confirmdeletemodulefiles'] = 'តើអ្នកប្រាកដថាចង់លុបឯកសារទាំងនេះឬ?';
+$string['core.course.confirmdownload'] = 'អ្នកដូចជាចង់ទាញយកឯកសារទំហំ {{size}} នេះ ។ តើអ្នកប្រាកដថាអ្នកចង់បន្តឬទេ?';
+$string['core.course.confirmdownloadunknownsize'] = 'មិនអាចគណនាទំហំនៃការទាញយកបានទេ។ តើអ្នកប្រាកដថាអ្នកចង់បន្តឬទេ?';
+$string['core.course.confirmpartialdownloadsize'] = 'អ្នកដូចជាចង់នឹងទាញយក <strong> យ៉ាងហោចណាស់ </ strong> {{size}} ។ តើអ្នកប្រាកដថាអ្នកចង់បន្តឬទេ?';
+$string['core.course.contents'] = 'ខ្លឹមសារ';
+$string['core.course.couldnotloadsectioncontent'] = 'មិនអាចផ្ទុកមាតិកាផ្នែកបានទេ។ សូមព្យាយាមម្ដងទៀតនៅពេលក្រោយ។';
+$string['core.course.couldnotloadsections'] = 'មិនអាចផ្ទុកផ្នែកមាតិកាបានទេ។ សូមព្យាយាមម្ដងទៀតនៅពេលក្រោយ។';
+$string['core.course.errordownloadingcourse'] = 'កំហុសក្នុងការទាញយកវគ្គសិក្សា';
+$string['core.course.errordownloadingsection'] = 'កំហុសក្នុងការទាញយកផ្នែក';
+$string['core.course.errorgetmodule'] = 'កំហុសក្នុងការទទួលសកម្មភាពទិន្នន័យ';
+$string['core.course.manualcompletionnotsynced'] = 'ការបំពេញដោយមិនស្វ័យប្រវត្តិមិនត្រូវបានធ្វើសមកាលកម្ម';
+$string['core.course.nocontentavailable'] = 'មិនមានខ្លឹមសារនៅពេលនេះទេ';
+$string['core.course.refreshcourse'] = 'ធ្វើឱ្យវគ្គសិក្សាថ្មីឡើងវិញ';
+$string['core.courses.cannotretrievemorecategories'] = 'ប្រភេទនៅជ្រៅជាងកម្រិត {{$a}} ដូច្នេះមិនអាចទាញយកបានទេ';
+$string['core.courses.confirmselfenrol'] = 'តើអ្នកប្រាកដថាអ្នកចង់ចុះឈ្មោះចូលរៀនវគ្គសិក្សានេះដែរឬទេ?';
+$string['core.courses.downloadcourses'] = 'ទាញយកវគ្គសិក្សា';
+$string['core.courses.enrolme'] = 'ចុះឈ្មោះខ្ញុំ';
+$string['core.courses.errorloadcategories'] = 'កំហុសមួយបានកើតឡើងនៅពេលផ្ទុកប្រភេទ';
+$string['core.courses.errorloadcourses'] = 'កំហុសមួយបានកើតឡើងនៅពេលផ្ទុកវគ្គសិក្សា';
+$string['core.courses.errorsearching'] = 'កំហុសមួយបានកើតឡើងនៅពេលកំពុងស្វែងរក';
+$string['core.courses.errorselfenrol'] = 'កំហុសមួយបានកើតឡើងនៅពេលចុះឈ្មោះដោយខ្លួនឯង';
+$string['core.courses.filtermycourses'] = 'ត្រងវគ្គសិក្សារបស់ខ្ញុំ';
+$string['core.courses.notenrollable'] = 'អ្នកមិនអាចចុះឈ្មោះខ្លួនឯងក្នុងវគ្គនេះទេ';
+$string['core.courses.password'] = 'កូនសោចុះឈ្មោះ';
+$string['core.courses.searchcoursesadvice'] = 'អ្នកអាចប្រើប៊ូតុងស្វែងរកវគ្គសិក្សាដើម្បី ចូលជាភ្ញៀវឬក៏ចុះឈ្មោះរបស់អ្នកទៅក្នុងវគ្គសិក្សាដែលបានអនុញ្ញាតអោយ។';
+$string['core.courses.selfenrolment'] = 'ការចុះឈ្មោះដោយខ្លួនឯង';
+$string['core.courses.totalcoursesearchresults'] = 'វគ្គសិក្សាសរុប៖ {{$a}}';
+$string['core.course.useactivityonbrowser'] = 'ប្រភេទជ្រៅជាងកម្រិត {{$a}} មិនអាចទាញយកបានទេ';
+$string['core.course.warningmanualcompletionmodified'] = 'ការបំពេញដោយមិនស្វ័យប្រវត្តិត្រូវបានកែតម្រូវនៅលើគេហទំព័រ';
+$string['core.course.warningofflinemanualcompletiondeleted'] = 'ការបំពេញដោយដៃនៅក្រៅបណ្តាញខ្លះនៃវគ្គសិក្សា \'{{name}}\' បានលុប{{error}}';
+$string['core.currentdevice'] = 'ឧបករណ៍បច្ចុប្បន្ន';
+$string['core.datastoredoffline'] = 'ទិន្នន័យត្រូវបានផ្ទុកក្នុងឧបករណ៍ព្រោះតែវាមិនអាចបញ្ជូនបាន។ វានឹងបញ្ជូនដោយស្វ័យប្រវត្តិនៅពេលក្រោយ។';
+$string['core.deletedoffline'] = 'ត្រូវបានលុបក្រៅបណ្តាញ';
+$string['core.deleting'] = 'កំពុងលុប';
+$string['core.dfdaymonthyear'] = 'MM-DD-YYYY';
+$string['core.dfdayweekmonth'] = 'ddd, D MMM';
+$string['core.dffulldate'] = 'dddd, D MMMM YYYY h[:]mm A';
+$string['core.dflastweekdate'] = 'ddd';
+$string['core.dfmediumdate'] = 'LLL';
+$string['core.dftimedate'] = 'h[:]mm A';
+$string['core.discard'] = 'បោះបង់';
+$string['core.dismiss'] = 'បដិសេធ';
+$string['core.downloading'] = 'កំពុងទាញយក';
+$string['core.emptysplit'] = 'ទំព័រនេះនឹងបង្ហាញទំព័រទទេរបើសិនជាផ្ទាំងខាងឆ្វេងមិនមានអ្វីឬក៏កំពុងដំណើរការ';
+$string['core.errorchangecompletion'] = 'Aកំហុសបានកើតឡើងខណៈពេលដែលកំពុងផ្លាស់ប្តូរស្ថានភាពបញ្ចប់។ សូមព្យាយាមម្តងទៀត';
+$string['core.errordeletefile'] = 'កំហុសក្នុងការលុបឯកសារ។ សូមព្យាយាមម្តងទៀត។';
+$string['core.errordownloading'] = 'កំហុសក្នុងកាទាញយកឯកសារ';
+$string['core.errordownloadingsomefiles'] = 'កំហុសក្នុងកាទាញយកឯកសារ។ ឯកសារខ្លះប្រហែលជាបាត់បង់។';
+$string['core.errorfileexistssamename'] = 'ឯកសារដែលមានឈ្មោះនេះមានរួចហើយ។';
+$string['core.errorinvalidform'] = 'សំណុំបែបបទផ្ទុកទិន្នន័យមិនត្រឹមត្រូវ។ សូមពិនិត្យមើលថាវាលដែលត្រូវការទាំងអស់ត្រូវបានបំពេញហើយទិន្នន័យគឺត្រឹមត្រូវ។';
+$string['core.errorinvalidresponse'] = 'ចម្លើយនេះមិនត្រឹមត្រូវ ។ សូមទាក់ទងអ្នកគ្រប់គ្រងគេហទំព័ររបស់អ្នកបើសិនជានៅតែមានកំហុសកើតឡើង។';
+$string['core.errorloadingcontent'] = 'កំហុសក្នុងការផ្ទុកខ្លឹមសារ។';
+$string['core.errorofflinedisabled'] = 'ការរុករកក្រៅបណ្តាញត្រូវបានបិទនៅក្នុងគេហទំព័ររបស់អ្នក។ អ្នកត្រូវភ្ជាប់ទៅអ៊ិនធឺណេតដើម្បីប្រើប្រាស់កម្មវិធីនេះ។';
+$string['core.erroropenfilenoapp'] = 'កំហុសក្នុងការបើកឯកសារ “មិនមានកម្មវិធីសម្រាប់បើកឯកសារនេះទេ”';
+$string['core.erroropenfilenoextension'] = 'កំហុសក្នុងការបើកឯកសារ “ឯកសារនេះមិនមានផ្នែកបន្ថែម”';
+$string['core.erroropenpopup'] = 'សកម្មភាពនេះកំពុងតែព្យាយាមបើកសារពន្យល់មួយ។ វាមិនត្រូវបានគាំទ្រក្នុងកម្មវិធីទេ។';
+$string['core.errorrenamefile'] = 'កំហុសក្នុងការប្តូរឈ្មោះឯកសារ។ សូមព្យាយាមម្តងទៀត';
+$string['core.errorsync'] = 'កំហុសពេលកំពុងធ្វើសមកាលកម្ម។ សូមព្យាយាមម្តងទៀត';
+$string['core.errorsyncblocked'] = '{{$a}}នេះមិនអាចធ្វើសមកាលកម្មបានទេនៅពេលនេះដោយសារតែដំណើរការដែលកំពុងកើតឡើង។ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ។ បើសិនជាបញ្ហានៅតែកើតមានឡើង សូមសាកល្បងចាប់ផ្តើមកម្មវិធីម្តងទៀត។';
+$string['core.filenameexist'] = 'ឈ្មោះនៃឯកសារនេះធ្លាប់មានរួចហើយ: {{$a}}';
+$string['core.fileuploader.audio'] = 'សំឡេង';
+$string['core.fileuploader.camera'] = 'កាមេរ៉ា';
+$string['core.fileuploader.confirmuploadfile'] = 'អ្នកកំពុងតែនឹងផ្ទុកឡើងនូវឯកសារ{{size}}។ តើអ្នកប្រាកដទេថាចង់បន្តឬទេ?';
+$string['core.fileuploader.confirmuploadunknownsize'] = 'Iទំហំដែលផ្ទុកមិនអាចធ្វើការគណនាបានទេ។ តើអ្នកប្រាកដទេថាចង់បន្តឬទេ?';
+$string['core.fileuploader.errorcapturingaudio'] = 'កំហុសក្នុងការថតសំឡេង';
+$string['core.fileuploader.errorcapturingimage'] = 'កំហុសក្នុងការថតរូបភាព';
+$string['core.fileuploader.errorcapturingvideo'] = 'កំហុសក្នុងការថតវីដេអូ';
+$string['core.fileuploader.errorgettingimagealbum'] = 'កំហុសក្នុងការទាញយករូបភាពពីអាល់ប៊ុម';
+$string['core.fileuploader.errormustbeonlinetoupload'] = 'អ្នកត្រូវស្ថិតនៅក្នុងបណ្តាញដើម្បីដាក់បញ្ចូលឯកសារ';
+$string['core.fileuploader.errornoapp'] = 'អ្នកមិនបានដំឡើងកម្មវិធីដើម្បីដំណើរការសកម្មភាពនេះ។';
+$string['core.fileuploader.errorreadingfile'] = 'កំហុសក្នុងការអានឯកសារ';
+$string['core.fileuploader.errorwhileuploading'] = 'កំហុសពេលកំពុងផ្ទុកឯកសារ';
+$string['core.fileuploader.file'] = 'ឯកសារ';
+$string['core.fileuploader.fileuploaded'] = 'ឯកសារត្រូវបានផ្ទុកដោយជោគជ័យ';
+$string['core.fileuploader.maxbytesfile'] = 'ឯកសារ{{$a.file}}ធំពេក។ ទំហំអតិប្បរមាដែលអ្នកអាចផ្ទុកបានគឺ{{$a.size}}';
+$string['core.fileuploader.photoalbums'] = 'អាល់ប៊ុមរូបភាព';
+$string['core.fileuploader.readingfile'] = 'ឯកសារកំពុងអាន';
+$string['core.fileuploader.readingfileperc'] = 'កំពុងអានឯកសារ: {{$a}}%';
+$string['core.fileuploader.selectafile'] = 'ជ្រើសរើសឯកសារ';
+$string['core.fileuploader.uploadafile'] = 'ផ្ទុកឯកសារឡើង';
+$string['core.fileuploader.uploading'] = 'កំពុងផ្ទុកឡើង';
+$string['core.fileuploader.uploadingperc'] = 'កំពុងផ្ទុកឡើង: {{$a}}%';
+$string['core.fileuploader.video'] = 'វីដេអូ';
+$string['core.fullnameandsitename'] = '{{fullname}} ({{sitename}})';
+$string['core.hasdatatosync'] = '{{$a}}នេះត្រូវបានធ្វើសមកាលកម្មនៅក្រៅបណ្តាញ';
+$string['core.humanreadablesize'] = '{{size}} {{unit}}';
+$string['core.image'] = 'រូបភាព';
+$string['core.imageviewer'] = 'មើលរូបភាព';
+$string['core.ios'] = 'iOS';
+$string['core.lastdownloaded'] = 'ការទាញយកចុងក្រោយ';
+$string['core.lastsync'] = 'ការធ្វើសមកាលកម្មចុងក្រោយ';
+$string['core.loadmore'] = 'ផ្ទុកបន្ថែម';
+$string['core.login.authenticating'] = 'កំពុងផ្ទៀងផ្ទាត់';
+$string['core.login.checksiteversion'] = 'ពិនិត្យមើលថាគេហទំព័ររបស់អ្នកប្រើប្រាស់ Moodle 2.4 ឬក៏ជំនាន់ក្រោយៗមកទៀត';
+$string['core.login.confirmdeletesite'] = 'តើអ្នកប្រាកដទេថាអ្នកចង់លុបគេហទំព័រគេហទំព័រនេះ {{sitename}}?';
+$string['core.login.connect'] = 'ភ្ជាប់!';
+$string['core.login.connecttomoodle'] = 'ភ្ជាប់ទៅ Moodle';
+$string['core.login.contactyouradministrator'] = 'ទាក់ទងទៅអ្នកគ្រប់គ្រងគេហទំព័ររបស់អ្នកដើម្បីជំនួយផ្សេងៗទៀត';
+$string['core.login.contactyouradministratorissue'] = 'សុំជំនួយពីអ្នកគ្រប់គ្រងគេហទំព័រ របស់អ្នកដើម្បីពិនិត្យមើលបញ្ហានេះ៖ {{$a}}';
+$string['core.login.credentialsdescription'] = 'សូមបញ្ជូលឈ្មោះអ្នកប្រើនិងពាក្យសម្ងាត់របស់អ្នកដើម្បីចូលទៅក្នុងគណនី';
+$string['core.login.emailconfirmsentnoemail'] = '<p>មានអ៊ីមែលមួយបានផ្ញើទៅកាន់អសយដ្ឋានរបស់អ្នកគឺ<b>{{$a}}</b></p><p>វាមានការណែនាំងាយៗដើម្បីបញ្ចប់ការចុះឈ្មោះរបស់អ្នក។</p><p>បើអ្នកបន្តជួបការលំបាកសូមទាក់ទងអ្នកគ្រប់គ្រងគេហទំព័រ។</p>\'';
+$string['core.login.emailnotmatch'] = 'អាសយដ្ឋានអ៊ីមែលមិនត្រូវគ្នា';
+$string['core.login.erroraccesscontrolalloworigin'] = 'ការទូរសព្ទហៅឆ្លងដោយផ្ទាល់ពីអ្នកម្នាក់  ត្រូវបានបដិសេធ។ សូមពិនិត្យមើលឯកសារណែនាំ  https://docs.moodle.org/dev/Moodle_Mobile_development_using_Chrome_or_Chromium';
+$string['core.login.errordeletesite'] = 'កំហុសមួយបានកើតឡើងនៅពេលលុបគេហទំព័រនេះ។ សូមព្យាយាមម្តងទៀត';
+$string['core.login.errorupdatesite'] = 'កំហុសមួយបានកើតឡើងខណៈពេលធ្វើបច្ចុប្បន្នភាពនៅលើគេហទំព័រ';
+$string['core.login.findyoursite'] = 'ស្វែងរកគេហទំព័ររបស់អ្នក';
+$string['core.login.helpmelogin'] = '<p>មានគេហទំព័រ Moodle រាប់ពាន់នៅជុំវិញពិភពលោក។ កម្មវិធីនេះអាចភ្ជាប់ទៅតែគេហទំព័រ Moodle ដែលបានបើកការចូលដំណើរការកម្មវិធីទូរសព្ទ។</p><p>ប្រសិនបើអ្នកមិនអាចភ្ជាប់ទៅគេហទំព័រ Moodle របស់អ្នកបានទេអ្នកចាំបាច់ត្រូវទាក់ទងអ្នកគ្រប់គ្រងតំបន់បណ្ដាញរបស់អ្នកហើយសុំឱ្យពួកគេអាន<a href="http://docs.moodle.org/en/Mobile_app" target="_blank">http://docs.moodle.org/en/Mobile_app</a></p><p> ដើម្បីសាកប្រើកម្មវិធី Moodle demo <i>គ្រូ</i> or <i>សិស្ស</i> in the <i>អាសយដ្ឋានគេហទំព័រ</i> ចន្លោះ ចុច <b>ភ្ជាប់</b>.</p>';
+$string['core.login.invalidaccount'] = 'សូមពិនិត្យមើលព័ត៌មានលំអិតអំពីការចូលប្រើឬសុំគេហទំព័រជំនួយពីអ្នកគ្រប់គ្រងគេហទំព័ររបស់អ្នកដើម្បិពិនិត្យមើលការកំណត់ឡើងវិញ។';
+$string['core.login.invalidmoodleversion'] = 'កំណែកម្មវិធី Moodle មិនត្រឹមត្រូវ។ យ៉ាងហោចណាស់ក៏ត្រឹម គឺ 2.4ដែរ';
+$string['core.login.invalidsite'] = 'អាសយដ្ឋាន URL មិនត្រឹមត្រូវ';
+$string['core.login.invalidtime'] = 'ពេលវេលាមិនត្រឹមត្រូវ';
+$string['core.login.invalidvaluemax'] = 'តម្លៃអតិបរមាគឺ {{$a}}';
+$string['core.login.invalidvaluemin'] = 'តម្លៃអប្បបរមាគឺ {{$a}}';
+$string['core.login.legacymoodleversion'] = 'អ្នកកំពុងព្យាយាមភ្ជាប់ទៅកំណែ Moodle ដែលមិនត្រួវបានគាំទ្រ។ សូមទាញយកកម្មវិធី Moodle Classic ដើម្បីចូលប្រើគេហទំព័រ Moodle នេះ។';
+$string['core.login.legacymoodleversiondesktop'] = 'អ្នកកំពុងព្យាយាមភ្ជាប់ទៅ <b>{{$a}}</b>.<br><br>ទំព័រនេះកំពុងស្ថិតនៅកំណែហួសសម័យកាល ហើយមិនអាចប្រើជាមួយកំណែ Moodle Desktopទេ <br><br>ប្រសិនបើទំព័រនេះជាទំព័ររបស់អ្នក សូមទាក់ទងដៃគូរ moodleក្នុងតំបន់របស់អ្នកដើម្បីជួយធ្វើបច្ចុប្បន្ននៃទំព័រនេះ <br><br>សូមអាន <a href="https://moodle.com/contact">ទាក់ទងមកយើង</a> ដើម្បីសុំជំនួយ';
+$string['core.login.legacymoodleversiondesktopdownloadold'] = '<br><br>អ្នកនៅតែអាចប្រើកម្មវិធីជំនាន់មុនៗបានដោយទាញយកវានៅទីនេះ។';
+$string['core.login.localmobileunexpectedresponse'] = 'ការត្រួតពិនិត្យលក្ខណៈពិសេសបន្ថែមរបស់ Moodle Mobile បានត្រឡប់មកវិញនូវការឆ្លើយតបដែលមិនបានរំពឹងទុក។ អ្នកនឹងត្រូវបានផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវដោយប្រើសេវាទូរសព្ទស្តង់ដារ។';
+$string['core.login.loggedoutssodescription'] = 'អ្នកត្រូវតែផ្ទៀងផ្ទាត់ម្តងទៀត។ អ្នកចាំបាច់ត្រូវចូលទៅក្នុងគេហទំព័រនៅក្នុងផ្ទាំងបើកកម្មវិធីអ៊ីនធឺណិត។';
+$string['core.login.loginbutton'] = 'ចូល';
+$string['core.login.logininsiterequired'] = 'អ្នកចាំបាច់ត្រូវចូលទៅក្នុងគេហទំព័រនៅក្នុងផ្ទាំងកម្មវិធីអ៊ីនធឺណិត។';
+$string['core.login.mobileservicesnotenabled'] = 'ការចូលប្រើទូរសព្ទមិនត្រូវបានបើកនៅលើគេហទំព័ររបស់អ្នកទេ។ សូមទាក់ទងអ្នកគ្រប់គ្រងគេហទំព័ររបស់អ្នកប្រសិនបើអ្នកគិតថាវាគួរត្រូវបានបើក។';
+$string['core.login.newsitedescription'] = 'សូមបញ្ចូល URL នៃគេហទំព័រ Moodle របស់អ្នក។ ចំណាំថាវាប្រហែលជាមិនត្រូវបានកំណត់ ឱ្យដំណើរការជាមួយកម្មវិធីនេះទេ។';
+$string['core.login.notloggedin'] = 'អ្នកតម្រូវអោយចូលប្រើ';
+$string['core.login.passwordrequired'] = 'តម្រូវឱ្យមានពាក្យសម្ងាត់';
+$string['core.login.problemconnectingerror'] = 'យើងកំពុងមានបញ្ហាក្នុងការតភ្ជាប់';
+$string['core.login.problemconnectingerrorcontinue'] = 'ពិនិត្យឡើងវិញនូវអ្វីដែលអ្នកបានបញ្ចូលអាសយដ្ឋាន ហើយព្យាយាមម្តងទៀត';
+$string['core.login.recaptchachallengeimage'] = 'reCAPTCHA ជាមួយរូបភាព';
+$string['core.login.recaptchaexpired'] = 'ការផ្ទៀងផ្ទាត់បានផុតកំណត់។ ឆ្លើយសំណួរសុវត្ថិភាពម្តងទៀត';
+$string['core.login.recaptchaincorrect'] = 'ការឆ្លើយចំពោះសំណួរសុវត្ថិភាពមិនត្រឹមត្រូវ';
+$string['core.login.reconnect'] = 'ភ្ជាប់ឡើងវិញ';
+$string['core.login.reconnectdescription'] = 'និមិត្តសញ្ញាផ្ទៀងផ្ទាត់របស់អ្នកមិនត្រឹមត្រូវឬផុតកំណត់។ អ្នកត្រូវភ្ជាប់ប្រព័ន្ធគេហទំព័រឡើងវិញ។';
+$string['core.login.reconnectssodescription'] = 'និមិត្តសញ្ញាផ្ទៀងផ្ទាត់របស់អ្នកមិនត្រឹមត្រូវឬផុតកំណត់។ អ្នកត្រូវភ្ជាប់ប្រព័ន្ធគេហទំព័រឡើងវិញ។ អ្នកចាំបាច់ត្រូវចូលទៅក្នុងគេហទំព័រនៅក្នុងផ្ទាំងកម្មវិធីអ៊ីនធឺណិត។';
+$string['core.login.searchby'] = 'ស្វែងរកតាម៖';
+$string['core.login.selectsite'] = 'សូមជ្រើសរើសគេហទំព័ររបស់អ្នក៖';
+$string['core.login.signupplugindisabled'] = '{{$a}} មិនត្រូវបានបើក';
+$string['core.login.siteaddress'] = 'អាសយដ្ឋាននៃគេហទំព័រ';
+$string['core.login.sitehasredirect'] = 'Your site contains at least one HTTP redirect. The app cannot follow redirects, this could be the issue that\'s preventing the app from connecting to your site.';
+$string['core.login.siteinmaintenance'] = 'គេហទំព័ររបស់អ្នកស្ថិតនៅក្នុងស្ថានភាពជួសជុល';
+$string['core.login.sitepolicynotagreederror'] = 'គោលការណ៍តំបន់បណ្ដាញមិនត្រូវបានយល់ព្រម';
+$string['core.login.siteurl'] = 'អាសយដ្ឋានគេហទំព័រ';
+$string['core.login.siteurlrequired'] = 'ទាមទារការបញ្ជូលអាសយដ្ឋាននៃគេហទំព័រ។ ឧទារហរណ៏ <i>http://www.yourmoodlesite.org</i>';
+$string['core.login.stillcantconnect'] = 'នៅតែមិនអាចភ្ជាប់ទេឬ?';
+$string['core.login.usernamerequired'] = 'ត្រូវការឈ្មោះអ្នកប្រើប្រាស់';
+$string['core.login.visitchangepassword'] = 'តើអ្នកចង់ទៅគេហទំព័រដើម្បីប្តូរពាក្យសម្ងាត់ទេ?';
+$string['core.login.webservicesnotenabled'] = 'សេវានៃការប្រើបណ្តាញមិនត្រូវបានបើកនៅក្នុងគេហទំព័ររបស់អ្នកទេ។ សូមទាក់ទងអ្នកគ្រប់គ្រងគេហទំព័ររបស់អ្នកប្រសិនបើអ្នកគិតថាគួរតែត្រូវអនុញ្ញាតឱ្យប្រើ។';
+$string['core.lostconnection'] = 'និមិត្តសញ្ញាផ្ទៀងផ្ទាត់របស់អ្នកមិនត្រឹមត្រូវឬផុតកំណត់។ អ្នកនឹងត្រូវភ្ជាប់ឡើងវិញជាមួយគេហទំព័រនេះ។';
+$string['core.mainmenu.appsettings'] = 'ការកំណត់កម្មវិធី';
+$string['core.mainmenu.changesite'] = 'ផ្លាស់ប្តូរគេហទំព័រ';
+$string['core.mainmenu.website'] = 'គេហទំព័រ';
+$string['core.networkerroriframemsg'] = 'មិនអាចធ្វើនៅក្រៅបណ្តាញទេ។ សូមភ្ជាប់អ៊ីនធឺណិតហើយព្យាយាមម្តងទៀត';
+$string['core.networkerrormsg'] = 'មានបញ្ហាក្នុងការភ្ជាប់ទៅគេហទំព័រ។ សូមពិនិត្យមើលការតភ្ជាប់របស់អ្នកហើយព្យាយាមម្តងទៀត។';
+$string['core.nopasswordchangeforced'] = 'អ្នកមិនអាចបន្តដោយគ្មានការផ្លាស់ប្តូរពាក្យសម្ងាត់របស់អ្នក។';
+$string['core.nopermissionerror'] = 'សូមទោស! អ្នកពុំមានសិទ្ធិធ្វើវាទេ!';
+$string['core.notapplicable'] = 'មិនមាន';
+$string['core.notsent'] = 'មិនបានផ្ញើ';
+$string['core.openfullimage'] = 'សូមចុចនៅទីនេះដើម្បីបង្ហាញរូបភាពទំហំពេញ';
+$string['core.openinbrowser'] = 'បើកក្នុងកម្មវិធីរុករក';
+$string['core.percentagenumber'] = '{{$a}}%';
+$string['core.pulltorefresh'] = 'ទាញដើម្បីដំណើរការឡើងវិញ';
+$string['core.question.cannotdeterminestatus'] = 'មិនអាចបង្ហាញពីស្ថានភាពបានទេ';
+$string['core.question.errorattachmentsnotsupported'] = 'កម្មវិធីមិនគាំទ្រការភ្ជាប់ឯកសារទៅកាន់ចម្លើយបានទេ។';
+$string['core.question.errorinlinefilesnotsupported'] = 'កម្មវិធីមិនអាចកែសំណេរបន្ទាតជាប់គ្នាបានទេ។';
+$string['core.question.errorquestionnotsupported'] = 'ប្រភេទសំណួរនេះមិនត្រូវបានគាំទ្រដោយកម្មវិធីទេ {{$a}}';
+$string['core.question.howtodraganddrop'] = 'ចុចលើ”ទម្លាក់”';
+$string['core.question.questionmessage'] = 'សំណួរ{{$a}}: {{$b}}';
+$string['core.redirectingtosite'] = 'អ្នកនឹងត្រូវបានប្ដូរទិសទៅគេហទំព័រនេះ។';
+$string['core.requireduserdatamissing'] = 'អ្នកប្រើប្រាស់នេះខ្វះទិន្នន័យប្រវត្តិរូបដែលត្រូវការ។ សូមបញ្ចូលទិន្នន័យនៅក្នុងគេហទំព័ររបស់អ្នកហើយព្យាយាមម្តងទៀត។<br>{{$a}}';
+$string['core.retry'] = 'ព្យាយាមម្តងទៀត';
+$string['core.searching'] = 'កំពុងស្វែងរក';
+$string['core.settings.about'] = 'អំពី';
+$string['core.settings.appready'] = 'កម្មវិធីរួចរាល់';
+$string['core.settings.cannotsyncoffline'] = 'មិនអាចធ្វើសមកាលកម្មខណៈនៅក្រៅបណ្ដាញ';
+$string['core.settings.cannotsyncwithoutwifi'] = 'មិនអាចធ្វើសមកាលកម្មបានទេព្រោះការកំណត់បច្ចុប្បន្នអនុញ្ញាតឱ្យធ្វើសមកាលកម្មនៅពេលភ្ជាប់Wi-Fi។ សូមភ្ជាប់ទៅបណ្តាញ Wi-Fi';
+$string['core.settings.compilationinfo'] = 'ការចងក្រងព័ត៌មាន';
+$string['core.settings.cordovadevicemodel'] = 'ម៉ូដែលឧបករណ៍ Cordova';
+$string['core.settings.cordovadeviceosversion'] = 'កំណែប្រព័ន្ធប្រតិបត្តិការរបស់ឧបករណ៏ Cordova';
+$string['core.settings.cordovadeviceplatform'] = 'កំណែប្រព័ន្ធវេទិការរបស់ឧបករណ៏ Cordova';
+$string['core.settings.cordovadeviceuuid'] = 'Cordova device UUID';
+$string['core.settings.cordovaversion'] = 'កំណែរ Cordova';
+$string['core.settings.debugdisplaydescription'] = 'ប្រសិនបើអ្នកជ្រើសរើសបើកវា នោះវានឹងបង្ហាញព័ត៌មាននៃបញ្ហាដែលអាចកើតឡើង!';
+$string['core.settings.deletesitefiles'] = 'តើអ្នកប្រាកដទេថាអ្នកចង់លុបឯកសារមកពីគេហទំព័រ{sitename}}ឬទេ?';
+$string['core.settings.deletesitefilestitle'] = 'កន្លែងលុបឯកសារនៅគេហទំព័រ';
+$string['core.settings.deviceinfo'] = 'ព័ត៌មានឧបករណ៍';
+$string['core.settings.deviceos'] = 'ប្រព័ន្ធប្រតិបត្តិរបស់ឧបករណ៍';
+$string['core.settings.devicewebworkers'] = 'បុគ្គលិកផ្នែកបណ្ដាញឧបករណ៍បានគាំទ្រ';
+$string['core.settings.displayformat'] = 'ទម្រង់នៃការបង្ហាញ';
+$string['core.settings.enabledownloadsection'] = 'បើកដំណើរការផ្នែកទាញយក';
+$string['core.settings.enablerichtexteditor'] = 'បើកកម្មវិធីកែសម្រួលអត្ថបទ';
+$string['core.settings.enablerichtexteditordescription'] = 'ប្រសិនបើបើកកម្មវិធីកែសម្រួលអត្ថបទ នោះអ្នកអាចកែតម្រូវខ្លឹមសារបាន';
+$string['core.settings.enablesyncwifi'] = 'អនុញ្ញាតឱ្យធ្វើសមកាលកម្មនៅពេលតែមាន Wi-Fi ប៉ុណ្ណោះ';
+$string['core.settings.errordeletesitefiles'] = 'មានកំហុសក្នុងការលុបឯកសារនៅគេហទំព័រ';
+$string['core.settings.errorsyncsite'] = 'កំហុសក្នុងការធ្វើសមកាលកម្មទិន្នន័យនៅគេហទំព័រ។ សូមពិនិត្យការភ្ជាប់អ៊ីនធឺណិតរបស់អ្នកហើយព្យាយាមម្តងទៀត';
+$string['core.settings.estimatedfreespace'] = 'ប៉ាន់ស្មានទំហំដែលនៅទំនេរ';
+$string['core.settings.filesystemroot'] = 'ឯកសារក្នុងប្រព័ន្ធត្រូវបានដាក់បញ្ចូល';
+$string['core.settings.localnotifavailable'] = 'ការជូនដំណឹងក្នុងតំបន់អាចប្រើបាន';
+$string['core.settings.locationhref'] = 'មើល URLនៅលើបណ្តាញ';
+$string['core.settings.navigatorlanguage'] = 'ភាសាកម្មវិធីរុករក';
+$string['core.settings.navigatoruseragent'] = 'កម្មវិធីរុករកអ្នកប្រើប្រាស់';
+$string['core.settings.networkstatus'] = 'ស្ថានភាពតភ្ជាប់អ៊ីនធឺណិត';
+$string['core.settings.privacypolicy'] = 'គោលការណ៍ឯកជន';
+$string['core.settings.reportinbackground'] = 'រាយការណ៍កំហុសដោយស្វ័យប្រវត្តិ';
+$string['core.settings.showdownloadoptions'] = 'បង្ហាញជម្រើសដែលអាចទាញយក';
+$string['core.settings.spaceusage'] = 'ទំហំនៃការប្រើប្រាស់';
+$string['core.settings.synchronization'] = 'ការធ្វើសមកាលកម្ម';
+$string['core.settings.synchronizenow'] = 'ធ្វើសមកាលកម្ម ឥឡូវនេះ';
+$string['core.settings.syncsettings'] = 'កំណត់ការ សមកាលកម្ម';
+$string['core.settings.versioncode'] = 'កំណែនៃភាសាកូដ';
+$string['core.settings.versionname'] = 'ឈ្មោះនៃកំណែ';
+$string['core.settings.wificonnection'] = 'ការភ្ជាប់ Wi-Fi';
+$string['core.sharedfiles.chooseaccountstorefile'] = 'ជ្រើសរើសគណនីមួយដើម្បីរក្សាទុកឯកសារ';
+$string['core.sharedfiles.chooseactionrepeatedfile'] = 'ឯកសារដែលមានឈ្មោះនេះមានរួចហើយ។ តើអ្នកចង់ជំនួសឯកសារដែលមានស្រាបសូមប្តូរឈ្មោះវា{{$a}}';
+$string['core.sharedfiles.errorreceivefilenosites'] = 'មិនមានគេហទំព័រត្រូវបានរក្សាទុកទេ។ សូមបន្ថែមគេហទំព័រមួយមុនពេលចែករំលែកឯកសារជាមួយកម្មវិធី';
+$string['core.sharedfiles.nosharedfiles'] = 'មិនមានឯកសារដែលបានចែករំលែកនៅលើគេហទំព័រនេះទេ';
+$string['core.sharedfiles.nosharedfilestoupload'] = 'អ្នកមិនមានឯកសារដើម្បីផ្ទុកឡើងនៅទីនេះទេ។ ប្រសិនបើអ្នកចង់ផ្ទុកឡើងនូវឯកសារមួយពីកម្មវិធី ផ្សេងទៀត សូមស្វែងរកទីតាំងឯកសារហើយចុចលើប៊ូតុង Open in';
+$string['core.sharedfiles.rename'] = 'ប្តូរឈ្មោះ';
+$string['core.sharedfiles.replace'] = 'ជំនួស';
+$string['core.sharedfiles.sharedfiles'] = 'ចែករំលែកឯកសារ';
+$string['core.sharedfiles.successstorefile'] = 'ឯកសារត្រូវបានរក្សាទុកដោយជោគជ័យ។ ជ្រើសរើសឯកសារដើម្បីផ្ទុកឡើងទៅជាឯកសារឯកជនរបស់អ្នក ឬប្រើក្នុងសកម្មភាពណាមួយ';
+$string['core.sizetb'] = 'TB';
+$string['core.sorry'] = 'សូមទោស...';
+$string['core.tablet'] = 'ថេប្លេត';
+$string['core.thereisdatatosync'] = 'គ្មានអ៊ីនធឺណិត{{$a}} ដែលត្រូវធ្វើសមកាលកម្ម';
+$string['core.tryagain'] = 'ព្យាយាមម្ដងទៀត';
+$string['core.twoparagraphs'] = '{{p1}}<br><br>{{p2}}';
+$string['core.uhoh'] = 'អូ ហូ!!';
+$string['core.unexpectederror'] = 'កំហុសដែលមិននឹកស្មានដល់។ សូមបិទនិងបើកកម្មវិធីម្តងទៀតបន្ទាប់មកព្យាយាមម្តងទៀត';
+$string['core.unicodenotsupported'] = 'Emojis មួយចំនួនមិនត្រូវបានគាំទ្រនៅលើគេហទំព័រនេះទេ។ រូបនេះនឹងត្រូវបានដកចេញនៅពេលផ្ញើសារ';
+$string['core.unicodenotsupportedcleanerror'] = 'អត្ថបទទទេត្រូវបានរកឃើញនៅពេលសម្អាតអក្សរយូនីកូដ.';
+$string['core.unknown'] = 'មិនស្គាល់';
+$string['core.unzipping'] = 'ពន្លាត';
+$string['core.user.contact'] = 'ទំនាក់ទំនង';
+$string['core.user.detailsnotavailable'] = 'សេចក្ដីលម្អិតរបស់អ្នកប្រើនេះមិនមានសម្រាប់អ្នកទេ';
+$string['core.user.errorloaduser'] = 'កំហុសក្នុងការផ្ទុកអ្នកប្រើ';
+$string['core.user.sendemail'] = 'អ៊ីមែល';
+$string['core.viewcode'] = 'មើលកូដ';
+$string['core.vieweditor'] = 'មើលអ្នកកែសម្រួល';
+$string['core.viewembeddedcontent'] = 'បង្ហាញខ្លឹមសារដែលបានដាក់បញ្ចូល';
+$string['core.warningofflinedatadeleted'] = 'ទិន្នន័យក្រៅបណ្ដាញពី{{component}} \'{{name}}\\ត្រូវបានលុប។ {{error}}';
+$string['core.whoops'] = 'អូស!';
+$string['core.whyisthishappening'] = 'ហេតុអ្វីរឿងនេះកើតឡើង?';
+$string['core.windowsphone'] = 'ប្រព័ន្ធប្រតិបត្តិការ Windows Phone';
+$string['core.wsfunctionnotavailable'] = 'មុខងារសេវាបណ្ដាញមិនមានទេ';
+$string['pluginname'] = 'ភាសាប្រើនៅក្នុងកម្មវិធី Moodle Mobile';

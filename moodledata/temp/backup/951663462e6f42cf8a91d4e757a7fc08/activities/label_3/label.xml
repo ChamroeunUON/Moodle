@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="3" modulename="label" contextid="51">
+  <label id="1">
+    <name>Welcome.
+Welcome to the Using Moodle course. This...</name>
+    <intro>&lt;h1&gt;&lt;span style="color: #333399;"&gt;Welcome.&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;Welcome to the Using Moodle course. This course is designed to assist you in learning how to use Moodle so that you can focus on the content that you are teaching. As such, this course is broken up into several sections to make it easy to use. Clicking on the title of the section will take you right to that section. In each section is important information. To get started, simply click on "Getting Around Moodle". &lt;/p&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1408305974</timemodified>
+  </label>
+</activity>

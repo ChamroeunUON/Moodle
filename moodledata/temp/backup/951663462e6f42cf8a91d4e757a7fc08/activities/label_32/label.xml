@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="3" moduleid="32" modulename="label" contextid="80">
+  <label id="3">
+    <name>Welcome!
+
+
+This course is being shared as the r...</name>
+    <intro>&lt;h1&gt;&lt;span&gt;Welcome!&lt;/span&gt;&lt;/h1&gt;
+&lt;h1 style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/ATEP%20Logo.png" width="203" height="58" alt="ATEP Logo"&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;This course is being shared as the result of &lt;a href="http://www.hofstra.edu/Academics/colleges/seas/ctl/atep/index.html" target="_blank"&gt;grant&lt;/a&gt; from the National Science Foundation as implemented through Hofstra University.&amp;nbsp;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;See &lt;a href="$@PAGEVIEWBYID*33@$"&gt;NOTES&lt;/a&gt; below for important information about using this course.&lt;/i&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1471139065</timemodified>
+  </label>
+</activity>

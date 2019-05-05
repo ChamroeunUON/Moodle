@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="20">
+  <number>6</number>
+  <name>Groups</name>
+  <summary>&lt;p&gt;Groups are a powerful option in the ATEP Moodle instance. This section will explain how and why groups can be used to organize classes and work. &lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>24</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+</section>

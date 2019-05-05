@@ -1,0 +1,5151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file id="247">
+    <contenthash>2a7c4bb925438410dff3cfcbdf68d64337507d7c</contenthash>
+    <contextid>80</contextid>
+    <component>mod_label</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>ATEP Logo.png</filename>
+    <userid>3</userid>
+    <filesize>7347</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1471137349</timecreated>
+    <timemodified>1471137383</timemodified>
+    <source>ATEP Logo 140-40.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="248">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>80</contextid>
+    <component>mod_label</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>document/unknown</mimetype>
+    <status>0</status>
+    <timecreated>1471138599</timecreated>
+    <timemodified>1471139053</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="15">
+    <contenthash>6c99800bca14a33590b48baeb6c8acf802708159</contenthash>
+    <contextid>54</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Breadcrumbs.png</filename>
+    <userid>3</userid>
+    <filesize>24876</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1404868303</timecreated>
+    <timemodified>1404872603</timemodified>
+    <source>Breadcrumbs.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="16">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>54</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="17">
+    <contenthash>9d6f78db26a76d7a696c907afca3033f4ffc9e15</contenthash>
+    <contextid>54</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Breadcrumbs.png</filename>
+    <userid>3</userid>
+    <filesize>38734</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405383984</timecreated>
+    <timemodified>1405687659</timemodified>
+    <source>Breadcrumbs.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="18">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>54</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="19">
+    <contenthash>86d72d6a02d4a7702e1ff3d56bb89896e043cd77</contenthash>
+    <contextid>55</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>1</itemid>
+    <filepath>/</filepath>
+    <filename>Blocks- Student collapsed .png</filename>
+    <userid>3</userid>
+    <filesize>10886</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405431345</timecreated>
+    <timemodified>1405431639</timemodified>
+    <source>Blocks - Student Collapased.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="20">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>55</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>1</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="21">
+    <contenthash>3f5e9877a2bc25294d53f7e88ccf309e4472932a</contenthash>
+    <contextid>55</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>1</itemid>
+    <filepath>/</filepath>
+    <filename>Blocks - Student open.png</filename>
+    <userid>3</userid>
+    <filesize>19153</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405431496</timecreated>
+    <timemodified>1405431639</timemodified>
+    <source>Blocks - Student open.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="22">
+    <contenthash>ed104714e3dd407d98e690767254157af21a757e</contenthash>
+    <contextid>55</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>1</itemid>
+    <filepath>/</filepath>
+    <filename>Blocks - Student open full.png</filename>
+    <userid>3</userid>
+    <filesize>27505</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405431626</timecreated>
+    <timemodified>1405431639</timemodified>
+    <source>Blocks - Student open full.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="23">
+    <contenthash>fa987ad2e8c8728787435228fa919700925ee041</contenthash>
+    <contextid>55</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>3</itemid>
+    <filepath>/</filepath>
+    <filename>Editing button.png</filename>
+    <userid>3</userid>
+    <filesize>74401</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405432136</timecreated>
+    <timemodified>1405432487</timemodified>
+    <source>Editing button.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="24">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>55</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>3</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="25">
+    <contenthash>ad0a36a92ebe304db6698fd5b081c8227a5aab11</contenthash>
+    <contextid>56</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>5</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Lesson.png</filename>
+    <userid>3</userid>
+    <filesize>4102</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405710148</timecreated>
+    <timemodified>1405710379</timemodified>
+    <source>Icon-Lesson.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="26">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>56</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>5</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="27">
+    <contenthash>96cf17465f05a74914e002407928d97d86473ae9</contenthash>
+    <contextid>56</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>5</itemid>
+    <filepath>/</filepath>
+    <filename>Back-Next_Buttons.png</filename>
+    <userid>3</userid>
+    <filesize>5970</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405710366</timecreated>
+    <timemodified>1405710379</timemodified>
+    <source>Buttons-_Back-Next.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="30">
+    <contenthash>cfdcfcb19506202cdffacc0f29778b934e879ca7</contenthash>
+    <contextid>56</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>7</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Page.png</filename>
+    <userid>3</userid>
+    <filesize>3965</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405709424</timecreated>
+    <timemodified>1405709788</timemodified>
+    <source>Icon-Page.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="31">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>56</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>7</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="32">
+    <contenthash>2795bd99fd5e0eeff43aa1ae226806f9ac5430af</contenthash>
+    <contextid>56</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>7</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Page_Name.png</filename>
+    <userid>3</userid>
+    <filesize>4332</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405709635</timecreated>
+    <timemodified>1405709788</timemodified>
+    <source>Icon-Page with title.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="36">
+    <contenthash>7475cb2b62843780e25fa54a4cfdb02d43d8d8d0</contenthash>
+    <contextid>56</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>9</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Book.png</filename>
+    <userid>3</userid>
+    <filesize>4068</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405711796</timecreated>
+    <timemodified>1405712686</timemodified>
+    <source>Icon-Book.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="37">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>56</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>9</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="38">
+    <contenthash>2d76e4d6b9e9edd739ce58292628cdee7fbdf12a</contenthash>
+    <contextid>56</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>9</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Page_Nav.png</filename>
+    <userid>3</userid>
+    <filesize>6758</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405712313</timecreated>
+    <timemodified>1405712686</timemodified>
+    <source>Icon-Page-Nav.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="39">
+    <contenthash>97925cfc0e69e39deebc8e6c7008a892b5101cb5</contenthash>
+    <contextid>56</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>9</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Table_Contents.png</filename>
+    <userid>3</userid>
+    <filesize>15739</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405712558</timecreated>
+    <timemodified>1405712686</timemodified>
+    <source>Icon-Table_Contents.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="28">
+    <contenthash>912bcaba6ceb6a046c889e8372442ef6a0a57540</contenthash>
+    <contextid>56</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>6</itemid>
+    <filepath>/</filepath>
+    <filename>Block-Quiz_Nav.png</filename>
+    <userid>3</userid>
+    <filesize>12616</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405713584</timecreated>
+    <timemodified>1405713758</timemodified>
+    <source>Block-Quiz_Nav.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="29">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>56</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>6</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="33">
+    <contenthash>4c84a8ab85a9ff452b3fefb4a9c3c09eea55161d</contenthash>
+    <contextid>56</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>8</itemid>
+    <filepath>/</filepath>
+    <filename>Glossary-Nav_Search.png</filename>
+    <userid>3</userid>
+    <filesize>45746</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405714138</timecreated>
+    <timemodified>1405714951</timemodified>
+    <source>Glossary-Nav_Search.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="34">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>56</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>8</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="35">
+    <contenthash>85b976c741ab94a9d8f052bc4a8049ddee23fd3b</contenthash>
+    <contextid>56</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>8</itemid>
+    <filepath>/</filepath>
+    <filename>Glossary-Nav_Date.png</filename>
+    <userid>3</userid>
+    <filesize>54651</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405714769</timecreated>
+    <timemodified>1405714951</timemodified>
+    <source>Glossary-Nav_Date.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="40">
+    <contenthash>4bda50f04a19b74bdab017c01c88c3ae8ebf011d</contenthash>
+    <contextid>59</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>1</itemid>
+    <filepath>/</filepath>
+    <filename>Navigation.png</filename>
+    <userid>3</userid>
+    <filesize>9953</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1404867746</timecreated>
+    <timemodified>1404867768</timemodified>
+    <source>Navigation.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="41">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>59</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>1</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="42">
+    <contenthash>5af873235fc65c536a55533055d5f7ea8bb3358d</contenthash>
+    <contextid>59</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>5</itemid>
+    <filepath>/</filepath>
+    <filename>Switch_Role.png</filename>
+    <userid>3</userid>
+    <filesize>18240</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405539332</timecreated>
+    <timemodified>1405539440</timemodified>
+    <source>Switch Role.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="43">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>59</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>5</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="44">
+    <contenthash>a0fbcaa5a09f9728e967f9607a521f1f249d762f</contenthash>
+    <contextid>59</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>5</itemid>
+    <filepath>/</filepath>
+    <filename>Switch_Role_Normal.png</filename>
+    <userid>3</userid>
+    <filesize>18975</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405539607</timecreated>
+    <timemodified>1405539656</timemodified>
+    <source>Switch Role - Normal.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="45">
+    <contenthash>2ed5dd2c952889b6841c647cb262daae17878a55</contenthash>
+    <contextid>59</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>7</itemid>
+    <filepath>/</filepath>
+    <filename>Admin_Block_Feasibility_Teacher.png</filename>
+    <userid>3</userid>
+    <filesize>36670</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405540904</timecreated>
+    <timemodified>1405541175</timemodified>
+    <source>Feasibility Teacher Admin block.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="46">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>59</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>7</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="47">
+    <contenthash>8ade630e57e4498a6fb21c71b18440fad947ffe7</contenthash>
+    <contextid>59</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>7</itemid>
+    <filepath>/</filepath>
+    <filename>Admin_Block_Student.png</filename>
+    <userid>3</userid>
+    <filesize>28600</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405540961</timecreated>
+    <timemodified>1405541175</timemodified>
+    <source>Student Admin block.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="48">
+    <contenthash>dcef985ac176f8efbfe30a9b4adbaeae5bb6ccae</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>10</itemid>
+    <filepath>/</filepath>
+    <filename>View-Student_Course_Material.png</filename>
+    <userid>3</userid>
+    <filesize>91979</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405803817</timecreated>
+    <timemodified>1405804104</timemodified>
+    <source>Server files: View-Student_Course_Material.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="49">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>10</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="50">
+    <contenthash>ec91fe87d0451ebcd3ebdb219a2c946f637bcf1a</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>10</itemid>
+    <filepath>/</filepath>
+    <filename>View-Feasibility_Teacher_Course.png</filename>
+    <userid>3</userid>
+    <filesize>126947</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405803851</timecreated>
+    <timemodified>1405804104</timemodified>
+    <source>Server files: View-Feasibility_Teacher_Course.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="51">
+    <contenthash>4a268012058de4f5568a4d579f22da45519366ff</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Editing.png</filename>
+    <userid>3</userid>
+    <filesize>7556</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405804512</timecreated>
+    <timemodified>1405805839</timemodified>
+    <source>Icon-Editing.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="52">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="53">
+    <contenthash>0aa4590b8881ec7f860d58b3d4764e27a01bdb27</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>Block-Editing.png</filename>
+    <userid>3</userid>
+    <filesize>14028</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405804773</timecreated>
+    <timemodified>1405805839</timemodified>
+    <source>Block-Editing.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="54">
+    <contenthash>a0ca7da7f8cbe55e6c9186a66dd0d0324f53c338</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Eye_Open.png</filename>
+    <userid>3</userid>
+    <filesize>6755</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405805127</timecreated>
+    <timemodified>1405805839</timemodified>
+    <source>Icon-Eye_Open.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="55">
+    <contenthash>83809d327712258136a6dc3f59f5f7a936bbde6c</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Eye_Closed.png</filename>
+    <userid>3</userid>
+    <filesize>6743</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405805177</timecreated>
+    <timemodified>1405805839</timemodified>
+    <source>Icon-Eye_Closed.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="56">
+    <contenthash>62c575cef062ad98ff8602acd29c4f2c75f2edf0</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Hide.png</filename>
+    <userid>3</userid>
+    <filesize>10535</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405805437</timecreated>
+    <timemodified>1405805839</timemodified>
+    <source>Icon-Hide.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="57">
+    <contenthash>c2a73f2a5eb02962ae08c0bae7cc539bbfacc1bd</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Edit_Show.png</filename>
+    <userid>3</userid>
+    <filesize>10686</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405805469</timecreated>
+    <timemodified>1405805839</timemodified>
+    <source>Icon-Edit-Show.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="58">
+    <contenthash>6dcc8d2c48ae01b275a1be6e61b53571e0204f94</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Hidden.png</filename>
+    <userid>3</userid>
+    <filesize>10805</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1407519153</timecreated>
+    <timemodified>1407519438</timemodified>
+    <source>icon-Hidden.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="59">
+    <contenthash>8e7a2356db16432923cbbc38f5e1f7ba1cfdfcd0</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Eye_Open2.png</filename>
+    <userid>3</userid>
+    <filesize>3761</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1407519374</timecreated>
+    <timemodified>1407519438</timemodified>
+    <source>Icon-Eye-Open2.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="60">
+    <contenthash>9c242d69fef48f2ebe1237aed55f1e3361d0e07f</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Eye_Closed2.png</filename>
+    <userid>3</userid>
+    <filesize>4889</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1407519418</timecreated>
+    <timemodified>1407519438</timemodified>
+    <source>Icon-Eye-Closed2.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="61">
+    <contenthash>58db211580f41b9115ca73fe2960002dc52e15e2</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>13</itemid>
+    <filepath>/</filepath>
+    <filename>Hidden material.png</filename>
+    <userid>3</userid>
+    <filesize>22733</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405900762</timecreated>
+    <timemodified>1405900940</timemodified>
+    <source>Hidden Material.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="62">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>13</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>document/unknown</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471143844</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="63">
+    <contenthash>7b860b9f3b751e34604c3dc88d24ddc2206d9ea6</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>13</itemid>
+    <filepath>/</filepath>
+    <filename>Hidden-Material2.png</filename>
+    <userid>3</userid>
+    <filesize>19514</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1407519666</timecreated>
+    <timemodified>1407519723</timemodified>
+    <source>Hidden-Material.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="283">
+    <contenthash>4927cbb84f0bdc525394899f83bdd006f36407d8</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>13</itemid>
+    <filepath>/</filepath>
+    <filename>Folder_permissions.png</filename>
+    <userid>3</userid>
+    <filesize>23009</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1471144263</timecreated>
+    <timemodified>1471144548</timemodified>
+    <source>Folder_permissions.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="284">
+    <contenthash>102e27a2d8533a5183507f2c54f7c1208e46fcad</contenthash>
+    <contextid>61</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>13</itemid>
+    <filepath>/</filepath>
+    <filename>Folder_Permissions_List.png</filename>
+    <userid>3</userid>
+    <filesize>131343</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1471144484</timecreated>
+    <timemodified>1471144548</timemodified>
+    <source>Folder_Permissions_List.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="64">
+    <contenthash>b37d55c5569cb9a0c2d6ec661f75d15b57869164</contenthash>
+    <contextid>63</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>14</itemid>
+    <filepath>/</filepath>
+    <filename>Profile view.png</filename>
+    <userid>3</userid>
+    <filesize>94698</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405360201</timecreated>
+    <timemodified>1405360248</timemodified>
+    <source>profile view.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="65">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>63</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>14</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="66">
+    <contenthash>a2c8c1e84e1c703bbfee8c74e84fafa37c6418ce</contenthash>
+    <contextid>63</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>15</itemid>
+    <filepath>/</filepath>
+    <filename>Select profile.png</filename>
+    <userid>3</userid>
+    <filesize>96189</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405360506</timecreated>
+    <timemodified>1405360782</timemodified>
+    <source>Profile select.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="67">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>63</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>15</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="68">
+    <contenthash>321974727cf14bde3be6ea271a2ce0032c0825f0</contenthash>
+    <contextid>63</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>15</itemid>
+    <filepath>/</filepath>
+    <filename>Profile navigation.png</filename>
+    <userid>3</userid>
+    <filesize>30168</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405360755</timecreated>
+    <timemodified>1405360782</timemodified>
+    <source>Profile Nav.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="69">
+    <contenthash>0827e372deaa6032be674ca0747e543b601efd9b</contenthash>
+    <contextid>63</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>15</itemid>
+    <filepath>/</filepath>
+    <filename>Profile view mobile.png</filename>
+    <userid>3</userid>
+    <filesize>67688</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405382388</timecreated>
+    <timemodified>1405382570</timemodified>
+    <source>Profile view Mobile.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="70">
+    <contenthash>9bb6df12a25fe9fa79665bcd293cfd650a0f35ba</contenthash>
+    <contextid>63</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>16</itemid>
+    <filepath>/</filepath>
+    <filename>Course Profile view.png</filename>
+    <userid>3</userid>
+    <filesize>34984</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405385390</timecreated>
+    <timemodified>1405385479</timemodified>
+    <source>Course Profile View.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="71">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>63</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>16</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="72">
+    <contenthash>176a7581f6f0238d526fda9003d8b87a9f4d44a8</contenthash>
+    <contextid>44</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>19</itemid>
+    <filepath>/</filepath>
+    <filename>lesson icon.jpg</filename>
+    <userid>3</userid>
+    <filesize>1693</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405868119</timecreated>
+    <timemodified>1405869457</timemodified>
+    <source>lesson icon.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="73">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>44</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>19</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136290</timecreated>
+    <timemodified>1471136290</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="74">
+    <contenthash>003a80130b3d47c3aeda378b1c27c93183402d6e</contenthash>
+    <contextid>44</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>19</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment Icon.jpg</filename>
+    <userid>3</userid>
+    <filesize>1259</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405868497</timecreated>
+    <timemodified>1405869457</timemodified>
+    <source>Assignment Icon.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="75">
+    <contenthash>7a84fb612c6f246b229baaf45ff854e31404689f</contenthash>
+    <contextid>44</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>19</itemid>
+    <filepath>/</filepath>
+    <filename>Book Icon.jpg</filename>
+    <userid>3</userid>
+    <filesize>1531</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405869236</timecreated>
+    <timemodified>1405869457</timemodified>
+    <source>Book Icon.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="76">
+    <contenthash>6875931402a35fc60acc218808f0623e2749881d</contenthash>
+    <contextid>44</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>19</itemid>
+    <filepath>/</filepath>
+    <filename>Webpage Icon.jpg</filename>
+    <userid>3</userid>
+    <filesize>1789</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405869337</timecreated>
+    <timemodified>1405869457</timemodified>
+    <source>Webpage Icon.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="77">
+    <contenthash>176a7581f6f0238d526fda9003d8b87a9f4d44a8</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>8</itemid>
+    <filepath>/</filepath>
+    <filename>lesson icon.jpg</filename>
+    <userid>3</userid>
+    <filesize>1693</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405869667</timecreated>
+    <timemodified>1405870322</timemodified>
+    <source>lesson icon.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>8</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="79">
+    <contenthash>29e69bc771237a880697bd3603d9307803695660</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>8</itemid>
+    <filepath>/</filepath>
+    <filename>teacher view lesson.jpg</filename>
+    <userid>3</userid>
+    <filesize>96943</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405870242</timecreated>
+    <timemodified>1405870322</timemodified>
+    <source>teacher view lesson.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="80">
+    <contenthash>f118952073706580d435e169f91922583784aca9</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>8</itemid>
+    <filepath>/</filepath>
+    <filename>lesson student view.jpg</filename>
+    <userid>3</userid>
+    <filesize>91729</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405870295</timecreated>
+    <timemodified>1405870322</timemodified>
+    <source>lesson student view.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="81">
+    <contenthash>8adf34aeba56069b5f235f2462175a6b2f9b58b0</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>8</itemid>
+    <filepath>/</filepath>
+    <filename>Next icon.jpg</filename>
+    <userid>3</userid>
+    <filesize>806</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405872080</timecreated>
+    <timemodified>1405872093</timemodified>
+    <source>Next icon.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="82">
+    <contenthash>41843d5964be67db77cf38ca6b95e6811d937baf</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>9</itemid>
+    <filepath>/</filepath>
+    <filename>Teacher View Lesson grades.jpg</filename>
+    <userid>3</userid>
+    <filesize>69613</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405871667</timecreated>
+    <timemodified>1405871834</timemodified>
+    <source>Teacher View Lesson grades.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="83">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>9</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="84">
+    <contenthash>d82c0812dd26969e21e7e7d7f5cec66c4810d7d8</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>9</itemid>
+    <filepath>/</filepath>
+    <filename>Student View Lesson 2.jpg</filename>
+    <userid>3</userid>
+    <filesize>62405</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405871749</timecreated>
+    <timemodified>1405871834</timemodified>
+    <source>Student View Lesson 2.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="85">
+    <contenthash>29e69bc771237a880697bd3603d9307803695660</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>10</itemid>
+    <filepath>/</filepath>
+    <filename>teacher view lesson.jpg</filename>
+    <userid>3</userid>
+    <filesize>96943</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405872555</timecreated>
+    <timemodified>1405873079</timemodified>
+    <source>teacher view lesson.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="86">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>10</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="87">
+    <contenthash>e753b253bd6eff2a7adf3f1ead4a9e0c13054fe2</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>10</itemid>
+    <filepath>/</filepath>
+    <filename>lesson teacher icons overview.jpg</filename>
+    <userid>3</userid>
+    <filesize>7687</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405872782</timecreated>
+    <timemodified>1405873079</timemodified>
+    <source>lesson teacher icons overview.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="88">
+    <contenthash>6edd97b8fb3112092c6234a45de8bed860b3b730</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>10</itemid>
+    <filepath>/</filepath>
+    <filename>lesson page with quiz question.jpg</filename>
+    <userid>3</userid>
+    <filesize>282717</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405875132</timecreated>
+    <timemodified>1405875277</timemodified>
+    <source>lesson page with quiz question.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="89">
+    <contenthash>4f6126953869f31f96405c967470d1f766ebc06a</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>lesson edit expanded.jpg</filename>
+    <userid>3</userid>
+    <filesize>18408</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405875446</timecreated>
+    <timemodified>1405875784</timemodified>
+    <source>lesson edit expanded.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="90">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="91">
+    <contenthash>55891fa99c9b28833cb249f5139060b50b8f185b</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>Lesson Edit collapsed.jpg</filename>
+    <userid>3</userid>
+    <filesize>19001</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405875467</timecreated>
+    <timemodified>1405875784</timemodified>
+    <source>Lesson Edit collapsed.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="92">
+    <contenthash>fcc77378cda02d103ea01bfa979c49145c98bcb9</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>edit tab collapsed.jpg</filename>
+    <userid>3</userid>
+    <filesize>12431</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405875543</timecreated>
+    <timemodified>1405875784</timemodified>
+    <source>edit tab collapsed.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="93">
+    <contenthash>4f6126953869f31f96405c967470d1f766ebc06a</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>lesson edit expanded (1).jpg</filename>
+    <userid>3</userid>
+    <filesize>18408</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405875602</timecreated>
+    <timemodified>1405875784</timemodified>
+    <source>lesson edit expanded.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="94">
+    <contenthash>51437bdc3e10afd3aa40648e87f13e3fca711b58</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>11</itemid>
+    <filepath>/</filepath>
+    <filename>lesson edit tab with sample expanded view.jpg</filename>
+    <userid>3</userid>
+    <filesize>299842</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405882294</timecreated>
+    <timemodified>1405882491</timemodified>
+    <source>lesson edit tab with sample expanded view.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="95">
+    <contenthash>4061884358649f253d4215060d92f6f0933991ba</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>12</itemid>
+    <filepath>/</filepath>
+    <filename>Lesson Reports Tab Overview with student data.jpg</filename>
+    <userid>3</userid>
+    <filesize>68370</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405880540</timecreated>
+    <timemodified>1405880658</timemodified>
+    <source>Lesson Reports Tab Overview with student data.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="96">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>12</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="97">
+    <contenthash>50a15ce6ecfa244cf7793b574124ba6677b4903e</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>13</itemid>
+    <filepath>/</filepath>
+    <filename>lesson grade essays tab.jpg</filename>
+    <userid>3</userid>
+    <filesize>10455</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1405880905</timecreated>
+    <timemodified>1405881851</timemodified>
+    <source>lesson grade essays tab.jpg</source>
+    <author>Anthony Gordon</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="98">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>13</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="99">
+    <contenthash>baf83dd7d6d919a6920c6fc3352ec5c747fb90ef</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>14</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Book_End_Arrow.png</filename>
+    <userid>3</userid>
+    <filesize>3540</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405951378</timecreated>
+    <timemodified>1405951655</timemodified>
+    <source>Icon-Book End Arrow.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="100">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>14</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="101">
+    <contenthash>2d76e4d6b9e9edd739ce58292628cdee7fbdf12a</contenthash>
+    <contextid>64</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>14</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Page_Nav.png</filename>
+    <userid>3</userid>
+    <filesize>6758</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405951620</timecreated>
+    <timemodified>1405951655</timemodified>
+    <source>Server files: Learning Moodle/Using Moodle/Moving around Activities/Resources (Lesson)/Page contents/Book/Icon-Page_Nav.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="102">
+    <contenthash>7b4c5daf21e706860882b6f2db6fe53448fbe8a5</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>18</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Assignment.png</filename>
+    <userid>3</userid>
+    <filesize>4422</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405954144</timecreated>
+    <timemodified>1405954224</timemodified>
+    <source>Icon-Assignment.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="103">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>18</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="104">
+    <contenthash>f39d46975100a6390539ac04d6e386bdfe85a2c5</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>19</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment-Name.png</filename>
+    <userid>3</userid>
+    <filesize>11930</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405954611</timecreated>
+    <timemodified>1405954665</timemodified>
+    <source>Assignment Example Link.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="105">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>19</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="106">
+    <contenthash>f0ff3eb7f516237385e47e6ef53c821b0776d440</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>20</itemid>
+    <filepath>/</filepath>
+    <filename>Assignmentn information.png</filename>
+    <userid>3</userid>
+    <filesize>104043</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405954876</timecreated>
+    <timemodified>1405954885</timemodified>
+    <source>Assignment information.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="107">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>20</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="108">
+    <contenthash>1bf2fe512a1bc5ea5d10f8f8149ed15c6d6d30b8</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>21</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment-Drag_Drop.png</filename>
+    <userid>3</userid>
+    <filesize>81382</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405958866</timecreated>
+    <timemodified>1405959040</timemodified>
+    <source>Assignment Submit DD.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="109">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>21</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="110">
+    <contenthash>c84aed426c7897bfc794042872b7731f3bb2a9a6</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>22</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment-Upload_Link.png</filename>
+    <userid>3</userid>
+    <filesize>51348</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405959346</timecreated>
+    <timemodified>1405959867</timemodified>
+    <source>Assignment upload link.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="111">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>22</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="112">
+    <contenthash>720236a5557a1007aa3e041d19909a8e8699aa55</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>22</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment-Upload_File_Picker.png</filename>
+    <userid>3</userid>
+    <filesize>86665</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405959742</timecreated>
+    <timemodified>1405959867</timemodified>
+    <source>Assignment-Upload_File_Picker.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="113">
+    <contenthash>91d9857b1ab6a4b5100fe1163777693072d5b8c7</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>23</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment-Feasibility_View.png</filename>
+    <userid>3</userid>
+    <filesize>74465</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405960460</timecreated>
+    <timemodified>1405960615</timemodified>
+    <source>Assignment-Feasibility Teacher view.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="114">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>23</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="115">
+    <contenthash>2f19d952eb59b0b70d969451d134b9c304717395</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>24</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment-Grading_Prevent_Changes.png</filename>
+    <userid>3</userid>
+    <filesize>103267</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405966110</timecreated>
+    <timemodified>1405966256</timemodified>
+    <source>Assignment-Grading-Prevent Changes.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="116">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>24</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="117">
+    <contenthash>64177deebf1ae6208ad5966480ef423e02ddd02f</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>24</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment-Grading_Submissions.png</filename>
+    <userid>3</userid>
+    <filesize>87320</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405966385</timecreated>
+    <timemodified>1405966498</timemodified>
+    <source>Assignment Grading Submissions.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="118">
+    <contenthash>0d88e71154f25ac9c254ea45c77260e4e3a61781</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>24</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment Locked.png</filename>
+    <userid>3</userid>
+    <filesize>56685</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405967201</timecreated>
+    <timemodified>1405967314</timemodified>
+    <source>Assignment Grading-Locked submission.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="119">
+    <contenthash>014cc66434bd6e01401223e651153775b694ae0e</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>25</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment-Grade-Grade.png</filename>
+    <userid>3</userid>
+    <filesize>89872</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405967841</timecreated>
+    <timemodified>1405970191</timemodified>
+    <source>Assignment Grade-Grade.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="120">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>25</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="121">
+    <contenthash>7ef1a8a20c269437368518b6d0596610186911ff</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>25</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment Grade screen.png</filename>
+    <userid>3</userid>
+    <filesize>60002</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405967936</timecreated>
+    <timemodified>1405970191</timemodified>
+    <source>Assignment-Grade screen.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="122">
+    <contenthash>1fb896c514c8e902a69d1ca0d492742c0613c66d</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>25</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment-Grading Comments.png</filename>
+    <userid>3</userid>
+    <filesize>39737</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405969433</timecreated>
+    <timemodified>1405970191</timemodified>
+    <source>Assignment-Grading-Comments.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="123">
+    <contenthash>42de949828461a0b2cd95782e892ba89be298a8a</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>25</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment-Grade_Save_Changes.png</filename>
+    <userid>3</userid>
+    <filesize>53304</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405970100</timecreated>
+    <timemodified>1405970191</timemodified>
+    <source>Assignment Grading-Save changes.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="124">
+    <contenthash>7220461ba05fe75b51b5002f3389ab307c2b4847</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>26</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment Grade link.png</filename>
+    <userid>3</userid>
+    <filesize>56847</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405973621</timecreated>
+    <timemodified>1405973684</timemodified>
+    <source>Assignment - Grade link.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="125">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>26</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="126">
+    <contenthash>b9774147e62c85b3d436d772fc9c1b4298d40fd9</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>26</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment-Grades_View.png</filename>
+    <userid>3</userid>
+    <filesize>90714</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405974149</timecreated>
+    <timemodified>1405974763</timemodified>
+    <source>Assignment-Grades view .png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="127">
+    <contenthash>91d9857b1ab6a4b5100fe1163777693072d5b8c7</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>26</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment-Feasibility_View.png</filename>
+    <userid>3</userid>
+    <filesize>74465</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405974311</timecreated>
+    <timemodified>1405974763</timemodified>
+    <source>Server files: Learning Moodle/Using Moodle/Assignment - How to Guide (Book)/Chapters/Feasibility Teacher view/Assignment-Feasibility_View.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="128">
+    <contenthash>0dfb5ef550b08f4251aeb3adc09e62e5aa0ad4c9</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>26</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment-Grade_Download_all.png</filename>
+    <userid>3</userid>
+    <filesize>71306</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405974534</timecreated>
+    <timemodified>1405974763</timemodified>
+    <source>Assignment-Grading Download All submissions.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="129">
+    <contenthash>3db0d6e1709b58761808918f2a7a5509e9d9bb32</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>26</itemid>
+    <filepath>/</filepath>
+    <filename>Assignment-Grade_Download_prompt.png</filename>
+    <userid>3</userid>
+    <filesize>41262</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405974667</timecreated>
+    <timemodified>1405974763</timemodified>
+    <source>Assignment-Grade-Download prompt.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="130">
+    <contenthash>89404608e26b0abdc285e78039a8154ad36dce4b</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>27</itemid>
+    <filepath>/</filepath>
+    <filename>Block-Administration_Gradebook.png</filename>
+    <userid>3</userid>
+    <filesize>24513</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405988481</timecreated>
+    <timemodified>1405988932</timemodified>
+    <source>Block-Assignment Gradebook.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="131">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>27</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="132">
+    <contenthash>fd17f514c6cb959ca7b6f6c0c8c8bf3ff3d5b014</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>27</itemid>
+    <filepath>/</filepath>
+    <filename>Grades-Turn_editing_on.png</filename>
+    <userid>3</userid>
+    <filesize>76848</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405988676</timecreated>
+    <timemodified>1405988932</timemodified>
+    <source>Grades-Turn editing on.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="133">
+    <contenthash>8c2c27b2b6d67d8825d67bd3a39c14de8a20f0b9</contenthash>
+    <contextid>65</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>27</itemid>
+    <filepath>/</filepath>
+    <filename>Grades-Manually_enter.png</filename>
+    <userid>3</userid>
+    <filesize>84515</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405988898</timecreated>
+    <timemodified>1405988932</timemodified>
+    <source>Grades-Manually enter grades.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="134">
+    <contenthash>4cd7490cef4f41ef481c898b379fd9eab0c51b8a</contenthash>
+    <contextid>66</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>29</itemid>
+    <filepath>/</filepath>
+    <filename>Folders-Hidden.png</filename>
+    <userid>3</userid>
+    <filesize>28658</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406554143</timecreated>
+    <timemodified>1406554230</timemodified>
+    <source>Folders-Hidden.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="135">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>66</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>29</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="136">
+    <contenthash>24bd775f24e351bcc45445e58d506e6c44c2bd62</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Quiz.png</filename>
+    <userid>3</userid>
+    <filesize>4138</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406299122</timecreated>
+    <timemodified>1406299208</timemodified>
+    <source>icon-quiz.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="137">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="138">
+    <contenthash>c09809d582d260ab1f96f9e7109981900de7439f</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>30</itemid>
+    <filepath>/</filepath>
+    <filename>Edit.png</filename>
+    <userid>3</userid>
+    <filesize>53108</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406299834</timecreated>
+    <timemodified>1406300367</timemodified>
+    <source>Edit.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="139">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>30</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="140">
+    <contenthash>a7b7c08dff7ba8e816b4d50df447a9e218532843</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>30</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Eye-Open.png</filename>
+    <userid>3</userid>
+    <filesize>3343</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406300021</timecreated>
+    <timemodified>1406300367</timemodified>
+    <source>Icon-Eye-Open.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="141">
+    <contenthash>ac597ed5d36450aae10536be9a8434b82d3a67ca</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>30</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Eye-Closed.png</filename>
+    <userid>3</userid>
+    <filesize>3344</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406300134</timecreated>
+    <timemodified>1406300367</timemodified>
+    <source>Icon-Eye-Closed.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="142">
+    <contenthash>060dd2f7a2d49efd9bd91cd238652c9a447dd735</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>30</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Shown.png</filename>
+    <userid>3</userid>
+    <filesize>8138</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406300465</timecreated>
+    <timemodified>1406300719</timemodified>
+    <source>Quiz-Shown.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="143">
+    <contenthash>80e92f765b262ebb7092c1e2bcb913bfefdb4410</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>30</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Closed.png</filename>
+    <userid>3</userid>
+    <filesize>8185</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406300625</timecreated>
+    <timemodified>1406300719</timemodified>
+    <source>Quiz-Closed.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="144">
+    <contenthash>896435604cf6555f2a93ff116b5aeff05c288874</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>31</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Intro.png</filename>
+    <userid>3</userid>
+    <filesize>100326</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406301200</timecreated>
+    <timemodified>1406301412</timemodified>
+    <source>Quiz-Intro.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="145">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>31</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="146">
+    <contenthash>fc4e954c020dbb82420ee14b2d79eda66e27eec6</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>32</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Question_Next.png</filename>
+    <userid>3</userid>
+    <filesize>31856</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406301745</timecreated>
+    <timemodified>1406302080</timemodified>
+    <source>Quiz-Question_Next.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="147">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>32</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="148">
+    <contenthash>2db191a3fe3e48ec4b78b42b3d2d584326390e34</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>32</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Nav.png</filename>
+    <userid>3</userid>
+    <filesize>20732</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406301854</timecreated>
+    <timemodified>1406302081</timemodified>
+    <source>Quiz-Nav.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="149">
+    <contenthash>e38aa48f8b1c336cbb458d48df1e286ecd2ed932</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>33</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Attempts.png</filename>
+    <userid>3</userid>
+    <filesize>82106</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406306783</timecreated>
+    <timemodified>1406308350</timemodified>
+    <source>Quiz-Attempts.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="150">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>33</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="151">
+    <contenthash>634d883f7d92c6f16d80962a9e3fc4a0dc30bf9f</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>33</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Result_Report.png</filename>
+    <userid>3</userid>
+    <filesize>85588</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406307258</timecreated>
+    <timemodified>1406308350</timemodified>
+    <source>Quiz-Result Report.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="152">
+    <contenthash>bf63407ab863f1949e7374232606651c0440dd90</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>33</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Results_Table.png</filename>
+    <userid>3</userid>
+    <filesize>102126</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406307379</timecreated>
+    <timemodified>1406308350</timemodified>
+    <source>Quiz-Results Table.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="153">
+    <contenthash>0c15e3162d2570f9b546bed3289bed4c0a63e830</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>33</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Student_Reponse.png</filename>
+    <userid>3</userid>
+    <filesize>124392</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406307773</timecreated>
+    <timemodified>1406308350</timemodified>
+    <source>Quiz-Student answer.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="154">
+    <contenthash>59a4a53cbb0974d7c11527e51b0163d9021c49c7</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>33</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Grade_Range.png</filename>
+    <userid>3</userid>
+    <filesize>29288</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406308489</timecreated>
+    <timemodified>1406309156</timemodified>
+    <source>Quiz-Grade Range.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="155">
+    <contenthash>2fe42bb8544c1d9912e29a4c3e54d3813d28b188</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>33</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Delete_Responses.png</filename>
+    <userid>3</userid>
+    <filesize>31380</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406309054</timecreated>
+    <timemodified>1406309156</timemodified>
+    <source>Quiz-Delete responses.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="156">
+    <contenthash>a64a636f527fb069c0d73c8a91cce8aa0dd14e2b</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>34</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Section1.png</filename>
+    <userid>3</userid>
+    <filesize>6081</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406311677</timecreated>
+    <timemodified>1406311871</timemodified>
+    <source>Quiz-Section1.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="157">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>34</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="158">
+    <contenthash>919de87e41893f211f79fd8cc7a85057c925eb2f</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>34</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Manual_Grading.png</filename>
+    <userid>3</userid>
+    <filesize>31296</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406311844</timecreated>
+    <timemodified>1406311871</timemodified>
+    <source>Quiz-Manual Grading.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="159">
+    <contenthash>12543603464fae95c5cdc306d5282f5dd23c8ada</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>34</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Grade_Manual_Screen.png</filename>
+    <userid>3</userid>
+    <filesize>53860</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406312854</timecreated>
+    <timemodified>1406313257</timemodified>
+    <source>Quiz-Manual Grade Screen.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="160">
+    <contenthash>9e361960251e2faf7228a849a4a7a681d76b2b6f</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>34</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Grade_Essay_Example.png</filename>
+    <userid>3</userid>
+    <filesize>133720</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406313005</timecreated>
+    <timemodified>1406313257</timemodified>
+    <source>Quiz-Grade Essay Example.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="161">
+    <contenthash>1b7a2bc689f05ff3177a5faf181a66d1fb5c917a</contenthash>
+    <contextid>67</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>34</itemid>
+    <filepath>/</filepath>
+    <filename>Quiz-Grade_Example2.png</filename>
+    <userid>3</userid>
+    <filesize>52741</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406313130</timecreated>
+    <timemodified>1406313257</timemodified>
+    <source>Quiz-Grade-Example2.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="162">
+    <contenthash>204314a14145bf60947c47b132ab9dd03a60a18c</contenthash>
+    <contextid>68</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>35</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Glossary.png</filename>
+    <userid>3</userid>
+    <filesize>7204</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406482417</timecreated>
+    <timemodified>1406482513</timemodified>
+    <source>Icon-Glossary.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="163">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>68</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>35</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="164">
+    <contenthash>305c08a7b81fa6f924f80768eb3ee390ea2a9c34</contenthash>
+    <contextid>68</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>36</itemid>
+    <filepath>/</filepath>
+    <filename>Glossary-Auto-Linked_Example.png</filename>
+    <userid>3</userid>
+    <filesize>36431</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406484701</timecreated>
+    <timemodified>1406485421</timemodified>
+    <source>Glossary-Auto-linked_Example.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="165">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>68</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>36</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="166">
+    <contenthash>fca7dfdac9fb9e5e2a8170185c1b9a2c87abce40</contenthash>
+    <contextid>68</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>36</itemid>
+    <filepath>/</filepath>
+    <filename>Glossary-Mouse.png</filename>
+    <userid>3</userid>
+    <filesize>43308</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406484904</timecreated>
+    <timemodified>1406485421</timemodified>
+    <source>Glossary-Mouse.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="167">
+    <contenthash>208e3fd217fb39106baf7cee84620d532f60c246</contenthash>
+    <contextid>68</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>36</itemid>
+    <filepath>/</filepath>
+    <filename>Glossary-Pop-Up.png</filename>
+    <userid>3</userid>
+    <filesize>33866</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406485371</timecreated>
+    <timemodified>1406485421</timemodified>
+    <source>glossary pop up.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="168">
+    <contenthash>190c84629b39c8fd16839227b755bfd5dc619ed5</contenthash>
+    <contextid>68</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>37</itemid>
+    <filepath>/</filepath>
+    <filename>Glossary-Link.png</filename>
+    <userid>3</userid>
+    <filesize>9399</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406482817</timecreated>
+    <timemodified>1406483690</timemodified>
+    <source>Glossary-Link.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="169">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>68</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>37</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="170">
+    <contenthash>62aa415195bccfd065fcd96a068743222a39c71b</contenthash>
+    <contextid>68</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>37</itemid>
+    <filepath>/</filepath>
+    <filename>Glossary-Example.png</filename>
+    <userid>3</userid>
+    <filesize>67005</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406482934</timecreated>
+    <timemodified>1406483690</timemodified>
+    <source>Glossary-Example.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="171">
+    <contenthash>8400ddb8282a540395f19cb2c782f3ab1102664d</contenthash>
+    <contextid>68</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>37</itemid>
+    <filepath>/</filepath>
+    <filename>Glossary-Tabs.png</filename>
+    <userid>3</userid>
+    <filesize>25398</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406483425</timecreated>
+    <timemodified>1406483690</timemodified>
+    <source>Glossary-Tabs.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="172">
+    <contenthash>4a268012058de4f5568a4d579f22da45519366ff</contenthash>
+    <contextid>72</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Icon-Editing1.png</filename>
+    <userid>3</userid>
+    <filesize>7556</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405872514</timecreated>
+    <timemodified>1405873878</timemodified>
+    <source>Icon-Editing.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="173">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>72</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="174">
+    <contenthash>825c49ec68610e55ac3544bf2d4cf4d05f947e44</contenthash>
+    <contextid>72</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Blocks-Groups.png</filename>
+    <userid>3</userid>
+    <filesize>24317</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405872676</timecreated>
+    <timemodified>1405873878</timemodified>
+    <source>Block-Groups.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="175">
+    <contenthash>a15a00f49ec23e4b28028a48c9c76ed757a2184a</contenthash>
+    <contextid>72</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Button-Create group.png</filename>
+    <userid>3</userid>
+    <filesize>35898</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405872958</timecreated>
+    <timemodified>1405873878</timemodified>
+    <source>Button-Create group.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="176">
+    <contenthash>2b90a0b67e66851b4d2d62a11d654ef97d74b0e1</contenthash>
+    <contextid>72</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Screen Create Group.png</filename>
+    <userid>3</userid>
+    <filesize>17659</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405873112</timecreated>
+    <timemodified>1405873878</timemodified>
+    <source>Screen-Group Name.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="177">
+    <contenthash>1f18c3cb9a46381a2b85550342523ef5db9bc6b9</contenthash>
+    <contextid>72</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Screen-Groups Add.png</filename>
+    <userid>3</userid>
+    <filesize>42584</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405873478</timecreated>
+    <timemodified>1405873878</timemodified>
+    <source>Screen-Groups Add.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="178">
+    <contenthash>751a86d163d98e52bdf1a0ab543557e6bd0a1378</contenthash>
+    <contextid>72</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Screen- Names to add.png</filename>
+    <userid>3</userid>
+    <filesize>92923</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405873790</timecreated>
+    <timemodified>1405873878</timemodified>
+    <source>Screen- Group Names.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="179">
+    <contenthash>d0576e7e54b2a846f5bf7e72b5fe1f4025b97862</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>41</itemid>
+    <filepath>/</filepath>
+    <filename>Blocks-Admin-Grades.png</filename>
+    <userid>3</userid>
+    <filesize>23336</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405890490</timecreated>
+    <timemodified>1405890548</timemodified>
+    <source>Block-Admin-Grades.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="180">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>41</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="181">
+    <contenthash>d0576e7e54b2a846f5bf7e72b5fe1f4025b97862</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>41</itemid>
+    <filepath>/</filepath>
+    <filename>Block-Admin-Grades.png</filename>
+    <userid>3</userid>
+    <filesize>23336</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405890527</timecreated>
+    <timemodified>1405890548</timemodified>
+    <source>Block-Admin-Grades.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="182">
+    <contenthash>76ee9fd4c5e9ecd6deb660ecc017848c8b58ad30</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>42</itemid>
+    <filepath>/</filepath>
+    <filename>Grades-View.png</filename>
+    <userid>3</userid>
+    <filesize>93194</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406037656</timecreated>
+    <timemodified>1406212137</timemodified>
+    <source>Grades-View.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="183">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>42</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="184">
+    <contenthash>5971b2108b2304063ae52741647ab89936be6646</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>43</itemid>
+    <filepath>/</filepath>
+    <filename>Grades-View-Tabs.png</filename>
+    <userid>3</userid>
+    <filesize>90298</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406213593</timecreated>
+    <timemodified>1406213610</timemodified>
+    <source>Grades-View-Tabs.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="185">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>43</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="186">
+    <contenthash>d69f2f2983f63253ac33e48909d82c7eef0a384d</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>43</itemid>
+    <filepath>/</filepath>
+    <filename>Grades-View LAE Grader.png</filename>
+    <userid>3</userid>
+    <filesize>88650</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406244024</timecreated>
+    <timemodified>1406244988</timemodified>
+    <source>Grades-View LAE Grader.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="187">
+    <contenthash>db639849ebdde763c20a5a1027daba18deb3688c</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>43</itemid>
+    <filepath>/</filepath>
+    <filename>Grade-View_Scroll.png</filename>
+    <userid>3</userid>
+    <filesize>80543</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406244449</timecreated>
+    <timemodified>1406244988</timemodified>
+    <source>Grades-View Scroll.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="188">
+    <contenthash>9503a0206cc496e948948f47c8b1d31964c5f0fc</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>43</itemid>
+    <filepath>/</filepath>
+    <filename>Grades-View_Tabs2.png</filename>
+    <userid>3</userid>
+    <filesize>79373</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406248305</timecreated>
+    <timemodified>1406248315</timemodified>
+    <source>Grades-View Tabs2.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="189">
+    <contenthash>bcab72f8d56cb19e72de378a59c2ce3a938aa252</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>43</itemid>
+    <filepath>/</filepath>
+    <filename>Grades-Drop_Down_Menu.png</filename>
+    <userid>3</userid>
+    <filesize>64753</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406248779</timecreated>
+    <timemodified>1406248888</timemodified>
+    <source>Grade-Drop down menu.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="190">
+    <contenthash>96f976f53e12cc3209f9756ceaeed536c40abd97</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>44</itemid>
+    <filepath>/</filepath>
+    <filename>Grade-View Tab.png</filename>
+    <userid>3</userid>
+    <filesize>51274</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406246209</timecreated>
+    <timemodified>1406246787</timemodified>
+    <source>Grades-View Tab.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="191">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>44</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="192">
+    <contenthash>f9348ae5c27bae05f64a1bfa26f0244198825e2f</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>44</itemid>
+    <filepath>/</filepath>
+    <filename>Grades-Sort_First_Name.png</filename>
+    <userid>3</userid>
+    <filesize>25665</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406246735</timecreated>
+    <timemodified>1406246787</timemodified>
+    <source>Grade-Sort First Name.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="193">
+    <contenthash>8c2c27b2b6d67d8825d67bd3a39c14de8a20f0b9</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>44</itemid>
+    <filepath>/</filepath>
+    <filename>Grades-Manually_Enter.png</filename>
+    <userid>3</userid>
+    <filesize>84515</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406247209</timecreated>
+    <timemodified>1406247367</timemodified>
+    <source>Grades-Manually enter grades.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="194">
+    <contenthash>024a931ac03b904fff8fcb8335a4e690a04edbcf</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>44</itemid>
+    <filepath>/</filepath>
+    <filename>Grade-View_Tab_Secondary.png</filename>
+    <userid>3</userid>
+    <filesize>52373</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406248567</timecreated>
+    <timemodified>1406248678</timemodified>
+    <source>Grades-View Tab-Secondary.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="195">
+    <contenthash>65b63b3b11a4d087c5baf058538018b480bc25d2</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>45</itemid>
+    <filepath>/</filepath>
+    <filename>Grades-View-User_Report.png</filename>
+    <userid>3</userid>
+    <filesize>81104</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406593511</timecreated>
+    <timemodified>1406594342</timemodified>
+    <source>Grades-View-User_Report.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="196">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>45</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="197">
+    <contenthash>89186cb079f2623109bc234f6dacd5cc4f298255</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>46</itemid>
+    <filepath>/</filepath>
+    <filename>Grades-Categories_SImple_View.png</filename>
+    <userid>3</userid>
+    <filesize>62292</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406249559</timecreated>
+    <timemodified>1406249910</timemodified>
+    <source>Grades-Categories and items simple.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="198">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>46</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="199">
+    <contenthash>00de587433a3c631cf1997b92081171e8dd640c1</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>47</itemid>
+    <filepath>/</filepath>
+    <filename>Grade-Scale.png</filename>
+    <userid>3</userid>
+    <filesize>38689</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406250021</timecreated>
+    <timemodified>1406250272</timemodified>
+    <source>Grade-Scale.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="200">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>47</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="201">
+    <contenthash>ad43d655a73ad38a3d36b4f8783a9468cfe1d603</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>47</itemid>
+    <filepath>/</filepath>
+    <filename>Grade-Scale_Edit.png</filename>
+    <userid>3</userid>
+    <filesize>45645</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406250157</timecreated>
+    <timemodified>1406250272</timemodified>
+    <source>grade-Scale-Edit.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="202">
+    <contenthash>f43a44d4dd45d5cad58f87ccbe9cd9393eaf7bf3</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>48</itemid>
+    <filepath>/</filepath>
+    <filename>Grade-Export.png</filename>
+    <userid>3</userid>
+    <filesize>85175</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406250651</timecreated>
+    <timemodified>1406250799</timemodified>
+    <source>grade-Export.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="203">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>48</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="204">
+    <contenthash>0071f1324edc22b2b4f1ca3b38b3b13bc0250511</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>49</itemid>
+    <filepath>/</filepath>
+    <filename>Grade-Group_Select.png</filename>
+    <userid>3</userid>
+    <filesize>71773</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1407333333</timecreated>
+    <timemodified>1407333366</timemodified>
+    <source>Grade-Group_Select.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="205">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>73</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>49</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="206">
+    <contenthash>d0dd6162a7a783f3aa9f1cd53b6b9676a6a7a25c</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>50</itemid>
+    <filepath>/</filepath>
+    <filename>Reports-Course_Completion.png</filename>
+    <userid>3</userid>
+    <filesize>84043</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406289953</timecreated>
+    <timemodified>1406290458</timemodified>
+    <source>Reports-Course Completion.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="207">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>50</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="208">
+    <contenthash>0f8da95901c60b454111f5d4c062e4c2279f1f14</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>51</itemid>
+    <filepath>/</filepath>
+    <filename>Reports-Navigation.png</filename>
+    <userid>3</userid>
+    <filesize>40170</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406290641</timecreated>
+    <timemodified>1406290708</timemodified>
+    <source>Reports-Navigation.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="209">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>51</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="210">
+    <contenthash>387121744bb3f313d38906fc3864294699787c3b</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>52</itemid>
+    <filepath>/</filepath>
+    <filename>Report-Student_Activity.png</filename>
+    <userid>3</userid>
+    <filesize>173017</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406291075</timecreated>
+    <timemodified>1406291947</timemodified>
+    <source>Report-Student activity.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="211">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>52</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="212">
+    <contenthash>70e7d4fe4128d782a98f869cd44ea8da278ff11b</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>52</itemid>
+    <filepath>/</filepath>
+    <filename>Report-Student_Time.png</filename>
+    <userid>3</userid>
+    <filesize>233211</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406291437</timecreated>
+    <timemodified>1406291947</timemodified>
+    <source>Report-Student-Time.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="213">
+    <contenthash>047be9224bc2d2f5f20be0318cc6986d39a1ab67</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>52</itemid>
+    <filepath>/</filepath>
+    <filename>Report-Log_Day.png</filename>
+    <userid>3</userid>
+    <filesize>107046</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406291696</timecreated>
+    <timemodified>1406291947</timemodified>
+    <source>Reports-Log_Day.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="214">
+    <contenthash>edc64152cc20eafe833a85aabfa8fa314b27e06a</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>54</itemid>
+    <filepath>/</filepath>
+    <filename>Report-Activity.png</filename>
+    <userid>3</userid>
+    <filesize>74767</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406293340</timecreated>
+    <timemodified>1406293392</timemodified>
+    <source>report-Activity.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="215">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>54</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="216">
+    <contenthash>d8f8aaa3bbec68c29f8a87ffd1eace6bbcb732ca</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>55</itemid>
+    <filepath>/</filepath>
+    <filename>Report-Course_Participation.png</filename>
+    <userid>3</userid>
+    <filesize>74766</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406294087</timecreated>
+    <timemodified>1406294368</timemodified>
+    <source>Report-Course_Participation.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="217">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>55</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="218">
+    <contenthash>15db85bd3b2924ceb02e5332df0757886aa22ee1</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>56</itemid>
+    <filepath>/</filepath>
+    <filename>Report-Actiivty_Completion.png</filename>
+    <userid>3</userid>
+    <filesize>110897</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406296403</timecreated>
+    <timemodified>1406296731</timemodified>
+    <source>Report-Activity completion .png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="219">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>56</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="220">
+    <contenthash>7d0951dd96c058910fe4048b2ebfc8434545a0c0</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>56</itemid>
+    <filepath>/</filepath>
+    <filename>Report-Activity_Completion_Download.png</filename>
+    <userid>3</userid>
+    <filesize>34529</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406296723</timecreated>
+    <timemodified>1406296731</timemodified>
+    <source>Report-Activity C-Download.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="221">
+    <contenthash>96d513a76ac861bf4fb4da3faa07815dccbe4705</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>57</itemid>
+    <filepath>/</filepath>
+    <filename>Report-Statistics.png</filename>
+    <userid>3</userid>
+    <filesize>71812</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406297103</timecreated>
+    <timemodified>1406297118</timemodified>
+    <source>Report-Statistics.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="222">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>74</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>57</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="223">
+    <contenthash>ba8c3f134212e0004bb002c1a282d9a636890ad0</contenthash>
+    <contextid>75</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>59</itemid>
+    <filepath>/</filepath>
+    <filename>Title-Latest News.png</filename>
+    <userid>3</userid>
+    <filesize>8667</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406597181</timecreated>
+    <timemodified>1406597636</timemodified>
+    <source>Title-Latest News.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="224">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>75</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>59</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="225">
+    <contenthash>2538f73cb56c54a2a56cec733d64de0e4accd4cf</contenthash>
+    <contextid>75</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>59</itemid>
+    <filepath>/</filepath>
+    <filename>Button-Add_Topic.png</filename>
+    <userid>3</userid>
+    <filesize>10279</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406597250</timecreated>
+    <timemodified>1406597636</timemodified>
+    <source>button-Add topic.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="226">
+    <contenthash>2cba7efd031a8f19a71895a2bad6c3ddbbc0f6a4</contenthash>
+    <contextid>75</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>59</itemid>
+    <filepath>/</filepath>
+    <filename>Block-Add_Topic.png</filename>
+    <userid>3</userid>
+    <filesize>10072</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406597320</timecreated>
+    <timemodified>1406597636</timemodified>
+    <source>Block-Add topic.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="227">
+    <contenthash>287c23b391386b1410ac4b5b0d6ae9d831646317</contenthash>
+    <contextid>75</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>59</itemid>
+    <filepath>/</filepath>
+    <filename>News-Message.png</filename>
+    <userid>3</userid>
+    <filesize>24384</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406597493</timecreated>
+    <timemodified>1406597636</timemodified>
+    <source>News-Message.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="228">
+    <contenthash>a5e052884b5c6386a87f2bd0bcb0b01608545fc0</contenthash>
+    <contextid>75</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>59</itemid>
+    <filepath>/</filepath>
+    <filename>News-Post_to_forum.png</filename>
+    <userid>3</userid>
+    <filesize>9582</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406597556</timecreated>
+    <timemodified>1406597636</timemodified>
+    <source>News-Post to forum.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="229">
+    <contenthash>e378df97ead1a3ca380b2eac22c6c1e939b87a89</contenthash>
+    <contextid>75</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>60</itemid>
+    <filepath>/</filepath>
+    <filename>News-Reading.png</filename>
+    <userid>3</userid>
+    <filesize>30251</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1406597849</timecreated>
+    <timemodified>1406597961</timemodified>
+    <source>News-Reading.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="230">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>75</contextid>
+    <component>mod_book</component>
+    <filearea>chapter</filearea>
+    <itemid>60</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="231">
+    <contenthash>a25502e9beeaf860d825d00b2ec884b7900e0f89</contenthash>
+    <contextid>76</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Announcement-Add_Link.png</filename>
+    <userid>3</userid>
+    <filesize>18874</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1407288191</timecreated>
+    <timemodified>1407288469</timemodified>
+    <source>Announcement-Add_Link.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="232">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>76</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="233">
+    <contenthash>c4c014c3d519d98ea9cff2b95193ac8f63e5faad</contenthash>
+    <contextid>76</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Announcement-New.png</filename>
+    <userid>3</userid>
+    <filesize>25987</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1407288337</timecreated>
+    <timemodified>1407288469</timemodified>
+    <source>Announcement-New.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="234">
+    <contenthash>7d4105688880e9ba9a15bbe1394789eb5af2d4a4</contenthash>
+    <contextid>77</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Forum-Title.png</filename>
+    <userid>3</userid>
+    <filesize>13695</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1407286783</timecreated>
+    <timemodified>1407287376</timemodified>
+    <source>Forum- Title.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="235">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>77</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="236">
+    <contenthash>1e53ef4849922c94c589fef52cff1519387461f5</contenthash>
+    <contextid>77</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Forum-Page.png</filename>
+    <userid>3</userid>
+    <filesize>64988</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1407286926</timecreated>
+    <timemodified>1407287376</timemodified>
+    <source>Forum-Page.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="237">
+    <contenthash>2f3f9178e68f41387584cf3bbca9fa552ca81e92</contenthash>
+    <contextid>77</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Forum-Post.png</filename>
+    <userid>3</userid>
+    <filesize>40566</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1407287272</timecreated>
+    <timemodified>1407287376</timemodified>
+    <source>Forum-Post.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="238">
+    <contenthash>1ea0e78398628acdcab848dde12cd943a477d810</contenthash>
+    <contextid>77</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Forum-Entry.png</filename>
+    <userid>3</userid>
+    <filesize>22447</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1407287493</timecreated>
+    <timemodified>1407287509</timemodified>
+    <source>Forum-Entry.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="239">
+    <contenthash>9d6f78db26a76d7a696c907afca3033f4ffc9e15</contenthash>
+    <contextid>44</contextid>
+    <component>question</component>
+    <filearea>questiontext</filearea>
+    <itemid>2</itemid>
+    <filepath>/</filepath>
+    <filename>Breadcrumbs.png</filename>
+    <userid>3</userid>
+    <filesize>38734</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405896860</timecreated>
+    <timemodified>1405897047</timemodified>
+    <source>Server files: Learning Moodle/Using Moodle/Breadcrumbs (Page)/Page content/Breadcrumbs.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="240">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>44</contextid>
+    <component>question</component>
+    <filearea>questiontext</filearea>
+    <itemid>2</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="241">
+    <contenthash>6c99800bca14a33590b48baeb6c8acf802708159</contenthash>
+    <contextid>44</contextid>
+    <component>question</component>
+    <filearea>questiontext</filearea>
+    <itemid>3</itemid>
+    <filepath>/</filepath>
+    <filename>Breadcrumbs.png</filename>
+    <userid>3</userid>
+    <filesize>24876</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405897158</timecreated>
+    <timemodified>1405897375</timemodified>
+    <source>Server files: Learning Moodle/Using Moodle/Breadcrumbs (Page)/Description/Breadcrumbs.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="242">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>44</contextid>
+    <component>question</component>
+    <filearea>questiontext</filearea>
+    <itemid>3</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1471136291</timecreated>
+    <timemodified>1471136291</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="243">
+    <contenthash>6c99800bca14a33590b48baeb6c8acf802708159</contenthash>
+    <contextid>44</contextid>
+    <component>question</component>
+    <filearea>questiontext</filearea>
+    <itemid>3</itemid>
+    <filepath>/</filepath>
+    <filename>Breadcrumbs (1).png</filename>
+    <userid>3</userid>
+    <filesize>24876</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405897521</timecreated>
+    <timemodified>1405897660</timemodified>
+    <source>Server files: Breadcrumbs.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="244">
+    <contenthash>9d6f78db26a76d7a696c907afca3033f4ffc9e15</contenthash>
+    <contextid>44</contextid>
+    <component>question</component>
+    <filearea>questiontext</filearea>
+    <itemid>3</itemid>
+    <filepath>/</filepath>
+    <filename>Breadcrumbs-plain.png</filename>
+    <userid>3</userid>
+    <filesize>38734</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405897571</timecreated>
+    <timemodified>1405897660</timemodified>
+    <source>Breadcrumbs.png</source>
+    <author>Troy Patterson</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+</files>

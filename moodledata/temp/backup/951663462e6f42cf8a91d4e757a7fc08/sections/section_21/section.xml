@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="21">
+  <number>7</number>
+  <name>Gradebook</name>
+  <summary>&lt;p&gt;Everything you need to know about the gradebook ....&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>25</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+</section>

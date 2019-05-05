@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="4" moduleid="18" modulename="book" contextid="66">
+  <book id="4">
+    <name>Folders - How to Guide</name>
+    <intro>&lt;h1&gt;Folders&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Folders are used for organizing material. Folders will generally hold documents. Many of these are used for Teacher resources. &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1406297783</timecreated>
+    <timemodified>1406553922</timemodified>
+    <chapters>
+      <chapter id="28">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Folders</title>
+        <content>&lt;h1&gt;Folders&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Folders can be used within Moodle to provide a way to organize material. Folders respond just like on any other computer system.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406553862</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="29">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>ATEP Use</title>
+        <content>&lt;h1&gt;ATEP Use&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Generally, folders within ATEP are used to provide additional Teacher notes and resources. The Feasibility Teacher should be very familiar with these. These will also be hidden from the students. &lt;/p&gt;
+&lt;p&gt;In the example below, note the Title "Teacher Notes and Resources" is grey and the eye is closed. This indicates that this item is hidden from student view. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Folders-Hidden.png" width="550" height="131" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;*&lt;strong&gt;Please be cautious NOT to click on the eye to open this to students. &lt;/strong&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406554230</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

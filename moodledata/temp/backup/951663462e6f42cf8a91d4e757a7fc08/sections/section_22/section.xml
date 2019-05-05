@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="22">
+  <number>8</number>
+  <name>Reports</name>
+  <summary>&lt;p&gt;Reports provide a lot of valuable information about your classes, and how your students are performing.  A powerful and easy to use tool!&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>26</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+</section>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module id="11" version="2016052300">
+  <modulename>book</modulename>
+  <sectionid>16</sectionid>
+  <sectionnumber>2</sectionnumber>
+  <idnumber></idnumber>
+  <added>1404412896</added>
+  <score>0</score>
+  <indent>0</indent>
+  <visible>1</visible>
+  <visibleold>1</visibleold>
+  <groupmode>0</groupmode>
+  <groupingid>0</groupingid>
+  <completion>1</completion>
+  <completiongradeitemnumber>$@NULL@$</completiongradeitemnumber>
+  <completionview>0</completionview>
+  <completionexpected>0</completionexpected>
+  <availability>{"op":"&amp;","c":[],"showc":[]}</availability>
+  <showdescription>0</showdescription>
+  <tags>
+  </tags>
+</module>

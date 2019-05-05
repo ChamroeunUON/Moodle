@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="23">
+  <number>9</number>
+  <name>Communication</name>
+  <summary>&lt;p&gt;Feasibility Teachers can quickly and easily communicate with student. Latest News can provide reminders, tips and tricks for the students. &lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>27,28,29</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+</section>

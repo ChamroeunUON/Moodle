@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="15">
+  <number>1</number>
+  <name>Getting Around Moodle</name>
+  <summary>&lt;p&gt;This section will help you learn what is what. Learn how to navigate, use Breadcrumbs, blocks and pages. &lt;span&gt;To get started, click on the &lt;span style="color: #000080;"&gt;&lt;strong&gt;Getting Around Moodle&lt;/strong&gt;&lt;/span&gt; above.     (&lt;/span&gt;&lt;i&gt;&lt;span style="text-decoration: underline;"&gt;This is a common practice in Moodle. Clicking on a topic title will take you to that topic&lt;/span&gt;&lt;/i&gt;&lt;span&gt;). &lt;/span&gt;&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>6,7,8,9</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+</section>

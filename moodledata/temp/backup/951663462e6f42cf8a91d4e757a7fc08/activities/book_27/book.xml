@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="11" moduleid="27" modulename="book" contextid="75">
+  <book id="11">
+    <name>Latest News</name>
+    <intro>&lt;p&gt;Learn how to use the Latest News to communicate with students. &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1406596570</timecreated>
+    <timemodified>1406596570</timemodified>
+    <chapters>
+      <chapter id="58">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Latest News</title>
+        <content>&lt;h1&gt;Latest News&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Latest News is a special form of a forum. Think of it as an easy way to make announcements. Only the Feasibility Teacher can post to this forum. Students are limited to reading the posts and can NOT respond. &lt;/p&gt;
+&lt;p&gt;Latest News should be found in two places- the very first section of the course and in a block to the right. The block to the right will display the latest five announcements. &lt;/p&gt;
+&lt;p&gt;This is a great way to remind students of upcoming assignments, provide them with tips and tricks, or motivational ideas. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406596966</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="59">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Adding an announcement</title>
+        <content>&lt;h1&gt;Adding an announcement&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;There are two ways to add an announcement. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Click on the "Add a new topic..." link in the Latest News block&lt;br /&gt;&lt;img src="@@PLUGINFILE@@/Block-Add_Topic.png" width="258" height="116" alt=" " style="border: 2px solid black;" /&gt;&lt;/li&gt;
+&lt;li&gt;Click on Latest News in the top general section, then click the "Add a new topic" button. &lt;br /&gt;&lt;img src="@@PLUGINFILE@@/Title-Latest%20News.png" width="122" height="37" alt=" " style="border: 2px solid black;" /&gt; -&amp;gt; &lt;img src="@@PLUGINFILE@@/Button-Add_Topic.png" width="145" height="44" alt=" " style="border: 2px solid black;" /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Either of these methods will take you to the same place. &lt;/p&gt;
+&lt;p&gt;Enter your Subject (Title) and then a message. (You can add an attachment too, if needed). The subject is what the students will actually see without clicking on anything. The more descriptive the better. &lt;/p&gt;
+&lt;p&gt;Scroll to the bottom and click "Post to forum". &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/News-Message.png" width="824" height="372" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/News-Post_to_forum.png" width="122" height="45" alt=" " style="border: 2px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;*&lt;strong&gt;&lt;em&gt;Note that everyone is subscribed to this forum. However, students may not have legitimate email addresses. They will see the Announcements in the Latest News block. &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406598041</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="60">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Viewing Announcements</title>
+        <content>&lt;h1&gt;Viewing Announcements&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Latest News block will be set to show the previous five posts. This means that students will see the titles of the last five announcements that have been published. When they click on the Title (Subject when composing the announcement), they can see the entire message. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/News-Reading.png" width="290" height="330" alt=" " style="border: 4px solid black;" /&gt;&lt;/p&gt;
+&lt;p&gt;Thus, in the example above, the subject of the latest announcement was "Added the news forum back into courses". Clicking on that title will take the students to read the actual message. &lt;/p&gt;
+&lt;p&gt;Also note that students can easily get to all of the messages by clicking on the "Older topics..." link. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1406597961</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

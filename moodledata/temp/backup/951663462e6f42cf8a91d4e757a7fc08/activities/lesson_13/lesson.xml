@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="3" moduleid="13" modulename="lesson" contextid="61">
+  <lesson id="3">
+    <course>2</course>
+    <name>Control What Students See</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>20</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>650</mediaheight>
+    <mediawidth>800</mediawidth>
+    <mediaclose>1</mediaclose>
+    <slideshow>0</slideshow>
+    <width>800</width>
+    <height>625</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1475501516</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <pages>
+      <page id="10">
+        <prevpageid>0</prevpageid>
+        <nextpageid>11</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1473623653</timecreated>
+        <timemodified>1474372476</timemodified>
+        <title>Teacher view vs Student view</title>
+        <contents>&lt;h3&gt;&lt;b&gt;&lt;span style="color: #333333;"&gt;Teacher view vs Student View&lt;/span&gt;&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Feasibility Teachers will see everything that is available within a course. Students will only see what the Feasibility Teacher allows students to see. &lt;/p&gt;
+&lt;p&gt;Let's compare a teacher view with a student view. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table frame="border" style="border: 1px solid #000000;"&gt;&lt;caption&gt;Course Views&lt;/caption&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;th scope="col"&gt;Student View&lt;/th&gt;&lt;th scope="col"&gt;Feasibility Teacher View&lt;/th&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/View-Student_Course_Material.png" alt="" width="743" height="585" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/View-Feasibility_Teacher_Course.png" alt="" width="729" height="647" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;Note in the above examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;The student is limited in what they see. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;The student does NOT see the folder "Section 1 Teacher Notes and Resources"&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;The Feasibility Teacher does see the folder &lt;/span&gt;&lt;span style="line-height: 25px;"&gt;"Section 1 Teacher Notes and Resources"&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;The student view ends with the first section. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;The Feasibility teacher view shows Section 2 (and much more, though not shown in the screen shot). &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;Additionally (though not shown in the screen shot), the Feasibility teacher will have the option to turn editing on. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="17">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473623653</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="11">
+        <prevpageid>10</prevpageid>
+        <nextpageid>12</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1473626239</timecreated>
+        <timemodified>1475339838</timemodified>
+        <title>Show/Hide</title>
+        <contents>&lt;h3&gt;&lt;b&gt;&lt;span style="color: #333333;"&gt;Using Show/Hide&lt;/span&gt;&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;One of the easiest ways to control what students see is to use the Show/Hide button to, well, Show or Hide material. Show/Hide can be used for whole sections or individual activities/resources. &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;In order to use Show/Hide, you must turn editing on. &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;There are two ways to turn editing on:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;&lt;b&gt;Use the "Turn editing on" button on the top right hand side of the page. This will be to the right of the Breadcrumbs. It looks like a pencil in a box with a green square.&lt;img src="@@PLUGINFILE@@/Icon-Editing.png" alt="" width="62" height="45" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" /&gt;(Once editing is turned on, it will turn to a red square to signify that if you click it, it will turn editing off). &lt;/b&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;&lt;b&gt;In the Administration block, under the Course administration link will be a Turn editing on link. (You may need to click the box to the right of the word Administration to reveal links in the block. Then click the Course administration link to reveal the links available in that folder). &lt;img src="@@PLUGINFILE@@/Block-Editing.png" width="249" height="139" role="presentation" style="vertical-align: text-top; margin: 0px 0.5em; border: 4px solid black;" class="img-responsive" /&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt; &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Once Editing is turned on, you will be able to use Show/Hide.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;b&gt;&lt;span style="color: #333333;"&gt;For a Section&lt;/span&gt; &lt;/b&gt;&lt;/h5&gt;
+&lt;p&gt;&lt;b&gt;You will see an eye to the right side of the Section. The eye will open (&lt;img src="@@PLUGINFILE@@/Icon-Eye_Open.png" alt="" width="30" height="20" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" /&gt;)if the information is being shown or closed (&lt;img src="@@PLUGINFILE@@/Icon-Eye_Closed.png" alt="" width="30" height="25" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" /&gt;) if the section is currently hidden. Clicking that icon will cycle through those options. &lt;/b&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;b&gt;&lt;span style="color: #333333;"&gt;For an Activity/Resource&lt;/span&gt;&lt;/b&gt;&lt;/h5&gt;
+&lt;p&gt;&lt;b&gt;You will see an edit link with a drop down menu. In that drop down, you will have a link to either Hide (if the item is being shown) or to Show (if the item is currently hidden). &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br /&gt; &lt;/b&gt;&lt;/p&gt;
+&lt;table border="4" frame="border" style="border: 4px solid #000000;"&gt;&lt;caption&gt;&lt;b&gt;Edit-Show/Hide Activities/Resources&lt;/b&gt;&lt;/caption&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;th scope="col"&gt;Currently visible&lt;/th&gt;&lt;th scope="col"&gt;Currently hidden&lt;/th&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt; Notice that the eye is open, indicating that the Activity is currently visible. Clicking on the word Hide will change the item to be hidden.&lt;/td&gt;
+&lt;td&gt; Notice that the eye is closed, indicating that the item is currently hidden. Clicking on the word Show will change the item to being visible. &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/Icon-Eye_Open2.png" width="75" height="33" alt=" " /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/Icon-Eye_Closed2.png" width="84" height="43" alt=" " /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;b&gt;&lt;br /&gt;Show/Hide is a great manual way to control what students can see. &lt;br /&gt; &lt;br /&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="18">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473626239</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="19">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473626239</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="12">
+        <prevpageid>11</prevpageid>
+        <nextpageid>13</nextpageid>
+        <qtype>2</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1473766536</timecreated>
+        <timemodified>1475373611</timemodified>
+        <title>Students and Teachers</title>
+        <contents>&lt;p&gt;As noted earlier there are several different roles within the ATEP Moodle installation. Two of those roles are Student and Feasibility Teacher. &lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="22">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>20</score>
+            <flags>0</flags>
+            <timecreated>1473766536</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Yes</answer_text>
+            <response>Correct. Feasibility Teachers will see everything available within the course. Students will only see the things that the Feasibility Teacher has made visible. </response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="23">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473766536</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>No</answer_text>
+            <response>Oops. Feasibility Teachers will see everything available within the course. Students will only see the things that the Feasibility Teacher has made visible. </response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="13">
+        <prevpageid>12</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1473721340</timecreated>
+        <timemodified>1471144548</timemodified>
+        <title>Hidden material</title>
+        <contents>&lt;p&gt;Some of the material within the ATEP courses is for use by the teacher only. This material has been hidden from students. These may be labelled "Teacher Resources" or "Instructor Notes". Hidden materials will be greyed out. The "Eye" at the end of the line will also be closed. See the example below:&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Hidden-Material2.png" width="704" height="112" alt=" " style="border: 4px solid black;"&gt;&lt;/p&gt;
+&lt;p&gt;In the example above, the students will be able to see:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Project Management - Resources&lt;/li&gt;
+&lt;li&gt;Project Management Quiz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;However, students will not be able to see the "Project Management - Instructor Notes". This is hidden from students and only available to the Feasibility teacher.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;*Take care to not click on the "Eye". Clicking on the "Eye" will Show the material to the students.&amp;nbsp;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;In an update to the structure of the course, we have moved to hiding this material by utilizing permissions. Thus, the folders and materials will NOT be hidden. There is no need to be concerned about selecting "show" or clicking on the eye icon. The material will show up for teachers like all other material. However, students will not see these materials.&amp;nbsp;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;To accomplish hiding the folder via permissions, open the folder that you want to change. In the Administration block, under Folder administration, select Permissions.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;img src="@@PLUGINFILE@@/Folder_permissions.png" alt="" width="322" height="284" role="presentation" style="vertical-align:text-bottom; margin: 0 .5em;" class="img-responsive"&gt;&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;A new screen will open where you can control which group of users sees the resource.&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;img src="@@PLUGINFILE@@/Folder_Permissions_List.png" alt="" width="1043" height="543" role="presentation" style="vertical-align:text-bottom; margin: 0 .5em;" class="img-responsive"&gt;&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;In this example, Guest and Student roles are prohibited from Viewing the folder content.&amp;nbsp;&lt;/i&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="20">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473721340</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="21">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1473721340</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

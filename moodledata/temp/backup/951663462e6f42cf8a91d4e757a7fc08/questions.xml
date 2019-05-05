@@ -1,0 +1,2070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="1">
+    <name>Default for Using Moodle</name>
+    <contextid>44</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>2</contextinstanceid>
+    <info>The default category for questions shared in context 'Using Moodle'.</info>
+    <infoformat>0</infoformat>
+    <stamp>fieldtest.techlit.org+140720225018+DGp6Jj</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="1">
+        <parent>0</parent>
+        <name>Why is Moodle so powerful?</name>
+        <questiontext>&lt;p&gt;Why is Moodle so powerful?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>essay</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140725181239+a2po8J</stamp>
+        <version>fieldtest.techlit.org+140725181239+L5LVSy</version>
+        <hidden>0</hidden>
+        <timecreated>1406311959</timecreated>
+        <timemodified>1406311959</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_essay_question>
+          <essay id="1">
+            <responseformat>editor</responseformat>
+            <responserequired>1</responserequired>
+            <responsefieldlines>15</responsefieldlines>
+            <attachments>0</attachments>
+            <attachmentsrequired>0</attachmentsrequired>
+            <graderinfo></graderinfo>
+            <graderinfoformat>1</graderinfoformat>
+            <responsetemplate></responsetemplate>
+            <responsetemplateformat>1</responsetemplateformat>
+          </essay>
+        </plugin_qtype_essay_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="2">
+    <name>Default for Learning Moodle</name>
+    <contextid>44</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>2</contextinstanceid>
+    <info>The default category for questions shared in context 'Learning Moodle'.</info>
+    <infoformat>0</infoformat>
+    <stamp>fieldtest.techlit.org+140720225018+1nM1EV</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="3">
+    <name>Navigation</name>
+    <contextid>44</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>2</contextinstanceid>
+    <info></info>
+    <infoformat>1</infoformat>
+    <stamp>fieldtest.techlit.org+140720225045+p1CFuO</stamp>
+    <parent>2</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="2">
+        <parent>0</parent>
+        <name>Breadcrumbs</name>
+        <questiontext>&lt;p&gt;The image below is an example of:&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Breadcrumbs.png" alt="" width="686" height="195" /&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Remember, this is the preferred way of navigating around Moodle.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140720225727+2PmGRR</stamp>
+        <version>fieldtest.techlit.org+140720225727+NM1PkI</version>
+        <hidden>0</hidden>
+        <timecreated>1405897047</timecreated>
+        <timemodified>1405897047</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="1">
+              <answertext>&lt;p&gt;Breadcrumbs&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Great Job!&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2">
+              <answertext>&lt;p&gt;Navigation block&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3">
+              <answertext>&lt;p&gt;Course administration&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4">
+              <answertext>&lt;p&gt;URL Links&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Please try again. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+          <question_hint id="1">
+            <hint>&lt;p&gt;Think of way to get back to where you started. &lt;/p&gt;</hint>
+            <hintformat>1</hintformat>
+            <shownumcorrect>0</shownumcorrect>
+            <clearwrong>0</clearwrong>
+            <options>$@NULL@$</options>
+          </question_hint>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="3">
+        <parent>0</parent>
+        <name>Going back to the course.</name>
+        <questiontext>&lt;p&gt;If you were on the page "COURSE ROLES" and wanted to get back to the previous page, which link would you click?&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Breadcrumbs-plain.png" alt="" width="686" height="195" /&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140720230255+1ECiXK</stamp>
+        <version>fieldtest.techlit.org+140720230740+QezWjS</version>
+        <hidden>0</hidden>
+        <timecreated>1405897375</timecreated>
+        <timemodified>1405897660</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="5">
+              <answertext>&lt;p&gt;HOME&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="6">
+              <answertext>&lt;p&gt;MY COURSES&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7">
+              <answertext>&lt;p&gt;LEARNING MOODLE&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="8">
+              <answertext>&lt;p&gt;USING MOODLE&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="2">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4">
+        <parent>0</parent>
+        <name>2 Ways of Navigating</name>
+        <questiontext>&lt;p&gt;What are the two basic ways of navigating around Moodle? (Select both). &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140720231913+WqGCzi</stamp>
+        <version>fieldtest.techlit.org+140810155213+jaVL1l</version>
+        <hidden>0</hidden>
+        <timecreated>1405898353</timecreated>
+        <timemodified>1407685933</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9">
+              <answertext>&lt;p&gt;Breadcrumbs&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="10">
+              <answertext>&lt;p&gt;Navigation block&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="11">
+              <answertext>&lt;p&gt;The browser back button&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.5000000</fraction>
+              <feedback>&lt;p&gt;Oops. Use the tools within Moodle. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="12">
+              <answertext>&lt;p&gt;Re-enter the URL&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="4">
+    <name>Roles</name>
+    <contextid>44</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>2</contextinstanceid>
+    <info></info>
+    <infoformat>1</infoformat>
+    <stamp>fieldtest.techlit.org+140720225101+3Z98WG</stamp>
+    <parent>2</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="5">
+        <parent>0</parent>
+        <name>Which role do teachers who are implementing ATEP have?</name>
+        <questiontext>&lt;p&gt;Which role do teachers who are implementing ATEP have?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140720233456+KKLLGY</stamp>
+        <version>fieldtest.techlit.org+140720233456+76mwVN</version>
+        <hidden>0</hidden>
+        <timecreated>1405899296</timecreated>
+        <timemodified>1405899296</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13">
+              <answertext>&lt;p&gt;Feasibility teacher&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="14">
+              <answertext>&lt;p&gt;Practicum Teacher&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="15">
+              <answertext>&lt;p&gt;Manager&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="16">
+              <answertext>&lt;p&gt;Teacher&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="4">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="6">
+        <parent>0</parent>
+        <name>Switching roles</name>
+        <questiontext>&lt;p&gt;Can a teacher switch to see "what a student sees"?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140720233705+5tr3K6</stamp>
+        <version>fieldtest.techlit.org+140720233705+bCcpXF</version>
+        <hidden>0</hidden>
+        <timecreated>1405899425</timecreated>
+        <timemodified>1405899425</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="17">
+              <answertext>&lt;p&gt;Yes. By using "Switch role to..." in the Administration block.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="18">
+              <answertext>&lt;p&gt;No. This is not possible.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="5">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="7">
+        <parent>0</parent>
+        <name>Which of the following is not a role within ATEP Moodle?</name>
+        <questiontext>&lt;p&gt;Which of the following is NOT a role within ATEP Moodle?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140720233940+73Jx1q</stamp>
+        <version>fieldtest.techlit.org+140720233940+bRExxc</version>
+        <hidden>0</hidden>
+        <timecreated>1405899580</timecreated>
+        <timemodified>1405899580</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="19">
+              <answertext>&lt;p&gt;Feasibility teacher&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="20">
+              <answertext>&lt;p&gt;Student&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="21">
+              <answertext>&lt;p&gt;Curriculum master&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="22">
+              <answertext>&lt;p&gt;Non-editing teacher&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="6">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="8">
+        <parent>0</parent>
+        <name>Feasibility teacher limits.</name>
+        <questiontext>&lt;p&gt;Which of the following are Feasibility teachers prevented from doing?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140720234153+Hi28Cn</stamp>
+        <version>fieldtest.techlit.org+140720234153+JDOMvB</version>
+        <hidden>0</hidden>
+        <timecreated>1405899713</timecreated>
+        <timemodified>1405899713</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="23">
+              <answertext>&lt;p&gt;Adding material to the course&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="24">
+              <answertext>&lt;p&gt;Grading students&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="25">
+              <answertext>&lt;p&gt;Hiding material from students&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="7">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="9">
+        <parent>0</parent>
+        <name>Non-editing teachers</name>
+        <questiontext>&lt;p&gt;Which of the following can Non-editing teachers do?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140720234537+sqPk9d</stamp>
+        <version>fieldtest.techlit.org+140720234537+1MH4MO</version>
+        <hidden>0</hidden>
+        <timecreated>1405899937</timecreated>
+        <timemodified>1405899937</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="26">
+              <answertext>&lt;p&gt;Grade students&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes. Non-editing teachers can help grade students. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="27">
+              <answertext>&lt;p&gt;Hide material from students&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Only Feasibility teachers, not non-editing teachers, can Show/Hide material from students. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="28">
+              <answertext>&lt;p&gt;Move material around&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Due to the nature of the program, neither Feasibility nor Non-editing teachers can do this. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="29">
+              <answertext>&lt;p&gt;Create additional material&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Due to the nature of the program, neither Feasibility nor Non-editing teachers can do this. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="8">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="5">
+    <name>Communication</name>
+    <contextid>44</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>2</contextinstanceid>
+    <info></info>
+    <infoformat>1</infoformat>
+    <stamp>fieldtest.techlit.org+140720225145+sFld0a</stamp>
+    <parent>2</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="6">
+    <name>Display</name>
+    <contextid>44</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>2</contextinstanceid>
+    <info></info>
+    <infoformat>1</infoformat>
+    <stamp>fieldtest.techlit.org+140720225156+cJxxdL</stamp>
+    <parent>2</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="7">
+    <name>Activities</name>
+    <contextid>44</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>2</contextinstanceid>
+    <info></info>
+    <infoformat>1</infoformat>
+    <stamp>fieldtest.techlit.org+140720225206+azzTzD</stamp>
+    <parent>2</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="8">
+    <name>Gradebook</name>
+    <contextid>44</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>2</contextinstanceid>
+    <info></info>
+    <infoformat>1</infoformat>
+    <stamp>fieldtest.techlit.org+140720225217+9WFTnk</stamp>
+    <parent>2</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="9">
+    <name>Reports</name>
+    <contextid>44</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>2</contextinstanceid>
+    <info></info>
+    <infoformat>1</infoformat>
+    <stamp>fieldtest.techlit.org+140720225227+rbCPNx</stamp>
+    <parent>2</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="10">
+    <name>Default for Navigation Assessment</name>
+    <contextid>57</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>9</contextinstanceid>
+    <info>The default category for questions shared in context 'Navigation Assessment'.</info>
+    <infoformat>0</infoformat>
+    <stamp>fieldtest.techlit.org+140720232544+m2aQqX</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="11">
+    <name>Default for Course Roles</name>
+    <contextid>60</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>12</contextinstanceid>
+    <info>The default category for questions shared in context 'Course Roles'.</info>
+    <infoformat>0</infoformat>
+    <stamp>fieldtest.techlit.org+140720233327+E26YqB</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="12">
+    <name>Display</name>
+    <contextid>44</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>2</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>fieldtest.techlit.org+140728135540+f3N28L</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="10">
+        <parent>0</parent>
+        <name>What can Feasibility Teachers see in an ATEP Moodle course?</name>
+        <questiontext>&lt;p&gt;What can Feasibility Teachers see in an ATEP Moodle course?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135540+jPD4IP</stamp>
+        <version>fieldtest.techlit.org+140728151821+8EqeMG</version>
+        <hidden>0</hidden>
+        <timecreated>1406555740</timecreated>
+        <timemodified>1406560701</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="30">
+              <answertext>everything</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="31">
+              <answertext>only what students see</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="32">
+              <answertext>only what is made visible</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="33">
+              <answertext>released items</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="9">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>0</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>0</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>0</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="11">
+        <parent>0</parent>
+        <name>What can students see in an ATEP Moodle course?</name>
+        <questiontext>&lt;p&gt;What can students see in an ATEP Moodle course?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135540+7xAyQI</stamp>
+        <version>fieldtest.techlit.org+140728151839+n1VwBD</version>
+        <hidden>0</hidden>
+        <timecreated>1406555740</timecreated>
+        <timemodified>1406560719</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="34">
+              <answertext>everything</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="35">
+              <answertext>only what students see</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="36">
+              <answertext>only what is made visible</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="37">
+              <answertext>released items</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="10">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>0</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>0</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>0</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="12">
+        <parent>0</parent>
+        <name>Feasibility Teachers limited in what they see in Moodle.</name>
+        <questiontext>&lt;p&gt;The Feasibility Teacher role is limited in what they see in Moodle.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135540+UqeDG9</stamp>
+        <version>fieldtest.techlit.org+140808224205+WThIVI</version>
+        <hidden>0</hidden>
+        <timecreated>1406555740</timecreated>
+        <timemodified>1407537725</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="38">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="39">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="1">
+            <trueanswer>38</trueanswer>
+            <falseanswer>39</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="13">
+        <parent>0</parent>
+        <name>In order to control whether something is shown or hidden, what is the first ...</name>
+        <questiontext>&lt;p&gt;In order to control whether something is shown or hidden, what is the first thing that a Feasibility Teacher must do?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135540+KKFWrB</stamp>
+        <version>fieldtest.techlit.org+140728151742+WpdfVa</version>
+        <hidden>0</hidden>
+        <timecreated>1406555740</timecreated>
+        <timemodified>1406560662</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="40">
+              <answertext>Turn editing on</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="41">
+              <answertext>Click on the word “Edit”,</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="42">
+              <answertext>Click on the word “Show” or “Hide”</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="43">
+              <answertext>Switch the view</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="11">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>0</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>0</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>0</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="14">
+        <parent>0</parent>
+        <name>An open eye means...</name>
+        <questiontext>&lt;p&gt;An open eye means...&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135540+v9e9U1</stamp>
+        <version>fieldtest.techlit.org+140728151628+e3ppRZ</version>
+        <hidden>0</hidden>
+        <timecreated>1406555740</timecreated>
+        <timemodified>1406560588</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="44">
+              <answertext>students can see that item</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="45">
+              <answertext>students can NOT see that item</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="46">
+              <answertext>the item is being monitored</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="47">
+              <answertext>the item can be edited</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="12">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>0</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>0</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>0</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="15">
+        <parent>0</parent>
+        <name>A closed eye means...</name>
+        <questiontext>&lt;p&gt;A closed eye means...&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135540+9lG6xD</stamp>
+        <version>fieldtest.techlit.org+140728151612+3NtVxj</version>
+        <hidden>0</hidden>
+        <timecreated>1406555740</timecreated>
+        <timemodified>1406560572</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="48">
+              <answertext>students can see that item</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="49">
+              <answertext>students can NOT see that item</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="50">
+              <answertext>the item is being monitored</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="51">
+              <answertext>the item can be edited</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="13">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>0</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>0</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>0</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="13">
+    <name>Activities</name>
+    <contextid>44</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>2</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>fieldtest.techlit.org+140728135623+LNzulP</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="16">
+        <parent>0</parent>
+        <name>In ATEP, it is very important to view the content ahead of time. This will ...</name>
+        <questiontext>In ATEP, it is very important to view the content ahead of time. This will provide the teacher with the knowledge of what content is covered and what pre-teaching may be necessary.</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+QiVjWP</stamp>
+        <version>fieldtest.techlit.org+140728135623+KCeg96</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406555783</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="52">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="53">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="2">
+            <trueanswer>52</trueanswer>
+            <falseanswer>53</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="17">
+        <parent>0</parent>
+        <name>The student view and the teacher view in the Lesson activity are exactly the ...</name>
+        <questiontext>The student view and the teacher view in the Lesson activity are exactly the same.</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+iKGuDs</stamp>
+        <version>fieldtest.techlit.org+140728135623+l94lsg</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406555783</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="54">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="55">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="3">
+            <trueanswer>54</trueanswer>
+            <falseanswer>55</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="18">
+        <parent>0</parent>
+        <name>The Lesson activity module can include quiz questions. One easy way to ...</name>
+        <questiontext>&lt;p&gt;The Lesson activity module can include quiz questions. One easy way to preview the questions is to use the Edit tab and which of the following sub-tabs?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+HgRjvg</stamp>
+        <version>fieldtest.techlit.org+140728151325+wKj22o</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406560405</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="56">
+              <answertext>Expanded</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="57">
+              <answertext>Collapsed</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="58">
+              <answertext>Reports</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="59">
+              <answertext>Quiz</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="14">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>0</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>0</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>0</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="19">
+        <parent>0</parent>
+        <name>One report that can be very powerful in the Lesson activity module is the ...</name>
+        <questiontext>&lt;p&gt;One report that can be very powerful in the Lesson activity module is the Overview Report. This will report how long each student spent on a Lesson activity. What can it mean if the student spent very little time on the Lesson assignment?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+ivozwK</stamp>
+        <version>fieldtest.techlit.org+140728151309+7PBs8V</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406560389</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="60">
+              <answertext>just clicked through without reading</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="61">
+              <answertext>student is psychic</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="62">
+              <answertext>student was carefully considering each word</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="15">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>0</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>0</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>0</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="20">
+        <parent>0</parent>
+        <name>If there are essays present in a Lesson activity, they be graded directly ...</name>
+        <questiontext>If there are essays present in a Lesson activity, they be graded directly through the Lesson activity.</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+3OPvgM</stamp>
+        <version>fieldtest.techlit.org+140728135623+RWld43</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406555783</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="63">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="64">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="4">
+            <trueanswer>63</trueanswer>
+            <falseanswer>64</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="21">
+        <parent>0</parent>
+        <name>Essays in the Lesson activity module can be graded through the gradebook.</name>
+        <questiontext>Essays in the Lesson activity module can be graded through the gradebook.</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+G0xyyQ</stamp>
+        <version>fieldtest.techlit.org+140728135623+fGV1QH</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406555783</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="65">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="66">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="5">
+            <trueanswer>65</trueanswer>
+            <falseanswer>66</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="22">
+        <parent>0</parent>
+        <name>The Assignment activity icon look like a hand holding a piece of paper.</name>
+        <questiontext>The Assignment activity icon look like a hand holding a piece of paper.</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+zbcJXO</stamp>
+        <version>fieldtest.techlit.org+140728135623+Dd6S7Q</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406555783</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="67">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="68">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="6">
+            <trueanswer>67</trueanswer>
+            <falseanswer>68</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="23">
+        <parent>0</parent>
+        <name>The Assignment activity allows students to write papers or turn in documents ...</name>
+        <questiontext>The Assignment activity allows students to write papers or turn in documents to the teacher by attaching them within Moodle.</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+cfEA62</stamp>
+        <version>fieldtest.techlit.org+140728135623+5yMGgr</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406555783</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="69">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="70">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="7">
+            <trueanswer>69</trueanswer>
+            <falseanswer>70</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="24">
+        <parent>0</parent>
+        <name>There are two ways for a student to turn in an attachment via the Assignment ...</name>
+        <questiontext>There are two ways for a student to turn in an attachment via the Assignment module.</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+z45wSW</stamp>
+        <version>fieldtest.techlit.org+140728135623+lO34rB</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406555783</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="71">
+              <answertext>Drag and Drop</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="72">
+              <answertext>use the File Submission link</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="73">
+              <answertext>Mental Telepathy</answertext>
+              <answerformat>0</answerformat>
+              <fraction>-1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="74">
+              <answertext>print it out</answertext>
+              <answerformat>0</answerformat>
+              <fraction>-1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="16">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>0</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>0</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>0</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="25">
+        <parent>0</parent>
+        <name>Once students submit an assignment, they may be able to change it and ...</name>
+        <questiontext>&lt;p&gt;Once students submit an assignment, they may be able to change it and resubmit until the Feasibility Teacher does this to the assignment.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+laqCuJ</stamp>
+        <version>fieldtest.techlit.org+140728151244+WNkxTY</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406560364</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="75">
+              <answertext>lock</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="76">
+              <answertext>grades</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="77">
+              <answertext>deletes</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="78">
+              <answertext>expunges</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="17">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>0</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>0</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>0</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="26">
+        <parent>0</parent>
+        <name>Using the LAE Grader, grades may be entering manually providing that...</name>
+        <questiontext>&lt;p&gt;Using the LAE Grader, grades may be entering manually providing that...&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+3fMGem</stamp>
+        <version>fieldtest.techlit.org+140728151347+aPr59k</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406560427</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="79">
+              <answertext>Turn editing on has been clicked</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="80">
+              <answertext>all assignments have been turned in</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="81">
+              <answertext>the gradebook is open</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="82">
+              <answertext>the assignments are hidden from students</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="18">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>0</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>0</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>0</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="27">
+        <parent>0</parent>
+        <name>In ATEP, what are folders mostly used for?</name>
+        <questiontext>&lt;p&gt;In ATEP, what are folders mostly used for?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+cnMzM8</stamp>
+        <version>fieldtest.techlit.org+140728151226+csryCI</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406560346</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="83">
+              <answertext>Teacher Resources</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="84">
+              <answertext>student thoughts</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="85">
+              <answertext>student resources</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="86">
+              <answertext>to provide feedback</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="19">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>0</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>0</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>0</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="28">
+        <parent>0</parent>
+        <name>Quizzes that are all multiple choice or True/False will be automatically ...</name>
+        <questiontext>Quizzes that are all multiple choice or True/False will be automatically graded and entered into the gradebook within Moodle.</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+U0wTHL</stamp>
+        <version>fieldtest.techlit.org+140728135623+M93ATB</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406555783</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="87">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="88">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="8">
+            <trueanswer>87</trueanswer>
+            <falseanswer>88</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="29">
+        <parent>0</parent>
+        <name>Feasibility Teachers have the ability to see each quiz question and the ...</name>
+        <questiontext>Feasibility Teachers have the ability to see each quiz question and the correct answer.</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+rYCJH7</stamp>
+        <version>fieldtest.techlit.org+140728135623+KCRVoi</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406555783</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="89">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="90">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="9">
+            <trueanswer>89</trueanswer>
+            <falseanswer>90</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="30">
+        <parent>0</parent>
+        <name>Essays in Moodle need to be graded how?</name>
+        <questiontext>&lt;p&gt;Essays in Moodle need to be graded how?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+me2dDN</stamp>
+        <version>fieldtest.techlit.org+140728151205+b2d3TB</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406560325</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="91">
+              <answertext>manually by the teacher</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="92">
+              <answertext>submitted to an online grader</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="93">
+              <answertext>peer reviewed by students</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="94">
+              <answertext>magically</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="20">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>0</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>0</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>0</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="31">
+        <parent>0</parent>
+        <name>The Glossary module provides students with definitions to important words.</name>
+        <questiontext>The Glossary module provides students with definitions to important words.</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+rRUJ7r</stamp>
+        <version>fieldtest.techlit.org+140728135623+N3Geh3</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406555783</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="95">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="96">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="10">
+            <trueanswer>95</trueanswer>
+            <falseanswer>96</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="32">
+        <parent>0</parent>
+        <name>The Glossary module can only be used to provide definitions by clicking on ...</name>
+        <questiontext>The Glossary module can only be used to provide definitions by clicking on the correct Glossary.</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>fieldtest.techlit.org+140728135623+m1wMlq</stamp>
+        <version>fieldtest.techlit.org+140728135623+wNzStC</version>
+        <hidden>0</hidden>
+        <timecreated>1406555783</timecreated>
+        <timemodified>1406555783</timemodified>
+        <createdby>3</createdby>
+        <modifiedby>3</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="97">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+            <answer id="98">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>0</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="11">
+            <trueanswer>97</trueanswer>
+            <falseanswer>98</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="14">
+    <name>Default for Display Quiz</name>
+    <contextid>62</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>14</contextinstanceid>
+    <info>The default category for questions shared in context 'Display Quiz'.</info>
+    <infoformat>0</infoformat>
+    <stamp>fieldtest.techlit.org+140728135915+iZ3HLc</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="15">
+    <name>Default for Activity Quiz</name>
+    <contextid>71</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>23</contextinstanceid>
+    <info>The default category for questions shared in context 'Activity Quiz'.</info>
+    <infoformat>0</infoformat>
+    <stamp>fieldtest.techlit.org+140728140013+tygwHX</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

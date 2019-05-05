@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="6" modulename="page" contextid="54">
+  <page id="1">
+    <name>Breadcrumbs</name>
+    <intro>&lt;p&gt;What are Breadcrumbs?&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h3&gt;&lt;b&gt;&lt;span style="color: #98ca3e;"&gt;Using Breadcrumbs&lt;/span&gt;&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="color: #98ca3e;"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;One powerful way to move around Moodle is using "breadcrumbs." These are the words under the navigation bar. &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Breadcrumbs.png" alt="" role="presentation" style="vertical-align: text-bottom; margin: 0 .5em;" class="img-responsive" height="195" width="686" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;In this example, the following are breadcrumbs:&lt;/p&gt;
+&lt;p&gt;&lt;span class="ling_word-collected"&gt;HOME&lt;/span&gt; / MY &lt;span class="ling_word-collected"&gt;COURSES&lt;/span&gt; / LEARNING MOODLE / USING MOODLE /  COURSE ROLES&lt;/p&gt;
+&lt;p&gt;Each of the words (breadcrumbs) between the &lt;strong&gt;/&lt;/strong&gt; symbol represent a level that you've moved through. Most of them can be clicked to take you back to that page. In this case:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;HOME would take you back to the Home page where you can see Available Courses&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;MY COURSES would take you back to the page of the courses for which you are currently enrolled&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;LEARNING MOODLE would take you to all of the courses in the Learning Moodle category&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;USING MOODLE would take you back to the main page of the course&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 25px;"&gt;COURSE ROLES is the page that you are on. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Breadcrumbs help let you know where you are. These are persistently available.  You can think of these as the path that you've taken to get where you are. They also provide a sense of place. They will also show you the structure of the course. &lt;/p&gt;
+&lt;p&gt;Using breadcrumbs is preferred over using the Back button on your web browser. &lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>7</revision>
+    <timemodified>1408104808</timemodified>
+  </page>
+</activity>

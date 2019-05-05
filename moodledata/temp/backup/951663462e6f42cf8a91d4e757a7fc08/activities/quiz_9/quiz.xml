@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="9" modulename="quiz" contextid="57">
+  <quiz id="1">
+    <name>Navigation Assessment</name>
+    <intro>&lt;p&gt;Please complete this assessment once you have read through the material above. &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>immediatefeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>1</attempts_number>
+    <attemptonlast>1</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>65552</reviewattempt>
+    <reviewcorrectness>65552</reviewcorrectness>
+    <reviewmarks>16</reviewmarks>
+    <reviewspecificfeedback>65552</reviewspecificfeedback>
+    <reviewgeneralfeedback>65552</reviewgeneralfeedback>
+    <reviewrightanswer>16</reviewrightanswer>
+    <reviewoverallfeedback>16</reviewoverallfeedback>
+    <questionsperpage>3</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>3.00000</sumgrades>
+    <grade>100.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1475373732</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionpass>0</completionpass>
+    <question_instances>
+      <question_instance id="1">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>4</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="2">
+        <slot>2</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="3">
+        <slot>3</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="1">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="1">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>101.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>
